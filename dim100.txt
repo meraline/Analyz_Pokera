@@ -1,0 +1,4468 @@
+PokerStars Hand #228182836411: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:46:28 MSK [2021/07/10 1:46:28 ET]
+Table '3227430197 1' 9-max Seat #4 is the button
+Seat 2: Luke141269 (3608 in chips)
+Seat 4: dimetruk (2175 in chips)
+Seat 9: gnella13 (7717 in chips)
+Luke141269: posts the ante 25
+dimetruk: posts the ante 25
+gnella13: posts the ante 25
+gnella13: posts small blind 200
+Luke141269: posts big blind 400
+*** HOLE CARDS ***
+Dealt to dimetruk [7h 7s]
+dimetruk: raises 1750 to 2150 and is all-in
+gnella13: raises 5542 to 7692 and is all-in
+Luke141269: folds
+Uncalled bet (5542) returned to gnella13
+*** FLOP *** [5h 2h Kc]
+*** TURN *** [5h 2h Kc] [3h]
+*** RIVER *** [5h 2h Kc 3h] [5c]
+*** SHOW DOWN ***
+gnella13: shows [Js Ah] (a pair of Fives)
+dimetruk: shows [7h 7s] (two pair, Sevens and Fives)
+dimetruk collected 4775 from pot
+*** SUMMARY ***
+Total pot 4775 | Rake 0
+Board [5h 2h Kc 3h 5c]
+Seat 2: Luke141269 (big blind) folded before Flop
+Seat 4: dimetruk (button) showed [7h 7s] and won (4775) with two pair, Sevens and Fives
+Seat 9: gnella13 (small blind) showed [Js Ah] and lost with a pair of Fives
+
+
+PokerStars Hand #228182839161: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:46:45 MSK [2021/07/10 1:46:45 ET]
+Table '3227430197 1' 9-max Seat #9 is the button
+Seat 2: Luke141269 (3183 in chips)
+Seat 4: dimetruk (4775 in chips)
+Seat 9: gnella13 (5542 in chips)
+Luke141269: posts the ante 25
+dimetruk: posts the ante 25
+gnella13: posts the ante 25
+Luke141269: posts small blind 200
+dimetruk: posts big blind 400
+*** HOLE CARDS ***
+Dealt to dimetruk [Ac 5h]
+gnella13: calls 400
+Luke141269: folds
+dimetruk: checks
+*** FLOP *** [Jd Qh Qc]
+dimetruk: checks
+gnella13: bets 400
+dimetruk: calls 400
+*** TURN *** [Jd Qh Qc] [6d]
+dimetruk: checks
+gnella13: checks
+*** RIVER *** [Jd Qh Qc 6d] [Kd]
+dimetruk: bets 938
+gnella13: calls 938
+*** SHOW DOWN ***
+dimetruk: shows [Ac 5h] (a pair of Queens)
+gnella13: shows [9c Tc] (a straight, Nine to King)
+gnella13 collected 3751 from pot
+*** SUMMARY ***
+Total pot 3751 | Rake 0
+Board [Jd Qh Qc 6d Kd]
+Seat 2: Luke141269 (small blind) folded before Flop
+Seat 4: dimetruk (big blind) showed [Ac 5h] and lost with a pair of Queens
+Seat 9: gnella13 (button) showed [9c Tc] and won (3751) with a straight, Nine to King
+
+
+PokerStars Hand #228182845929: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:47:30 MSK [2021/07/10 1:47:30 ET]
+Table '3227430197 1' 9-max Seat #9 is the button
+Seat 2: Luke141269 (2508 in chips)
+Seat 4: dimetruk (2762 in chips)
+Seat 9: gnella13 (8230 in chips)
+Luke141269: posts the ante 25
+dimetruk: posts the ante 25
+gnella13: posts the ante 25
+Luke141269: posts small blind 200
+dimetruk: posts big blind 400
+*** HOLE CARDS ***
+Dealt to dimetruk [5c 5s]
+gnella13: folds
+Luke141269: raises 2083 to 2483 and is all-in
+dimetruk: calls 2083
+*** FLOP *** [Td Kh Th]
+*** TURN *** [Td Kh Th] [2c]
+*** RIVER *** [Td Kh Th 2c] [Ad]
+*** SHOW DOWN ***
+Luke141269: shows [Tc 8s] (three of a kind, Tens)
+dimetruk: shows [5c 5s] (two pair, Tens and Fives)
+Luke141269 collected 5041 from pot
+*** SUMMARY ***
+Total pot 5041 | Rake 0
+Board [Td Kh Th 2c Ad]
+Seat 2: Luke141269 (small blind) showed [Tc 8s] and won (5041) with three of a kind, Tens
+Seat 4: dimetruk (big blind) showed [5c 5s] and lost with two pair, Tens and Fives
+Seat 9: gnella13 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #228182848632: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:47:48 MSK [2021/07/10 1:47:48 ET]
+Table '3227430197 1' 9-max Seat #2 is the button
+Seat 2: Luke141269 (5041 in chips)
+Seat 4: dimetruk (254 in chips)
+Seat 9: gnella13 (8205 in chips)
+Luke141269: posts the ante 25
+dimetruk: posts the ante 25
+gnella13: posts the ante 25
+dimetruk: posts small blind 200
+gnella13: posts big blind 400
+*** HOLE CARDS ***
+Dealt to dimetruk [4c 4s]
+Luke141269: folds
+dimetruk: calls 29 and is all-in
+Uncalled bet (171) returned to gnella13
+*** FLOP *** [3h 6d 7d]
+*** TURN *** [3h 6d 7d] [8d]
+*** RIVER *** [3h 6d 7d 8d] [6h]
+*** SHOW DOWN ***
+dimetruk: shows [4c 4s] (two pair, Sixes and Fours)
+gnella13: shows [Qc 7c] (two pair, Sevens and Sixes)
+gnella13 collected 533 from pot
+dimetruk finished the tournament in 3rd place and received $24.66.
+*** SUMMARY ***
+Total pot 533 | Rake 0
+Board [3h 6d 7d 8d 6h]
+Seat 2: Luke141269 (button) folded before Flop (didn't bet)
+Seat 4: dimetruk (small blind) showed [4c 4s] and lost with two pair, Sixes and Fours
+Seat 9: gnella13 (big blind) showed [Qc 7c] and won (533) with two pair, Sevens and Sixes
+
+
+PokerStars Hand #228242890835: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 21:25:36 MSK [2021/07/12 14:25:36 ET]
+Table '3228689682 1' 9-max Seat #1 is the button
+Seat 1: dimetruk (1500 in chips)
+Seat 2: Matrixxx47 (1500 in chips)
+Seat 3: Commercial1 (1500 in chips) is sitting out
+Seat 4: JonnyKilo (1500 in chips)
+Seat 5: daleaf54 (1500 in chips)
+Seat 6: Wlado0711 (1500 in chips)
+Seat 7: dclucasPS (1500 in chips)
+Seat 8: RaulG777 (1500 in chips)
+Seat 9: Latrell1988 (1500 in chips)
+dimetruk: posts the ante 3
+Matrixxx47: posts the ante 3
+Commercial1: posts the ante 3
+JonnyKilo: posts the ante 3
+daleaf54: posts the ante 3
+Wlado0711: posts the ante 3
+dclucasPS: posts the ante 3
+RaulG777: posts the ante 3
+Latrell1988: posts the ante 3
+Matrixxx47: posts small blind 10
+Commercial1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [9h 9s]
+JonnyKilo: folds
+daleaf54: raises 40 to 60
+Wlado0711: folds
+dclucasPS: folds
+RaulG777: folds
+Latrell1988: folds
+dimetruk: calls 60
+Matrixxx47: folds
+Commercial1: folds
+*** FLOP *** [As 4s Kc]
+daleaf54: bets 89
+dimetruk: folds
+Uncalled bet (89) returned to daleaf54
+daleaf54 collected 177 from pot
+daleaf54: doesn't show hand
+*** SUMMARY ***
+Total pot 177 | Rake 0
+Board [As 4s Kc]
+Seat 1: dimetruk (button) folded on the Flop
+Seat 2: Matrixxx47 (small blind) folded before Flop
+Seat 3: Commercial1 (big blind) folded before Flop
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 5: daleaf54 collected (177)
+Seat 6: Wlado0711 folded before Flop (didn't bet)
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 8: RaulG777 folded before Flop (didn't bet)
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243000314: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 21:29:53 MSK [2021/07/12 14:29:53 ET]
+Table '3228689682 1' 9-max Seat #8 is the button
+Seat 1: dimetruk (1259 in chips)
+Seat 2: Matrixxx47 (1526 in chips)
+Seat 3: Commercial1 (1449 in chips) is sitting out
+Seat 4: JonnyKilo (1813 in chips)
+Seat 5: daleaf54 (1566 in chips)
+Seat 6: Wlado0711 (1496 in chips)
+Seat 7: dclucasPS (1449 in chips)
+Seat 8: RaulG777 (1446 in chips)
+Seat 9: Latrell1988 (1496 in chips)
+dimetruk: posts the ante 3
+Matrixxx47: posts the ante 3
+Commercial1: posts the ante 3
+JonnyKilo: posts the ante 3
+daleaf54: posts the ante 3
+Wlado0711: posts the ante 3
+dclucasPS: posts the ante 3
+RaulG777: posts the ante 3
+Latrell1988: posts the ante 3
+Latrell1988: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Td 8d]
+Matrixxx47: folds
+Commercial1: folds
+JonnyKilo: folds
+daleaf54: folds
+Wlado0711: folds
+dclucasPS: raises 20 to 40
+RaulG777: folds
+Latrell1988: calls 30
+dimetruk: calls 20
+*** FLOP *** [Jc 4s 6d]
+Latrell1988: checks
+dimetruk: checks
+dclucasPS: bets 49
+Latrell1988: folds
+dimetruk: folds
+Uncalled bet (49) returned to dclucasPS
+dclucasPS collected 147 from pot
+dclucasPS: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [Jc 4s 6d]
+Seat 1: dimetruk (big blind) folded on the Flop
+Seat 2: Matrixxx47 folded before Flop (didn't bet)
+Seat 3: Commercial1 folded before Flop (didn't bet)
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 5: daleaf54 folded before Flop (didn't bet)
+Seat 6: Wlado0711 folded before Flop (didn't bet)
+Seat 7: dclucasPS collected (147)
+Seat 8: RaulG777 (button) folded before Flop (didn't bet)
+Seat 9: Latrell1988 (small blind) folded on the Flop
+
+
+PokerStars Hand #228243261953: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 21:39:14 MSK [2021/07/12 14:39:14 ET]
+Table '3228689682 1' 9-max Seat #8 is the button
+Seat 1: dimetruk (1178 in chips)
+Seat 2: Matrixxx47 (1980 in chips)
+Seat 3: Commercial1 (1388 in chips) is sitting out
+Seat 4: JonnyKilo (1794 in chips)
+Seat 5: daleaf54 (1576 in chips)
+Seat 6: Wlado0711 (1457 in chips)
+Seat 7: dclucasPS (1647 in chips)
+Seat 8: RaulG777 (1130 in chips)
+Seat 9: Latrell1988 (1350 in chips)
+dimetruk: posts the ante 4
+Matrixxx47: posts the ante 4
+Commercial1: posts the ante 4
+JonnyKilo: posts the ante 4
+daleaf54: posts the ante 4
+Wlado0711: posts the ante 4
+dclucasPS: posts the ante 4
+RaulG777: posts the ante 4
+Latrell1988: posts the ante 4
+Latrell1988: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [4c Ts]
+Matrixxx47: folds
+Commercial1: folds
+JonnyKilo: folds
+daleaf54: folds
+Wlado0711: folds
+dclucasPS: folds
+RaulG777: raises 45 to 75
+Latrell1988: folds
+dimetruk: calls 45
+*** FLOP *** [Ks 8s 9s]
+dimetruk: checks
+RaulG777: bets 66
+dimetruk: calls 66
+*** TURN *** [Ks 8s 9s] [9d]
+dimetruk: checks
+RaulG777: bets 110
+dimetruk: folds
+Uncalled bet (110) returned to RaulG777
+RaulG777 collected 333 from pot
+RaulG777: doesn't show hand
+*** SUMMARY ***
+Total pot 333 | Rake 0
+Board [Ks 8s 9s 9d]
+Seat 1: dimetruk (big blind) folded on the Turn
+Seat 2: Matrixxx47 folded before Flop (didn't bet)
+Seat 3: Commercial1 folded before Flop (didn't bet)
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 5: daleaf54 folded before Flop (didn't bet)
+Seat 6: Wlado0711 folded before Flop (didn't bet)
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 8: RaulG777 (button) collected (333)
+Seat 9: Latrell1988 (small blind) folded before Flop
+
+
+PokerStars Hand #228243482155: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level III (25/50) - 2021/07/12 21:47:16 MSK [2021/07/12 14:47:16 ET]
+Table '3228689682 1' 9-max Seat #1 is the button
+Seat 1: dimetruk (1002 in chips)
+Seat 2: Matrixxx47 (1209 in chips)
+Seat 3: Commercial1 (1297 in chips) is sitting out
+Seat 4: JonnyKilo (2660 in chips)
+Seat 5: daleaf54 (1626 in chips)
+Seat 6: Wlado0711 (1441 in chips)
+Seat 7: dclucasPS (1577 in chips)
+Seat 8: RaulG777 (1609 in chips)
+Seat 9: Latrell1988 (1079 in chips)
+dimetruk: posts the ante 6
+Matrixxx47: posts the ante 6
+Commercial1: posts the ante 6
+JonnyKilo: posts the ante 6
+daleaf54: posts the ante 6
+Wlado0711: posts the ante 6
+dclucasPS: posts the ante 6
+RaulG777: posts the ante 6
+Latrell1988: posts the ante 6
+Matrixxx47: posts small blind 25
+Commercial1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Kc As]
+JonnyKilo: folds
+daleaf54: raises 100 to 150
+Wlado0711: raises 1285 to 1435 and is all-in
+dclucasPS: folds
+RaulG777: folds
+Latrell1988: folds
+dimetruk: calls 996 and is all-in
+Matrixxx47: folds
+Commercial1: folds
+daleaf54: folds
+Uncalled bet (439) returned to Wlado0711
+*** FLOP *** [Td 6s 4c]
+*** TURN *** [Td 6s 4c] [8c]
+*** RIVER *** [Td 6s 4c 8c] [Jd]
+*** SHOW DOWN ***
+Wlado0711: shows [Ah Kh] (high card Ace)
+dimetruk: shows [Kc As] (high card Ace)
+Wlado0711 collected 1136 from pot
+dimetruk collected 1135 from pot
+*** SUMMARY ***
+Total pot 2271 | Rake 0
+Board [Td 6s 4c 8c Jd]
+Seat 1: dimetruk (button) showed [Kc As] and won (1135) with high card Ace
+Seat 2: Matrixxx47 (small blind) folded before Flop
+Seat 3: Commercial1 (big blind) folded before Flop
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 5: daleaf54 folded before Flop
+Seat 6: Wlado0711 showed [Ah Kh] and won (1136) with high card Ace
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 8: RaulG777 folded before Flop (didn't bet)
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243758142: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level IV (40/80) - 2021/07/12 21:58:25 MSK [2021/07/12 14:58:25 ET]
+Table '3228689682 1' 9-max Seat #3 is the button
+Seat 1: dimetruk (1222 in chips)
+Seat 3: Commercial1 (924 in chips) is sitting out
+Seat 4: JonnyKilo (1950 in chips)
+Seat 5: daleaf54 (1577 in chips)
+Seat 6: Wlado0711 (2292 in chips)
+Seat 7: dclucasPS (2589 in chips)
+Seat 8: RaulG777 (930 in chips)
+Seat 9: Latrell1988 (2016 in chips)
+dimetruk: posts the ante 10
+Commercial1: posts the ante 10
+JonnyKilo: posts the ante 10
+daleaf54: posts the ante 10
+Wlado0711: posts the ante 10
+dclucasPS: posts the ante 10
+RaulG777: posts the ante 10
+Latrell1988: posts the ante 10
+JonnyKilo: posts small blind 40
+daleaf54: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [Kc 2c]
+Wlado0711: folds
+dclucasPS: folds
+RaulG777: folds
+Latrell1988: folds
+dimetruk: raises 80 to 160
+Commercial1: folds
+JonnyKilo: folds
+daleaf54: calls 80
+*** FLOP *** [Qc Qh 2h]
+daleaf54: checks
+dimetruk: bets 120
+daleaf54: folds
+Uncalled bet (120) returned to dimetruk
+dimetruk collected 440 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 440 | Rake 0
+Board [Qc Qh 2h]
+Seat 1: dimetruk collected (440)
+Seat 3: Commercial1 (button) folded before Flop (didn't bet)
+Seat 4: JonnyKilo (small blind) folded before Flop
+Seat 5: daleaf54 (big blind) folded on the Flop
+Seat 6: Wlado0711 folded before Flop (didn't bet)
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 8: RaulG777 folded before Flop (didn't bet)
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243770985: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level IV (40/80) - 2021/07/12 21:59:03 MSK [2021/07/12 14:59:03 ET]
+Table '3228689682 1' 9-max Seat #4 is the button
+Seat 1: dimetruk (1492 in chips)
+Seat 3: Commercial1 (914 in chips) is sitting out
+Seat 4: JonnyKilo (1900 in chips)
+Seat 5: daleaf54 (1407 in chips)
+Seat 6: Wlado0711 (2282 in chips)
+Seat 7: dclucasPS (2579 in chips)
+Seat 8: RaulG777 (920 in chips)
+Seat 9: Latrell1988 (2006 in chips)
+dimetruk: posts the ante 10
+Commercial1: posts the ante 10
+JonnyKilo: posts the ante 10
+daleaf54: posts the ante 10
+Wlado0711: posts the ante 10
+dclucasPS: posts the ante 10
+RaulG777: posts the ante 10
+Latrell1988: posts the ante 10
+daleaf54: posts small blind 40
+Wlado0711: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [4c 4s]
+dclucasPS: folds
+RaulG777 is disconnected
+RaulG777 is connected
+RaulG777 is disconnected
+RaulG777 is connected
+RaulG777: folds
+Latrell1988: folds
+dimetruk: raises 80 to 160
+Commercial1: folds
+JonnyKilo: folds
+daleaf54: raises 160 to 320
+Wlado0711: folds
+dimetruk: calls 160
+*** FLOP *** [3c 8d 2s]
+daleaf54: checks
+dimetruk: checks
+*** TURN *** [3c 8d 2s] [Ks]
+daleaf54: bets 800
+dimetruk: folds
+Uncalled bet (800) returned to daleaf54
+daleaf54 collected 800 from pot
+daleaf54: doesn't show hand
+*** SUMMARY ***
+Total pot 800 | Rake 0
+Board [3c 8d 2s Ks]
+Seat 1: dimetruk folded on the Turn
+Seat 3: Commercial1 folded before Flop (didn't bet)
+Seat 4: JonnyKilo (button) folded before Flop (didn't bet)
+Seat 5: daleaf54 (small blind) collected (800)
+Seat 6: Wlado0711 (big blind) folded before Flop
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 8: RaulG777 folded before Flop (didn't bet)
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228244105734: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/12 22:11:20 MSK [2021/07/12 15:11:20 ET]
+Table '3228689682 1' 9-max Seat #1 is the button
+Seat 1: dimetruk (1276 in chips)
+Seat 4: JonnyKilo (2084 in chips)
+Seat 5: daleaf54 (1550 in chips)
+Seat 7: dclucasPS (3429 in chips)
+Seat 9: Latrell1988 (5161 in chips)
+dimetruk: posts the ante 15
+JonnyKilo: posts the ante 15
+daleaf54: posts the ante 15
+dclucasPS: posts the ante 15
+Latrell1988: posts the ante 15
+JonnyKilo: posts small blind 60
+daleaf54: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [9c 7c]
+dclucasPS: folds
+Latrell1988: folds
+dimetruk: raises 1141 to 1261 and is all-in
+JonnyKilo: folds
+daleaf54: calls 1141
+*** FLOP *** [4h 5h 8c]
+*** TURN *** [4h 5h 8c] [5c]
+*** RIVER *** [4h 5h 8c 5c] [7h]
+*** SHOW DOWN ***
+daleaf54: shows [9s As] (a pair of Fives)
+dimetruk: shows [9c 7c] (two pair, Sevens and Fives)
+dimetruk collected 2657 from pot
+*** SUMMARY ***
+Total pot 2657 | Rake 0
+Board [4h 5h 8c 5c 7h]
+Seat 1: dimetruk (button) showed [9c 7c] and won (2657) with two pair, Sevens and Fives
+Seat 4: JonnyKilo (small blind) folded before Flop
+Seat 5: daleaf54 (big blind) showed [9s As] and lost with a pair of Fives
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228244118113: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/12 22:11:46 MSK [2021/07/12 15:11:46 ET]
+Table '3228689682 1' 9-max Seat #4 is the button
+Seat 1: dimetruk (2657 in chips)
+Seat 4: JonnyKilo (2009 in chips)
+Seat 5: daleaf54 (274 in chips)
+Seat 7: dclucasPS (3414 in chips)
+Seat 9: Latrell1988 (5146 in chips)
+dimetruk: posts the ante 15
+JonnyKilo: posts the ante 15
+daleaf54: posts the ante 15
+dclucasPS: posts the ante 15
+Latrell1988: posts the ante 15
+daleaf54: posts small blind 60
+dclucasPS: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Kc 8c]
+Latrell1988: folds
+dimetruk: raises 120 to 240
+JonnyKilo: folds
+daleaf54: raises 19 to 259 and is all-in
+dclucasPS: calls 139
+dimetruk: calls 19
+*** FLOP *** [6d 3h 5d]
+dclucasPS: checks
+dimetruk: checks
+*** TURN *** [6d 3h 5d] [6h]
+dclucasPS: checks
+dimetruk: checks
+*** RIVER *** [6d 3h 5d 6h] [8h]
+dclucasPS: checks
+dimetruk: checks
+*** SHOW DOWN ***
+daleaf54: shows [5s 5h] (a full house, Fives full of Sixes)
+dclucasPS: mucks hand
+dimetruk: mucks hand
+daleaf54 collected 852 from pot
+*** SUMMARY ***
+Total pot 852 | Rake 0
+Board [6d 3h 5d 6h 8h]
+Seat 1: dimetruk mucked [Kc 8c]
+Seat 4: JonnyKilo (button) folded before Flop (didn't bet)
+Seat 5: daleaf54 (small blind) showed [5s 5h] and won (852) with a full house, Fives full of Sixes
+Seat 7: dclucasPS (big blind) mucked [Jc Ks]
+Seat 9: Latrell1988 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228244257884: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/12 22:16:37 MSK [2021/07/12 15:16:37 ET]
+Table '3228689682 1' 9-max Seat #7 is the button
+Seat 1: dimetruk (2368 in chips)
+Seat 4: JonnyKilo (3868 in chips)
+Seat 7: dclucasPS (1350 in chips)
+Seat 9: Latrell1988 (5914 in chips)
+dimetruk: posts the ante 20
+JonnyKilo: posts the ante 20
+dclucasPS: posts the ante 20
+Latrell1988: posts the ante 20
+Latrell1988: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [2s 6d]
+JonnyKilo: folds
+dclucasPS: folds
+Latrell1988: calls 80
+dimetruk: checks
+*** FLOP *** [2h 5s 8s]
+Latrell1988: checks
+dimetruk: bets 160
+Latrell1988: folds
+Uncalled bet (160) returned to dimetruk
+dimetruk collected 400 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [2h 5s 8s]
+Seat 1: dimetruk (big blind) collected (400)
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 7: dclucasPS (button) folded before Flop (didn't bet)
+Seat 9: Latrell1988 (small blind) folded on the Flop
+
+
+PokerStars Hand #228244311794: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/12 22:18:29 MSK [2021/07/12 15:18:29 ET]
+Table '3228689682 1' 9-max Seat #4 is the button
+Seat 1: dimetruk (2788 in chips)
+Seat 4: JonnyKilo (3568 in chips)
+Seat 7: dclucasPS (1450 in chips)
+Seat 9: Latrell1988 (5694 in chips)
+dimetruk: posts the ante 20
+JonnyKilo: posts the ante 20
+dclucasPS: posts the ante 20
+Latrell1988: posts the ante 20
+dclucasPS: posts small blind 80
+Latrell1988: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [Ad 8h]
+dimetruk: raises 160 to 320
+JonnyKilo: folds
+dclucasPS: folds
+Latrell1988: calls 160
+*** FLOP *** [Td 6c 4s]
+Latrell1988: checks
+dimetruk: bets 280
+Latrell1988: calls 280
+*** TURN *** [Td 6c 4s] [Ts]
+Latrell1988: checks
+dimetruk: checks
+*** RIVER *** [Td 6c 4s Ts] [5h]
+Latrell1988: checks
+dimetruk: checks
+*** SHOW DOWN ***
+Latrell1988: shows [6d 4d] (two pair, Tens and Sixes)
+dimetruk: mucks hand
+Latrell1988 collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0
+Board [Td 6c 4s Ts 5h]
+Seat 1: dimetruk mucked [Ad 8h]
+Seat 4: JonnyKilo (button) folded before Flop (didn't bet)
+Seat 7: dclucasPS (small blind) folded before Flop
+Seat 9: Latrell1988 (big blind) showed [6d 4d] and won (1360) with two pair, Tens and Sixes
+
+
+PokerStars Hand #228244354022: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/12 22:19:39 MSK [2021/07/12 15:19:39 ET]
+Table '3228689682 1' 9-max Seat #7 is the button
+Seat 1: dimetruk (2168 in chips)
+Seat 4: JonnyKilo (3548 in chips)
+Seat 7: dclucasPS (1350 in chips)
+Seat 9: Latrell1988 (6434 in chips)
+dimetruk: posts the ante 20
+JonnyKilo: posts the ante 20
+dclucasPS: posts the ante 20
+Latrell1988: posts the ante 20
+Latrell1988: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [As Kh]
+JonnyKilo: folds
+dclucasPS: raises 1170 to 1330 and is all-in
+Latrell1988: folds
+dimetruk: calls 1170
+*** FLOP *** [Qc 4h Kc]
+*** TURN *** [Qc 4h Kc] [Td]
+*** RIVER *** [Qc 4h Kc Td] [8d]
+*** SHOW DOWN ***
+dimetruk: shows [As Kh] (a pair of Kings)
+dclucasPS: shows [Ts Qd] (two pair, Queens and Tens)
+dclucasPS collected 2820 from pot
+*** SUMMARY ***
+Total pot 2820 | Rake 0
+Board [Qc 4h Kc Td 8d]
+Seat 1: dimetruk (big blind) showed [As Kh] and lost with a pair of Kings
+Seat 4: JonnyKilo folded before Flop (didn't bet)
+Seat 7: dclucasPS (button) showed [Ts Qd] and won (2820) with two pair, Queens and Tens
+Seat 9: Latrell1988 (small blind) folded before Flop
+
+
+PokerStars Hand #228244452800: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/12 22:23:00 MSK [2021/07/12 15:23:00 ET]
+Table '3228689682 1' 9-max Seat #9 is the button
+Seat 1: dimetruk (1458 in chips)
+Seat 4: JonnyKilo (3208 in chips)
+Seat 7: dclucasPS (2180 in chips)
+Seat 9: Latrell1988 (6654 in chips)
+dimetruk: posts the ante 20
+JonnyKilo: posts the ante 20
+dclucasPS: posts the ante 20
+Latrell1988: posts the ante 20
+dimetruk: posts small blind 80
+JonnyKilo: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [6c Kd]
+dclucasPS: folds
+Latrell1988: calls 160
+dimetruk: calls 80
+JonnyKilo: checks
+*** FLOP *** [5s Tc 3c]
+dimetruk: checks
+JonnyKilo: checks
+Latrell1988: checks
+*** TURN *** [5s Tc 3c] [Ts]
+dimetruk: checks
+JonnyKilo: bets 160
+Latrell1988: calls 160
+dimetruk: folds
+*** RIVER *** [5s Tc 3c Ts] [9d]
+JonnyKilo: checks
+Latrell1988: checks
+*** SHOW DOWN ***
+JonnyKilo: shows [6h 3s] (two pair, Tens and Threes)
+Latrell1988: mucks hand
+JonnyKilo collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0
+Board [5s Tc 3c Ts 9d]
+Seat 1: dimetruk (small blind) folded on the Turn
+Seat 4: JonnyKilo (big blind) showed [6h 3s] and won (880) with two pair, Tens and Threes
+Seat 7: dclucasPS folded before Flop (didn't bet)
+Seat 9: Latrell1988 (button) mucked [As 2s]
+
+
+PokerStars Hand #228244533753: Tournament #3228689682, $27.40+$2.60 USD Hold'em No Limit - Level VII (100/200) - 2021/07/12 22:25:46 MSK [2021/07/12 15:25:46 ET]
+Table '3228689682 1' 9-max Seat #4 is the button
+Seat 1: dimetruk (1258 in chips)
+Seat 4: JonnyKilo (3968 in chips)
+Seat 7: dclucasPS (1980 in chips)
+Seat 9: Latrell1988 (6294 in chips)
+dimetruk: posts the ante 25
+JonnyKilo: posts the ante 25
+dclucasPS: posts the ante 25
+Latrell1988: posts the ante 25
+dclucasPS: posts small blind 100
+Latrell1988: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dimetruk [Tc Kc]
+dimetruk: raises 1033 to 1233 and is all-in
+JonnyKilo: folds
+dclucasPS: folds
+Latrell1988: calls 1033
+*** FLOP *** [Ah Ac Qs]
+*** TURN *** [Ah Ac Qs] [3d]
+*** RIVER *** [Ah Ac Qs 3d] [5h]
+*** SHOW DOWN ***
+Latrell1988: shows [7d 7c] (two pair, Aces and Sevens)
+dimetruk: shows [Tc Kc] (a pair of Aces)
+Latrell1988 collected 2666 from pot
+dimetruk finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 2666 | Rake 0
+Board [Ah Ac Qs 3d 5h]
+Seat 1: dimetruk showed [Tc Kc] and lost with a pair of Aces
+Seat 4: JonnyKilo (button) folded before Flop (didn't bet)
+Seat 7: dclucasPS (small blind) folded before Flop
+Seat 9: Latrell1988 (big blind) showed [7d 7c] and won (2666) with two pair, Aces and Sevens
+
+
+PokerStars Hand #228242787040: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 21:21:32 MSK [2021/07/12 14:21:32 ET]
+Table '3228838622 1' 9-max Seat #1 is the button
+Seat 1: ABBYYjunior (1500 in chips)
+Seat 2: sas_2016335 (1500 in chips)
+Seat 3: dimetruk (1500 in chips)
+Seat 4: rabbahiff (1500 in chips)
+Seat 5: OhSeas (1500 in chips)
+Seat 6: Wolfffff (1500 in chips)
+Seat 7: SEREGA196914 (1500 in chips)
+Seat 8: dclucasPS (1500 in chips)
+Seat 9: Matrixxx47 (1500 in chips)
+ABBYYjunior: posts the ante 3
+sas_2016335: posts the ante 3
+dimetruk: posts the ante 3
+rabbahiff: posts the ante 3
+OhSeas: posts the ante 3
+Wolfffff: posts the ante 3
+SEREGA196914: posts the ante 3
+dclucasPS: posts the ante 3
+Matrixxx47: posts the ante 3
+sas_2016335: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [9d 9s]
+rabbahiff: folds
+OhSeas: folds
+Wolfffff: folds
+SEREGA196914: raises 30 to 50
+dclucasPS: folds
+Matrixxx47: folds
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: calls 30
+*** FLOP *** [6c 6s 6h]
+dimetruk: checks
+SEREGA196914: bets 45
+dimetruk: calls 45
+*** TURN *** [6c 6s 6h] [Js]
+dimetruk: checks
+SEREGA196914: bets 116
+dimetruk: calls 116
+*** RIVER *** [6c 6s 6h Js] [Qs]
+dimetruk: checks
+SEREGA196914: checks
+*** SHOW DOWN ***
+dimetruk: shows [9d 9s] (a full house, Sixes full of Nines)
+SEREGA196914: mucks hand
+dimetruk collected 459 from pot
+*** SUMMARY ***
+Total pot 459 | Rake 0
+Board [6c 6s 6h Js Qs]
+Seat 1: ABBYYjunior (button) folded before Flop (didn't bet)
+Seat 2: sas_2016335 (small blind) folded before Flop
+Seat 3: dimetruk (big blind) showed [9d 9s] and won (459) with a full house, Sixes full of Nines
+Seat 4: rabbahiff folded before Flop (didn't bet)
+Seat 5: OhSeas folded before Flop (didn't bet)
+Seat 6: Wolfffff folded before Flop (didn't bet)
+Seat 7: SEREGA196914 mucked [Ac Tc]
+Seat 8: dclucasPS folded before Flop (didn't bet)
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228242821515: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 21:22:54 MSK [2021/07/12 14:22:54 ET]
+Table '3228838622 1' 9-max Seat #2 is the button
+Seat 1: ABBYYjunior (1497 in chips)
+Seat 2: sas_2016335 (1487 in chips)
+Seat 3: dimetruk (1745 in chips)
+Seat 4: rabbahiff (1497 in chips)
+Seat 5: OhSeas (1497 in chips)
+Seat 6: Wolfffff (1497 in chips)
+Seat 7: SEREGA196914 (1286 in chips)
+Seat 8: dclucasPS (1497 in chips)
+Seat 9: Matrixxx47 (1497 in chips)
+ABBYYjunior: posts the ante 3
+sas_2016335: posts the ante 3
+dimetruk: posts the ante 3
+rabbahiff: posts the ante 3
+OhSeas: posts the ante 3
+Wolfffff: posts the ante 3
+SEREGA196914: posts the ante 3
+dclucasPS: posts the ante 3
+Matrixxx47: posts the ante 3
+dimetruk: posts small blind 10
+rabbahiff: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Js Qh]
+OhSeas: folds
+Wolfffff: folds
+SEREGA196914: folds
+dclucasPS: raises 20 to 40
+Matrixxx47: folds
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: calls 30
+rabbahiff: calls 20
+*** FLOP *** [3h Ah 2h]
+dimetruk: checks
+rabbahiff: bets 74
+dclucasPS: folds
+dimetruk: folds
+Uncalled bet (74) returned to rabbahiff
+rabbahiff collected 147 from pot
+rabbahiff: doesn't show hand
+*** SUMMARY ***
+Total pot 147 | Rake 0
+Board [3h Ah 2h]
+Seat 1: ABBYYjunior folded before Flop (didn't bet)
+Seat 2: sas_2016335 (button) folded before Flop (didn't bet)
+Seat 3: dimetruk (small blind) folded on the Flop
+Seat 4: rabbahiff (big blind) collected (147)
+Seat 5: OhSeas folded before Flop (didn't bet)
+Seat 6: Wolfffff folded before Flop (didn't bet)
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS folded on the Flop
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243167376: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 21:35:37 MSK [2021/07/12 14:35:37 ET]
+Table '3228838622 1' 9-max Seat #5 is the button
+Seat 1: ABBYYjunior (997 in chips)
+Seat 2: sas_2016335 (1435 in chips)
+Seat 3: dimetruk (1571 in chips)
+Seat 4: rabbahiff (1290 in chips)
+Seat 5: OhSeas (3444 in chips)
+Seat 7: SEREGA196914 (1238 in chips)
+Seat 8: dclucasPS (2124 in chips)
+Seat 9: Matrixxx47 (1401 in chips)
+ABBYYjunior: posts the ante 4
+sas_2016335: posts the ante 4
+dimetruk: posts the ante 4
+rabbahiff: posts the ante 4
+OhSeas: posts the ante 4
+SEREGA196914: posts the ante 4
+dclucasPS: posts the ante 4
+Matrixxx47: posts the ante 4
+SEREGA196914: posts small blind 15
+dclucasPS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [6c 6s]
+Matrixxx47: folds
+ABBYYjunior: raises 30 to 60
+sas_2016335: folds
+dimetruk: calls 60
+rabbahiff: folds
+OhSeas: folds
+SEREGA196914: folds
+dclucasPS: folds
+*** FLOP *** [Jc Ks 7h]
+ABBYYjunior: bets 69
+dimetruk: folds
+Uncalled bet (69) returned to ABBYYjunior
+ABBYYjunior collected 197 from pot
+ABBYYjunior: doesn't show hand
+*** SUMMARY ***
+Total pot 197 | Rake 0
+Board [Jc Ks 7h]
+Seat 1: ABBYYjunior collected (197)
+Seat 2: sas_2016335 folded before Flop (didn't bet)
+Seat 3: dimetruk folded on the Flop
+Seat 4: rabbahiff folded before Flop (didn't bet)
+Seat 5: OhSeas (button) folded before Flop (didn't bet)
+Seat 7: SEREGA196914 (small blind) folded before Flop
+Seat 8: dclucasPS (big blind) folded before Flop
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243191918: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 21:36:34 MSK [2021/07/12 14:36:34 ET]
+Table '3228838622 1' 9-max Seat #7 is the button
+Seat 1: ABBYYjunior (1130 in chips)
+Seat 2: sas_2016335 (1431 in chips)
+Seat 3: dimetruk (1507 in chips)
+Seat 4: rabbahiff (1286 in chips)
+Seat 5: OhSeas (3440 in chips)
+Seat 7: SEREGA196914 (1219 in chips)
+Seat 8: dclucasPS (2090 in chips)
+Seat 9: Matrixxx47 (1397 in chips)
+ABBYYjunior: posts the ante 4
+sas_2016335: posts the ante 4
+dimetruk: posts the ante 4
+rabbahiff: posts the ante 4
+OhSeas: posts the ante 4
+SEREGA196914: posts the ante 4
+dclucasPS: posts the ante 4
+Matrixxx47: posts the ante 4
+dclucasPS: posts small blind 15
+Matrixxx47: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [2c 2h]
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: raises 30 to 60
+rabbahiff: folds
+OhSeas: calls 60
+SEREGA196914: folds
+dclucasPS: folds
+Matrixxx47: calls 30
+*** FLOP *** [9h Qd 2d]
+Matrixxx47: checks
+dimetruk: bets 114
+OhSeas: folds
+Matrixxx47: folds
+Uncalled bet (114) returned to dimetruk
+dimetruk collected 227 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 227 | Rake 0
+Board [9h Qd 2d]
+Seat 1: ABBYYjunior folded before Flop (didn't bet)
+Seat 2: sas_2016335 folded before Flop (didn't bet)
+Seat 3: dimetruk collected (227)
+Seat 4: rabbahiff folded before Flop (didn't bet)
+Seat 5: OhSeas folded on the Flop
+Seat 7: SEREGA196914 (button) folded before Flop (didn't bet)
+Seat 8: dclucasPS (small blind) folded before Flop
+Seat 9: Matrixxx47 (big blind) folded on the Flop
+
+
+PokerStars Hand #228243304742: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 21:40:51 MSK [2021/07/12 14:40:51 ET]
+Table '3228838622 1' 9-max Seat #3 is the button
+Seat 1: ABBYYjunior (1334 in chips)
+Seat 2: sas_2016335 (1509 in chips)
+Seat 3: dimetruk (1746 in chips)
+Seat 4: rabbahiff (1236 in chips)
+Seat 5: OhSeas (3360 in chips)
+Seat 7: SEREGA196914 (1133 in chips)
+Seat 8: dclucasPS (1880 in chips)
+Seat 9: Matrixxx47 (1302 in chips)
+ABBYYjunior: posts the ante 4
+sas_2016335: posts the ante 4
+dimetruk: posts the ante 4
+rabbahiff: posts the ante 4
+OhSeas: posts the ante 4
+SEREGA196914: posts the ante 4
+dclucasPS: posts the ante 4
+Matrixxx47: posts the ante 4
+rabbahiff: posts small blind 15
+OhSeas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [8c Kh]
+SEREGA196914: folds
+dclucasPS: folds
+Matrixxx47: folds
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: raises 30 to 60
+rabbahiff: calls 45
+OhSeas: folds
+*** FLOP *** [5h 7c Qh]
+rabbahiff: checks
+dimetruk: bets 64
+rabbahiff: folds
+Uncalled bet (64) returned to dimetruk
+dimetruk collected 182 from pot
+*** SUMMARY ***
+Total pot 182 | Rake 0
+Board [5h 7c Qh]
+Seat 1: ABBYYjunior folded before Flop (didn't bet)
+Seat 2: sas_2016335 folded before Flop (didn't bet)
+Seat 3: dimetruk (button) collected (182)
+Seat 4: rabbahiff (small blind) folded on the Flop
+Seat 5: OhSeas (big blind) folded before Flop
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS folded before Flop (didn't bet)
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243465943: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level III (25/50) - 2021/07/12 21:46:39 MSK [2021/07/12 14:46:39 ET]
+Table '3228838622 1' 9-max Seat #1 is the button
+Seat 1: ABBYYjunior (1537 in chips)
+Seat 2: sas_2016335 (1798 in chips)
+Seat 3: dimetruk (1834 in chips)
+Seat 4: rabbahiff (1142 in chips)
+Seat 5: OhSeas (3078 in chips)
+Seat 7: SEREGA196914 (1024 in chips)
+Seat 8: dclucasPS (1771 in chips)
+Seat 9: Matrixxx47 (1316 in chips)
+ABBYYjunior: posts the ante 6
+sas_2016335: posts the ante 6
+dimetruk: posts the ante 6
+rabbahiff: posts the ante 6
+OhSeas: posts the ante 6
+SEREGA196914: posts the ante 6
+dclucasPS: posts the ante 6
+Matrixxx47: posts the ante 6
+sas_2016335: posts small blind 25
+dimetruk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Kh 5d]
+rabbahiff: folds
+OhSeas: calls 50
+SEREGA196914: folds
+dclucasPS: calls 50
+Matrixxx47: folds
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: checks
+*** FLOP *** [Ts 3c 5c]
+dimetruk: checks
+OhSeas: checks
+dclucasPS: bets 74
+dimetruk: calls 74
+OhSeas: folds
+*** TURN *** [Ts 3c 5c] [6h]
+dimetruk: checks
+dclucasPS: checks
+*** RIVER *** [Ts 3c 5c 6h] [Qc]
+dimetruk: bets 250
+dclucasPS: folds
+Uncalled bet (250) returned to dimetruk
+dimetruk collected 371 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 371 | Rake 0
+Board [Ts 3c 5c 6h Qc]
+Seat 1: ABBYYjunior (button) folded before Flop (didn't bet)
+Seat 2: sas_2016335 (small blind) folded before Flop
+Seat 3: dimetruk (big blind) collected (371)
+Seat 4: rabbahiff folded before Flop (didn't bet)
+Seat 5: OhSeas folded on the Flop
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS folded on the River
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243516684: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level III (25/50) - 2021/07/12 21:48:33 MSK [2021/07/12 14:48:33 ET]
+Table '3228838622 1' 9-max Seat #3 is the button
+Seat 1: ABBYYjunior (1525 in chips)
+Seat 2: sas_2016335 (1761 in chips)
+Seat 3: dimetruk (2044 in chips)
+Seat 4: rabbahiff (118 in chips)
+Seat 5: OhSeas (3016 in chips)
+Seat 7: SEREGA196914 (2097 in chips)
+Seat 8: dclucasPS (1635 in chips)
+Seat 9: Matrixxx47 (1304 in chips)
+ABBYYjunior: posts the ante 6
+sas_2016335: posts the ante 6
+dimetruk: posts the ante 6
+rabbahiff: posts the ante 6
+OhSeas: posts the ante 6
+SEREGA196914: posts the ante 6
+dclucasPS: posts the ante 6
+Matrixxx47: posts the ante 6
+rabbahiff: posts small blind 25
+OhSeas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Th Ks]
+SEREGA196914: folds
+dclucasPS: folds
+Matrixxx47: folds
+ABBYYjunior: folds
+sas_2016335: folds
+dimetruk: raises 50 to 100
+rabbahiff: raises 12 to 112 and is all-in
+OhSeas: calls 62
+dimetruk: calls 12
+*** FLOP *** [5h Ac Qc]
+OhSeas: checks
+dimetruk: bets 134
+OhSeas: calls 134
+*** TURN *** [5h Ac Qc] [Js]
+OhSeas: checks
+dimetruk: bets 375
+OhSeas: folds
+Uncalled bet (375) returned to dimetruk
+*** RIVER *** [5h Ac Qc Js] [6d]
+*** SHOW DOWN ***
+dimetruk: shows [Th Ks] (a straight, Ten to Ace)
+dimetruk collected 268 from side pot
+rabbahiff: shows [5d 6c] (two pair, Sixes and Fives)
+dimetruk collected 384 from main pot
+rabbahiff finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 652 Main pot 384. Side pot 268. | Rake 0
+Board [5h Ac Qc Js 6d]
+Seat 1: ABBYYjunior folded before Flop (didn't bet)
+Seat 2: sas_2016335 folded before Flop (didn't bet)
+Seat 3: dimetruk (button) showed [Th Ks] and won (652) with a straight, Ten to Ace
+Seat 4: rabbahiff (small blind) showed [5d 6c] and lost with two pair, Sixes and Fives
+Seat 5: OhSeas (big blind) folded on the Turn
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS folded before Flop (didn't bet)
+Seat 9: Matrixxx47 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243612222: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level IV (40/80) - 2021/07/12 21:52:08 MSK [2021/07/12 14:52:08 ET]
+Table '3228838622 1' 9-max Seat #9 is the button
+Seat 1: ABBYYjunior (1417 in chips)
+Seat 3: dimetruk (2422 in chips)
+Seat 5: OhSeas (2662 in chips)
+Seat 7: SEREGA196914 (4021 in chips)
+Seat 8: dclucasPS (1792 in chips)
+Seat 9: Matrixxx47 (1186 in chips)
+ABBYYjunior: posts the ante 10
+dimetruk: posts the ante 10
+OhSeas: posts the ante 10
+SEREGA196914: posts the ante 10
+dclucasPS: posts the ante 10
+Matrixxx47: posts the ante 10
+ABBYYjunior: posts small blind 40
+dimetruk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [Qs Kh]
+OhSeas: folds
+SEREGA196914: raises 120 to 200
+dclucasPS: folds
+Matrixxx47: folds
+ABBYYjunior: folds
+dimetruk: calls 120
+*** FLOP *** [8s 2h 6c]
+dimetruk: checks
+SEREGA196914: checks
+*** TURN *** [8s 2h 6c] [4s]
+dimetruk: bets 175
+SEREGA196914: calls 175
+*** RIVER *** [8s 2h 6c 4s] [3d]
+dimetruk: bets 578
+SEREGA196914: folds
+Uncalled bet (578) returned to dimetruk
+dimetruk collected 850 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [8s 2h 6c 4s 3d]
+Seat 1: ABBYYjunior (small blind) folded before Flop
+Seat 3: dimetruk (big blind) collected (850)
+Seat 5: OhSeas folded before Flop (didn't bet)
+Seat 7: SEREGA196914 folded on the River
+Seat 8: dclucasPS folded before Flop (didn't bet)
+Seat 9: Matrixxx47 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243696831: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level IV (40/80) - 2021/07/12 21:55:24 MSK [2021/07/12 14:55:24 ET]
+Table '3228838622 1' 9-max Seat #9 is the button
+Seat 1: ABBYYjunior (1597 in chips)
+Seat 3: dimetruk (2977 in chips)
+Seat 5: OhSeas (2662 in chips)
+Seat 7: SEREGA196914 (3646 in chips)
+Seat 8: dclucasPS (1612 in chips)
+Seat 9: Matrixxx47 (1006 in chips)
+ABBYYjunior: posts the ante 10
+dimetruk: posts the ante 10
+OhSeas: posts the ante 10
+SEREGA196914: posts the ante 10
+dclucasPS: posts the ante 10
+Matrixxx47: posts the ante 10
+ABBYYjunior: posts small blind 40
+dimetruk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [3h Kh]
+OhSeas: calls 80
+SEREGA196914: folds
+dclucasPS: folds
+Matrixxx47: folds
+ABBYYjunior: calls 40
+dimetruk: checks
+*** FLOP *** [7c 5c 8d]
+ABBYYjunior: checks
+dimetruk: checks
+OhSeas: bets 300
+ABBYYjunior: raises 1207 to 1507 and is all-in
+dimetruk: folds
+OhSeas: calls 1207
+*** TURN *** [7c 5c 8d] [3d]
+*** RIVER *** [7c 5c 8d 3d] [Td]
+*** SHOW DOWN ***
+ABBYYjunior: shows [6c 9c] (a straight, Six to Ten)
+OhSeas: shows [8c Ah] (a pair of Eights)
+ABBYYjunior collected 3314 from pot
+*** SUMMARY ***
+Total pot 3314 | Rake 0
+Board [7c 5c 8d 3d Td]
+Seat 1: ABBYYjunior (small blind) showed [6c 9c] and won (3314) with a straight, Six to Ten
+Seat 3: dimetruk (big blind) folded on the Flop
+Seat 5: OhSeas showed [8c Ah] and lost with a pair of Eights
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS folded before Flop (didn't bet)
+Seat 9: Matrixxx47 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #228243788590: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level IV (40/80) - 2021/07/12 21:59:55 MSK [2021/07/12 14:59:55 ET]
+Table '3228838622 1' 9-max Seat #8 is the button
+Seat 1: ABBYYjunior (5337 in chips)
+Seat 3: dimetruk (2697 in chips)
+Seat 7: SEREGA196914 (3318 in chips)
+Seat 8: dclucasPS (2148 in chips)
+ABBYYjunior: posts the ante 10
+dimetruk: posts the ante 10
+SEREGA196914: posts the ante 10
+dclucasPS: posts the ante 10
+ABBYYjunior: posts small blind 40
+dimetruk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [Jh 8h]
+SEREGA196914: folds
+dclucasPS: raises 80 to 160
+ABBYYjunior: folds
+dimetruk: calls 80
+*** FLOP *** [Tc 3d 4d]
+dimetruk: checks
+dclucasPS: bets 132
+dimetruk: folds
+Uncalled bet (132) returned to dclucasPS
+dclucasPS collected 400 from pot
+dclucasPS: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [Tc 3d 4d]
+Seat 1: ABBYYjunior (small blind) folded before Flop
+Seat 3: dimetruk (big blind) folded on the Flop
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS (button) collected (400)
+
+
+PokerStars Hand #228243855576: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level V (60/120) - 2021/07/12 22:02:28 MSK [2021/07/12 15:02:28 ET]
+Table '3228838622 1' 9-max Seat #7 is the button
+Seat 1: ABBYYjunior (5312 in chips)
+Seat 3: dimetruk (2232 in chips)
+Seat 7: SEREGA196914 (3573 in chips)
+Seat 8: dclucasPS (2383 in chips)
+ABBYYjunior: posts the ante 15
+dimetruk: posts the ante 15
+SEREGA196914: posts the ante 15
+dclucasPS: posts the ante 15
+dclucasPS: posts small blind 60
+ABBYYjunior: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Ac 4d]
+dimetruk: raises 120 to 240
+SEREGA196914: folds
+dclucasPS: folds
+ABBYYjunior: calls 120
+*** FLOP *** [Ks 3d 4c]
+ABBYYjunior: checks
+dimetruk: bets 210
+ABBYYjunior: folds
+Uncalled bet (210) returned to dimetruk
+dimetruk collected 600 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [Ks 3d 4c]
+Seat 1: ABBYYjunior (big blind) folded on the Flop
+Seat 3: dimetruk collected (600)
+Seat 7: SEREGA196914 (button) folded before Flop (didn't bet)
+Seat 8: dclucasPS (small blind) folded before Flop
+
+
+PokerStars Hand #228243865567: Tournament #3228838622, $13.70+$1.30 USD Hold'em No Limit - Level V (60/120) - 2021/07/12 22:02:50 MSK [2021/07/12 15:02:50 ET]
+Table '3228838622 1' 9-max Seat #8 is the button
+Seat 1: ABBYYjunior (5057 in chips)
+Seat 3: dimetruk (2577 in chips)
+Seat 7: SEREGA196914 (3558 in chips)
+Seat 8: dclucasPS (2308 in chips)
+ABBYYjunior: posts the ante 15
+dimetruk: posts the ante 15
+SEREGA196914: posts the ante 15
+dclucasPS: posts the ante 15
+ABBYYjunior: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Jd Jc]
+SEREGA196914: folds
+dclucasPS: raises 120 to 240
+ABBYYjunior: raises 4802 to 5042 and is all-in
+dimetruk: calls 2442 and is all-in
+dclucasPS: folds
+Uncalled bet (2480) returned to ABBYYjunior
+*** FLOP *** [3h 6c Kc]
+*** TURN *** [3h 6c Kc] [Ah]
+*** RIVER *** [3h 6c Kc Ah] [7h]
+*** SHOW DOWN ***
+ABBYYjunior: shows [Jh Ks] (a pair of Kings)
+dimetruk: shows [Jd Jc] (a pair of Jacks)
+ABBYYjunior collected 5424 from pot
+dimetruk finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 5424 | Rake 0
+Board [3h 6c Kc Ah 7h]
+Seat 1: ABBYYjunior (small blind) showed [Jh Ks] and won (5424) with a pair of Kings
+Seat 3: dimetruk (big blind) showed [Jd Jc] and lost with a pair of Jacks
+Seat 7: SEREGA196914 folded before Flop (didn't bet)
+Seat 8: dclucasPS (button) folded before Flop
+
+
+PokerStars Hand #228244923598: Tournament #3228886942, $13.70+$1.30 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 22:38:53 MSK [2021/07/12 15:38:53 ET]
+Table '3228886942 1' 9-max Seat #2 is the button
+Seat 1: h8autumn (1497 in chips)
+Seat 2: dimetruk (1487 in chips)
+Seat 3: zxraq (1477 in chips)
+Seat 4: Matrixxx47 (1526 in chips)
+Seat 5: rumred14 (1497 in chips)
+Seat 6: thorparinn (1497 in chips)
+Seat 7: Pokerstud (1497 in chips)
+Seat 8: zzuby (1497 in chips)
+Seat 9: JhuannyG (1525 in chips)
+h8autumn: posts the ante 3
+dimetruk: posts the ante 3
+zxraq: posts the ante 3
+Matrixxx47: posts the ante 3
+rumred14: posts the ante 3
+thorparinn: posts the ante 3
+Pokerstud: posts the ante 3
+zzuby: posts the ante 3
+JhuannyG: posts the ante 3
+zxraq: posts small blind 10
+Matrixxx47: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ad Kh]
+rumred14: folds
+thorparinn: calls 20
+Pokerstud: raises 97 to 117
+zzuby: folds
+JhuannyG: folds
+h8autumn: folds
+dimetruk: calls 117
+zxraq: folds
+Matrixxx47: folds
+thorparinn: folds
+*** FLOP *** [Js Qd 3c]
+Pokerstud: bets 93
+dimetruk: calls 93
+*** TURN *** [Js Qd 3c] [Ks]
+Pokerstud: checks
+dimetruk: bets 249
+Pokerstud: calls 249
+*** RIVER *** [Js Qd 3c Ks] [8d]
+Pokerstud: checks
+dimetruk: checks
+*** SHOW DOWN ***
+Pokerstud: shows [Kd As] (a pair of Kings)
+dimetruk: shows [Ad Kh] (a pair of Kings)
+Pokerstud collected 498 from pot
+dimetruk collected 497 from pot
+*** SUMMARY ***
+Total pot 995 | Rake 0
+Board [Js Qd 3c Ks 8d]
+Seat 1: h8autumn folded before Flop (didn't bet)
+Seat 2: dimetruk (button) showed [Ad Kh] and won (497) with a pair of Kings
+Seat 3: zxraq (small blind) folded before Flop
+Seat 4: Matrixxx47 (big blind) folded before Flop
+Seat 5: rumred14 folded before Flop (didn't bet)
+Seat 6: thorparinn folded before Flop
+Seat 7: Pokerstud showed [Kd As] and won (498) with a pair of Kings
+Seat 8: zzuby folded before Flop (didn't bet)
+Seat 9: JhuannyG folded before Flop (didn't bet)
+
+
+PokerStars Hand #228244962328: Tournament #3228886942, $13.70+$1.30 USD Hold'em No Limit - Level I (10/20) - 2021/07/12 22:40:13 MSK [2021/07/12 15:40:13 ET]
+Table '3228886942 1' 9-max Seat #3 is the button
+Seat 1: h8autumn (1494 in chips)
+Seat 2: dimetruk (1522 in chips)
+Seat 3: zxraq (1464 in chips)
+Seat 4: Matrixxx47 (1503 in chips)
+Seat 5: rumred14 (1494 in chips)
+Seat 6: thorparinn (1474 in chips)
+Seat 7: Pokerstud (1533 in chips)
+Seat 8: zzuby (1494 in chips)
+Seat 9: JhuannyG (1522 in chips)
+h8autumn: posts the ante 3
+dimetruk: posts the ante 3
+zxraq: posts the ante 3
+Matrixxx47: posts the ante 3
+rumred14: posts the ante 3
+thorparinn: posts the ante 3
+Pokerstud: posts the ante 3
+zzuby: posts the ante 3
+JhuannyG: posts the ante 3
+Matrixxx47: posts small blind 10
+rumred14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [9d Td]
+thorparinn: folds
+Pokerstud: calls 20
+zzuby: calls 20
+JhuannyG: folds
+h8autumn: folds
+dimetruk: raises 40 to 60
+zxraq: folds
+Matrixxx47: folds
+rumred14: folds
+Pokerstud: calls 40
+zzuby: calls 40
+*** FLOP *** [9h Jd Jc]
+Pokerstud: checks
+zzuby: bets 119
+dimetruk: calls 119
+Pokerstud: folds
+*** TURN *** [9h Jd Jc] [Ts]
+zzuby: bets 238
+dimetruk: folds
+Uncalled bet (238) returned to zzuby
+zzuby collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0
+Board [9h Jd Jc Ts]
+Seat 1: h8autumn folded before Flop (didn't bet)
+Seat 2: dimetruk folded on the Turn
+Seat 3: zxraq (button) folded before Flop (didn't bet)
+Seat 4: Matrixxx47 (small blind) folded before Flop
+Seat 5: rumred14 (big blind) folded before Flop
+Seat 6: thorparinn folded before Flop (didn't bet)
+Seat 7: Pokerstud folded on the Flop
+Seat 8: zzuby collected (475)
+Seat 9: JhuannyG folded before Flop (didn't bet)
+
+
+PokerStars Hand #228245192546: Tournament #3228886942, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 22:48:10 MSK [2021/07/12 15:48:10 ET]
+Table '3228886942 1' 9-max Seat #9 is the button
+Seat 1: h8autumn (1924 in chips)
+Seat 2: dimetruk (1323 in chips)
+Seat 3: zxraq (1400 in chips)
+Seat 4: Matrixxx47 (1642 in chips)
+Seat 5: rumred14 (1400 in chips)
+Seat 6: thorparinn (1133 in chips)
+Seat 7: Pokerstud (1399 in chips)
+Seat 8: zzuby (1869 in chips)
+Seat 9: JhuannyG (1410 in chips)
+h8autumn: posts the ante 4
+dimetruk: posts the ante 4
+zxraq: posts the ante 4
+Matrixxx47: posts the ante 4
+rumred14: posts the ante 4
+thorparinn: posts the ante 4
+Pokerstud: posts the ante 4
+zzuby: posts the ante 4
+JhuannyG: posts the ante 4
+h8autumn: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Qs Kd]
+zxraq: folds
+Matrixxx47: folds
+rumred14: raises 41 to 71
+thorparinn: folds
+Pokerstud: folds
+zzuby: folds
+JhuannyG: folds
+h8autumn: folds
+dimetruk: calls 41
+*** FLOP *** [9s Ad 6s]
+dimetruk: checks
+rumred14: bets 135
+dimetruk: folds
+Uncalled bet (135) returned to rumred14
+rumred14 collected 193 from pot
+rumred14: doesn't show hand
+*** SUMMARY ***
+Total pot 193 | Rake 0
+Board [9s Ad 6s]
+Seat 1: h8autumn (small blind) folded before Flop
+Seat 2: dimetruk (big blind) folded on the Flop
+Seat 3: zxraq folded before Flop (didn't bet)
+Seat 4: Matrixxx47 folded before Flop (didn't bet)
+Seat 5: rumred14 collected (193)
+Seat 6: thorparinn folded before Flop (didn't bet)
+Seat 7: Pokerstud folded before Flop (didn't bet)
+Seat 8: zzuby folded before Flop (didn't bet)
+Seat 9: JhuannyG (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #228245223146: Tournament #3228886942, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/12 22:49:13 MSK [2021/07/12 15:49:13 ET]
+Table '3228886942 1' 9-max Seat #1 is the button
+Seat 1: h8autumn (1905 in chips)
+Seat 2: dimetruk (1248 in chips)
+Seat 3: zxraq (1396 in chips)
+Seat 4: Matrixxx47 (1638 in chips)
+Seat 5: rumred14 (1518 in chips)
+Seat 6: thorparinn (1129 in chips)
+Seat 7: Pokerstud (1395 in chips)
+Seat 8: zzuby (1865 in chips)
+Seat 9: JhuannyG (1406 in chips)
+h8autumn: posts the ante 4
+dimetruk: posts the ante 4
+zxraq: posts the ante 4
+Matrixxx47: posts the ante 4
+rumred14: posts the ante 4
+thorparinn: posts the ante 4
+Pokerstud: posts the ante 4
+zzuby: posts the ante 4
+JhuannyG: posts the ante 4
+dimetruk: posts small blind 15
+zxraq: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [9c Tc]
+Matrixxx47: folds
+rumred14: raises 41 to 71
+thorparinn: folds
+Pokerstud: folds
+zzuby: calls 71
+JhuannyG: folds
+h8autumn: calls 71
+dimetruk: calls 56
+zxraq: folds
+*** FLOP *** [5s Qc 8c]
+dimetruk: checks
+rumred14: bets 245
+zzuby: calls 245
+h8autumn: folds
+dimetruk: folds
+*** TURN *** [5s Qc 8c] [Th]
+rumred14: bets 1198 and is all-in
+zzuby: folds
+Uncalled bet (1198) returned to rumred14
+rumred14 collected 840 from pot
+rumred14: doesn't show hand
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [5s Qc 8c Th]
+Seat 1: h8autumn (button) folded on the Flop
+Seat 2: dimetruk (small blind) folded on the Flop
+Seat 3: zxraq (big blind) folded before Flop
+Seat 4: Matrixxx47 folded before Flop (didn't bet)
+Seat 5: rumred14 collected (840)
+Seat 6: thorparinn folded before Flop (didn't bet)
+Seat 7: Pokerstud folded before Flop (didn't bet)
+Seat 8: zzuby folded on the Turn
+Seat 9: JhuannyG folded before Flop (didn't bet)
+
+
+PokerStars Hand #228245496813: Tournament #3228886942, $13.70+$1.30 USD Hold'em No Limit - Level III (25/50) - 2021/07/12 22:59:41 MSK [2021/07/12 15:59:41 ET]
+Table '3228886942 1' 9-max Seat #3 is the button
+Seat 1: h8autumn (1884 in chips)
+Seat 2: dimetruk (1412 in chips)
+Seat 3: zxraq (1341 in chips)
+Seat 4: Matrixxx47 (1452 in chips)
+Seat 5: rumred14 (1885 in chips)
+Seat 6: thorparinn (481 in chips)
+Seat 7: Pokerstud (1264 in chips)
+Seat 8: zzuby (1961 in chips)
+Seat 9: JhuannyG (1820 in chips)
+h8autumn: posts the ante 6
+dimetruk: posts the ante 6
+zxraq: posts the ante 6
+Matrixxx47: posts the ante 6
+rumred14: posts the ante 6
+thorparinn: posts the ante 6
+Pokerstud: posts the ante 6
+zzuby: posts the ante 6
+JhuannyG: posts the ante 6
+Matrixxx47: posts small blind 25
+rumred14: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Ah Qd]
+thorparinn: folds
+Pokerstud: calls 50
+zzuby: folds
+JhuannyG: raises 130 to 180
+h8autumn: folds
+dimetruk: raises 1226 to 1406 and is all-in
+zxraq: folds
+Matrixxx47: folds
+rumred14: folds
+Pokerstud: folds
+JhuannyG: calls 1226
+*** FLOP *** [4c 2d 3h]
+*** TURN *** [4c 2d 3h] [4s]
+*** RIVER *** [4c 2d 3h 4s] [7h]
+*** SHOW DOWN ***
+JhuannyG: shows [As Kh] (a pair of Fours)
+dimetruk: shows [Ah Qd] (a pair of Fours - lower kicker)
+JhuannyG collected 2991 from pot
+dimetruk finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2991 | Rake 0
+Board [4c 2d 3h 4s 7h]
+Seat 1: h8autumn folded before Flop (didn't bet)
+Seat 2: dimetruk showed [Ah Qd] and lost with a pair of Fours
+Seat 3: zxraq (button) folded before Flop (didn't bet)
+Seat 4: Matrixxx47 (small blind) folded before Flop
+Seat 5: rumred14 (big blind) folded before Flop
+Seat 6: thorparinn folded before Flop (didn't bet)
+Seat 7: Pokerstud folded before Flop
+Seat 8: zzuby folded before Flop (didn't bet)
+Seat 9: JhuannyG showed [As Kh] and won (2991) with a pair of Fours
+
+
+PokerStars Hand #228259644516: Tournament #3229239210, $13.70+$1.30 USD Hold'em No Limit - Level I (10/20) - 2021/07/13 15:18:53 MSK [2021/07/13 8:18:53 ET]
+Table '3229239210 1' 9-max Seat #7 is the button
+Seat 1: dimetruk (1482 in chips)
+Seat 2: birita20 (1472 in chips)
+Seat 3: AAhobbit (1856 in chips) is sitting out
+Seat 4: NamAnJH (1704 in chips)
+Seat 5: And_Camargo (1452 in chips)
+Seat 6: Damianp12452 (1776 in chips)
+Seat 7: Balamyt_82 (1422 in chips)
+Seat 9: demon199548 (2336 in chips)
+dimetruk: posts the ante 3
+birita20: posts the ante 3
+AAhobbit: posts the ante 3
+NamAnJH: posts the ante 3
+And_Camargo: posts the ante 3
+Damianp12452: posts the ante 3
+Balamyt_82: posts the ante 3
+demon199548: posts the ante 3
+demon199548: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [7d Ad]
+birita20: folds
+AAhobbit: folds
+NamAnJH: folds
+And_Camargo: folds
+Damianp12452: folds
+Balamyt_82: folds
+demon199548: calls 10
+AAhobbit has returned
+dimetruk: checks
+*** FLOP *** [Jh 7h 3c]
+demon199548: checks
+dimetruk: bets 30
+demon199548: raises 60 to 90
+dimetruk: calls 60
+*** TURN *** [Jh 7h 3c] [Kc]
+demon199548: checks
+dimetruk: checks
+*** RIVER *** [Jh 7h 3c Kc] [9d]
+demon199548: checks
+dimetruk: checks
+*** SHOW DOWN ***
+demon199548: shows [Jd 4d] (a pair of Jacks)
+dimetruk: mucks hand
+demon199548 collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | Rake 0
+Board [Jh 7h 3c Kc 9d]
+Seat 1: dimetruk (big blind) mucked [7d Ad]
+Seat 2: birita20 folded before Flop (didn't bet)
+Seat 3: AAhobbit folded before Flop (didn't bet)
+Seat 4: NamAnJH folded before Flop (didn't bet)
+Seat 5: And_Camargo folded before Flop (didn't bet)
+Seat 6: Damianp12452 folded before Flop (didn't bet)
+Seat 7: Balamyt_82 (button) folded before Flop (didn't bet)
+Seat 9: demon199548 (small blind) showed [Jd 4d] and won (244) with a pair of Jacks
+
+
+PokerStars Hand #228259739923: Tournament #3229239210, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/13 15:24:58 MSK [2021/07/13 8:24:58 ET]
+Table '3229239210 1' 9-max Seat #5 is the button
+Seat 1: dimetruk (1341 in chips)
+Seat 2: birita20 (1317 in chips)
+Seat 3: AAhobbit (1892 in chips)
+Seat 4: NamAnJH (1821 in chips)
+Seat 5: And_Camargo (1356 in chips)
+Seat 6: Damianp12452 (1926 in chips)
+Seat 7: Balamyt_82 (1401 in chips)
+Seat 9: demon199548 (2446 in chips)
+dimetruk: posts the ante 4
+birita20: posts the ante 4
+AAhobbit: posts the ante 4
+NamAnJH: posts the ante 4
+And_Camargo: posts the ante 4
+Damianp12452: posts the ante 4
+Balamyt_82: posts the ante 4
+demon199548: posts the ante 4
+Damianp12452: posts small blind 15
+Balamyt_82: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [As 8s]
+demon199548: folds
+dimetruk: raises 30 to 60
+birita20: folds
+AAhobbit: calls 60
+NamAnJH: folds
+And_Camargo: folds
+Damianp12452: folds
+Balamyt_82: calls 30
+*** FLOP *** [Qh Ks Ah]
+Balamyt_82: checks
+dimetruk: checks
+AAhobbit: checks
+*** TURN *** [Qh Ks Ah] [Tc]
+Balamyt_82: bets 136
+dimetruk: calls 136
+AAhobbit: folds
+*** RIVER *** [Qh Ks Ah Tc] [3h]
+Balamyt_82: checks
+dimetruk: checks
+*** SHOW DOWN ***
+Balamyt_82: shows [Ad Jh] (a straight, Ten to Ace)
+dimetruk: mucks hand
+Balamyt_82 collected 499 from pot
+*** SUMMARY ***
+Total pot 499 | Rake 0
+Board [Qh Ks Ah Tc 3h]
+Seat 1: dimetruk mucked [As 8s]
+Seat 2: birita20 folded before Flop (didn't bet)
+Seat 3: AAhobbit folded on the Turn
+Seat 4: NamAnJH folded before Flop (didn't bet)
+Seat 5: And_Camargo (button) folded before Flop (didn't bet)
+Seat 6: Damianp12452 (small blind) folded before Flop
+Seat 7: Balamyt_82 (big blind) showed [Ad Jh] and won (499) with a straight, Ten to Ace
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228259774968: Tournament #3229239210, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/13 15:27:14 MSK [2021/07/13 8:27:14 ET]
+Table '3229239210 1' 9-max Seat #7 is the button
+Seat 1: dimetruk (1137 in chips)
+Seat 2: birita20 (1309 in chips)
+Seat 3: AAhobbit (1824 in chips)
+Seat 4: NamAnJH (2018 in chips)
+Seat 5: And_Camargo (1348 in chips)
+Seat 6: Damianp12452 (1903 in chips)
+Seat 7: Balamyt_82 (1681 in chips)
+Seat 9: demon199548 (2280 in chips)
+dimetruk: posts the ante 4
+birita20: posts the ante 4
+AAhobbit: posts the ante 4
+NamAnJH: posts the ante 4
+And_Camargo: posts the ante 4
+Damianp12452: posts the ante 4
+Balamyt_82: posts the ante 4
+demon199548: posts the ante 4
+demon199548: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Qd 4s]
+birita20: folds
+AAhobbit: raises 36 to 66
+NamAnJH: folds
+And_Camargo: calls 66
+Damianp12452: folds
+Balamyt_82: folds
+demon199548: folds
+dimetruk: calls 36
+*** FLOP *** [8h Th 9d]
+dimetruk: checks
+AAhobbit: checks
+And_Camargo: checks
+*** TURN *** [8h Th 9d] [4h]
+dimetruk: checks
+AAhobbit: checks
+And_Camargo: bets 162
+dimetruk: folds
+AAhobbit: folds
+Uncalled bet (162) returned to And_Camargo
+And_Camargo collected 245 from pot
+And_Camargo: doesn't show hand
+*** SUMMARY ***
+Total pot 245 | Rake 0
+Board [8h Th 9d 4h]
+Seat 1: dimetruk (big blind) folded on the Turn
+Seat 2: birita20 folded before Flop (didn't bet)
+Seat 3: AAhobbit folded on the Turn
+Seat 4: NamAnJH folded before Flop (didn't bet)
+Seat 5: And_Camargo collected (245)
+Seat 6: Damianp12452 folded before Flop (didn't bet)
+Seat 7: Balamyt_82 (button) folded before Flop (didn't bet)
+Seat 9: demon199548 (small blind) folded before Flop
+
+
+PokerStars Hand #228259813862: Tournament #3229239210, $13.70+$1.30 USD Hold'em No Limit - Level II (15/30) - 2021/07/13 15:29:47 MSK [2021/07/13 8:29:47 ET]
+Table '3229239210 1' 9-max Seat #1 is the button
+Seat 1: dimetruk (1048 in chips)
+Seat 2: birita20 (1235 in chips)
+Seat 3: AAhobbit (1750 in chips)
+Seat 4: NamAnJH (2010 in chips)
+Seat 5: And_Camargo (1453 in chips)
+Seat 6: Damianp12452 (1895 in chips)
+Seat 7: Balamyt_82 (1673 in chips)
+Seat 9: demon199548 (2436 in chips)
+dimetruk: posts the ante 4
+birita20: posts the ante 4
+AAhobbit: posts the ante 4
+NamAnJH: posts the ante 4
+And_Camargo: posts the ante 4
+Damianp12452: posts the ante 4
+Balamyt_82: posts the ante 4
+demon199548: posts the ante 4
+birita20: posts small blind 15
+AAhobbit: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Qc Qh]
+NamAnJH: raises 60 to 90
+And_Camargo: folds
+Damianp12452: folds
+Balamyt_82: folds
+demon199548: folds
+dimetruk: raises 135 to 225
+birita20: folds
+AAhobbit: folds
+NamAnJH: calls 135
+*** FLOP *** [9d Ac 4d]
+NamAnJH: checks
+dimetruk: checks
+*** TURN *** [9d Ac 4d] [3h]
+NamAnJH: checks
+dimetruk: bets 180
+NamAnJH: calls 180
+*** RIVER *** [9d Ac 4d 3h] [8s]
+NamAnJH: checks
+dimetruk: checks
+*** SHOW DOWN ***
+NamAnJH: shows [Ad Kd] (a pair of Aces)
+dimetruk: mucks hand
+NamAnJH collected 887 from pot
+*** SUMMARY ***
+Total pot 887 | Rake 0
+Board [9d Ac 4d 3h 8s]
+Seat 1: dimetruk (button) mucked [Qc Qh]
+Seat 2: birita20 (small blind) folded before Flop
+Seat 3: AAhobbit (big blind) folded before Flop
+Seat 4: NamAnJH showed [Ad Kd] and won (887) with a pair of Aces
+Seat 5: And_Camargo folded before Flop (didn't bet)
+Seat 6: Damianp12452 folded before Flop (didn't bet)
+Seat 7: Balamyt_82 folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228259853120: Tournament #3229239210, $13.70+$1.30 USD Hold'em No Limit - Level III (25/50) - 2021/07/13 15:32:20 MSK [2021/07/13 8:32:20 ET]
+Table '3229239210 1' 9-max Seat #3 is the button
+Seat 1: dimetruk (633 in chips)
+Seat 2: birita20 (1210 in chips)
+Seat 3: AAhobbit (1685 in chips)
+Seat 4: NamAnJH (2382 in chips)
+Seat 5: And_Camargo (1616 in chips)
+Seat 6: Damianp12452 (1885 in chips)
+Seat 7: Balamyt_82 (1663 in chips)
+Seat 9: demon199548 (2426 in chips)
+dimetruk: posts the ante 6
+birita20: posts the ante 6
+AAhobbit: posts the ante 6
+NamAnJH: posts the ante 6
+And_Camargo: posts the ante 6
+Damianp12452: posts the ante 6
+Balamyt_82: posts the ante 6
+demon199548: posts the ante 6
+NamAnJH: posts small blind 25
+And_Camargo: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Jh Ah]
+Damianp12452: folds
+Balamyt_82: raises 75 to 125
+demon199548: folds
+dimetruk: raises 502 to 627 and is all-in
+birita20: folds
+AAhobbit: folds
+NamAnJH: folds
+And_Camargo: folds
+Balamyt_82: calls 502
+*** FLOP *** [Qs 8s 4d]
+*** TURN *** [Qs 8s 4d] [Ks]
+*** RIVER *** [Qs 8s 4d Ks] [6h]
+*** SHOW DOWN ***
+Balamyt_82: shows [9d 9s] (a pair of Nines)
+dimetruk: shows [Jh Ah] (high card Ace)
+Balamyt_82 collected 1377 from pot
+dimetruk finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1377 | Rake 0
+Board [Qs 8s 4d Ks 6h]
+Seat 1: dimetruk showed [Jh Ah] and lost with high card Ace
+Seat 2: birita20 folded before Flop (didn't bet)
+Seat 3: AAhobbit (button) folded before Flop (didn't bet)
+Seat 4: NamAnJH (small blind) folded before Flop
+Seat 5: And_Camargo (big blind) folded before Flop
+Seat 6: Damianp12452 folded before Flop (didn't bet)
+Seat 7: Balamyt_82 showed [9d 9s] and won (1377) with a pair of Nines
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+PokerStars Hand #228378998965: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:43:13 MSK [2021/07/18 7:43:13 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (1500 in chips)
+Seat 2: jaguardoodlez (1500 in chips)
+Seat 3: Mailo2001 (1500 in chips)
+Seat 4: Nealio79 (1500 in chips)
+Seat 5: dimetruk (1500 in chips)
+Seat 6: macky009 (1500 in chips)
+Seat 7: WinSomeLose0 (1500 in chips)
+Seat 8: JayTom1 (1500 in chips)
+Seat 9: JGustavoBR (1500 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+jaguardoodlez: posts small blind 10
+Mailo2001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ts Kd]
+Nealio79: folds
+dimetruk: raises 20 to 40
+macky009: calls 40
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: raises 20 to 60
+jaguardoodlez: calls 50
+Mailo2001: folds
+dimetruk: calls 20
+macky009: calls 20
+*** FLOP *** [7d 4s Qc]
+jaguardoodlez: checks
+dimetruk: checks
+macky009: checks
+gangztastyla: bets 100
+jaguardoodlez: folds
+dimetruk: folds
+macky009: folds
+Uncalled bet (100) returned to gangztastyla
+gangztastyla collected 287 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 287 | Rake 0
+Board [7d 4s Qc]
+Seat 1: gangztastyla (button) collected (287)
+Seat 2: jaguardoodlez (small blind) folded on the Flop
+Seat 3: Mailo2001 (big blind) folded before Flop
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk folded on the Flop
+Seat 6: macky009 folded on the Flop
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379022471: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:44:48 MSK [2021/07/18 7:44:48 ET]
+Table '3231914115 1' 9-max Seat #3 is the button
+Seat 1: gangztastyla (1721 in chips)
+Seat 2: jaguardoodlez (1434 in chips)
+Seat 3: Mailo2001 (1464 in chips)
+Seat 4: Nealio79 (1474 in chips)
+Seat 5: dimetruk (1434 in chips)
+Seat 6: macky009 (1434 in chips)
+Seat 7: WinSomeLose0 (1551 in chips)
+Seat 8: JayTom1 (1494 in chips)
+Seat 9: JGustavoBR (1494 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+Nealio79: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [7c 2h]
+macky009: calls 20
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: calls 20
+jaguardoodlez: calls 20
+Mailo2001: folds
+Nealio79: calls 10
+dimetruk: checks
+*** FLOP *** [3c Qc 6s]
+Nealio79: checks
+dimetruk: checks
+macky009: checks
+gangztastyla: checks
+jaguardoodlez: checks
+*** TURN *** [3c Qc 6s] [6c]
+Nealio79: checks
+dimetruk: checks
+macky009: checks
+gangztastyla: bets 100
+jaguardoodlez: raises 100 to 200
+Nealio79: folds
+dimetruk: folds
+macky009: folds
+gangztastyla: calls 100
+*** RIVER *** [3c Qc 6s 6c] [5d]
+gangztastyla: bets 235
+jaguardoodlez: folds
+Uncalled bet (235) returned to gangztastyla
+gangztastyla collected 527 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 527 | Rake 0
+Board [3c Qc 6s 6c 5d]
+Seat 1: gangztastyla collected (527)
+Seat 2: jaguardoodlez folded on the River
+Seat 3: Mailo2001 (button) folded before Flop (didn't bet)
+Seat 4: Nealio79 (small blind) folded on the Turn
+Seat 5: dimetruk (big blind) folded on the Turn
+Seat 6: macky009 folded on the Turn
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379063215: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:47:32 MSK [2021/07/18 7:47:32 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (2022 in chips)
+Seat 2: jaguardoodlez (1208 in chips)
+Seat 3: Mailo2001 (1615 in chips)
+Seat 4: Nealio79 (1388 in chips)
+Seat 5: dimetruk (1398 in chips)
+Seat 6: macky009 (1348 in chips)
+Seat 7: WinSomeLose0 (1545 in chips)
+Seat 8: JayTom1 (1488 in chips)
+Seat 9: JGustavoBR (1488 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+macky009: posts small blind 10
+WinSomeLose0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Qd Kh]
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: folds
+jaguardoodlez: raises 40 to 60
+Mailo2001: folds
+Nealio79: folds
+dimetruk: raises 90 to 150
+macky009: folds
+WinSomeLose0: folds
+jaguardoodlez: calls 90
+*** FLOP *** [As Qc Jh]
+jaguardoodlez: bets 30
+dimetruk: calls 30
+*** TURN *** [As Qc Jh] [4c]
+jaguardoodlez: bets 40
+dimetruk: calls 40
+*** RIVER *** [As Qc Jh 4c] [4d]
+jaguardoodlez: bets 40
+dimetruk: calls 40
+*** SHOW DOWN ***
+jaguardoodlez: shows [6d 6s] (two pair, Sixes and Fours)
+dimetruk: shows [Qd Kh] (two pair, Queens and Fours)
+dimetruk collected 577 from pot
+*** SUMMARY ***
+Total pot 577 | Rake 0
+Board [As Qc Jh 4c 4d]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 2: jaguardoodlez showed [6d 6s] and lost with two pair, Sixes and Fours
+Seat 3: Mailo2001 folded before Flop (didn't bet)
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk (button) showed [Qd Kh] and won (577) with two pair, Queens and Fours
+Seat 6: macky009 (small blind) folded before Flop
+Seat 7: WinSomeLose0 (big blind) folded before Flop
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379075361: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:48:20 MSK [2021/07/18 7:48:20 ET]
+Table '3231914115 1' 9-max Seat #6 is the button
+Seat 1: gangztastyla (2019 in chips)
+Seat 2: jaguardoodlez (945 in chips)
+Seat 3: Mailo2001 (1612 in chips)
+Seat 4: Nealio79 (1385 in chips)
+Seat 5: dimetruk (1712 in chips)
+Seat 6: macky009 (1335 in chips)
+Seat 7: WinSomeLose0 (1522 in chips)
+Seat 8: JayTom1 (1485 in chips)
+Seat 9: JGustavoBR (1485 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+WinSomeLose0: posts small blind 10
+JayTom1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [7h Th]
+JGustavoBR: folds
+gangztastyla: folds
+jaguardoodlez: folds
+Mailo2001: raises 30 to 50
+Nealio79: folds
+dimetruk: calls 50
+macky009: folds
+WinSomeLose0: calls 40
+JayTom1: folds
+*** FLOP *** [Qh Jd Js]
+WinSomeLose0: checks
+Mailo2001: bets 104
+dimetruk: folds
+WinSomeLose0: folds
+Uncalled bet (104) returned to Mailo2001
+Mailo2001 collected 197 from pot
+Mailo2001: doesn't show hand
+*** SUMMARY ***
+Total pot 197 | Rake 0
+Board [Qh Jd Js]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 2: jaguardoodlez folded before Flop (didn't bet)
+Seat 3: Mailo2001 collected (197)
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk folded on the Flop
+Seat 6: macky009 (button) folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 (small blind) folded on the Flop
+Seat 8: JayTom1 (big blind) folded before Flop
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379122873: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:51:27 MSK [2021/07/18 7:51:27 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (1847 in chips)
+Seat 2: jaguardoodlez (1280 in chips)
+Seat 3: Mailo2001 (1747 in chips)
+Seat 4: Nealio79 (1373 in chips)
+Seat 5: dimetruk (1650 in chips)
+Seat 6: macky009 (1230 in chips)
+Seat 7: WinSomeLose0 (1700 in chips)
+Seat 8: JayTom1 (1370 in chips)
+Seat 9: JGustavoBR (1303 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+jaguardoodlez: posts small blind 10
+Mailo2001: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [8d 7d]
+Nealio79: folds
+dimetruk: raises 20 to 40
+macky009: folds
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: raises 60 to 100
+jaguardoodlez: folds
+Mailo2001: folds
+dimetruk: calls 60
+*** FLOP *** [4h Jc Jh]
+dimetruk: checks
+gangztastyla: bets 180
+dimetruk: folds
+Uncalled bet (180) returned to gangztastyla
+gangztastyla collected 257 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 257 | Rake 0
+Board [4h Jc Jh]
+Seat 1: gangztastyla (button) collected (257)
+Seat 2: jaguardoodlez (small blind) folded before Flop
+Seat 3: Mailo2001 (big blind) folded before Flop
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk folded on the Flop
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379162575: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level I (10/20) - 2021/07/18 14:53:06 MSK [2021/07/18 7:53:06 ET]
+Table '3231914115 1' 9-max Seat #3 is the button
+Seat 1: gangztastyla (1998 in chips)
+Seat 2: jaguardoodlez (1321 in chips)
+Seat 3: Mailo2001 (1711 in chips)
+Seat 4: Nealio79 (1347 in chips)
+Seat 5: dimetruk (1544 in chips)
+Seat 6: macky009 (1224 in chips)
+Seat 7: WinSomeLose0 (1694 in chips)
+Seat 8: JayTom1 (1364 in chips)
+Seat 9: JGustavoBR (1297 in chips)
+gangztastyla: posts the ante 3
+jaguardoodlez: posts the ante 3
+Mailo2001: posts the ante 3
+Nealio79: posts the ante 3
+dimetruk: posts the ante 3
+macky009: posts the ante 3
+WinSomeLose0: posts the ante 3
+JayTom1: posts the ante 3
+JGustavoBR: posts the ante 3
+Nealio79: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ac 5h]
+macky009: folds
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: folds
+jaguardoodlez: folds
+Mailo2001: raises 30 to 50
+Nealio79: calls 40
+dimetruk: calls 30
+*** FLOP *** [Td 8s Js]
+Nealio79: checks
+dimetruk: checks
+Mailo2001: checks
+*** TURN *** [Td 8s Js] [6d]
+Nealio79: checks
+dimetruk: bets 89
+Mailo2001: folds
+Nealio79: folds
+Uncalled bet (89) returned to dimetruk
+dimetruk collected 177 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 177 | Rake 0
+Board [Td 8s Js 6d]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 2: jaguardoodlez folded before Flop (didn't bet)
+Seat 3: Mailo2001 (button) folded on the Turn
+Seat 4: Nealio79 (small blind) folded on the Turn
+Seat 5: dimetruk (big blind) collected (177)
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379178580: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level II (15/30) - 2021/07/18 14:54:10 MSK [2021/07/18 7:54:10 ET]
+Table '3231914115 1' 9-max Seat #4 is the button
+Seat 1: gangztastyla (1995 in chips)
+Seat 2: jaguardoodlez (1318 in chips)
+Seat 3: Mailo2001 (1658 in chips)
+Seat 4: Nealio79 (1294 in chips)
+Seat 5: dimetruk (1668 in chips)
+Seat 6: macky009 (1221 in chips)
+Seat 7: WinSomeLose0 (1691 in chips)
+Seat 8: JayTom1 (1361 in chips)
+Seat 9: JGustavoBR (1294 in chips)
+gangztastyla: posts the ante 4
+jaguardoodlez: posts the ante 4
+Mailo2001: posts the ante 4
+Nealio79: posts the ante 4
+dimetruk: posts the ante 4
+macky009: posts the ante 4
+WinSomeLose0: posts the ante 4
+JayTom1: posts the ante 4
+JGustavoBR: posts the ante 4
+dimetruk: posts small blind 15
+macky009: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Ad Qd]
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: folds
+jaguardoodlez: raises 30 to 60
+Mailo2001: folds
+Nealio79: folds
+dimetruk: raises 90 to 150
+macky009: folds
+jaguardoodlez: calls 90
+*** FLOP *** [5d 7h As]
+dimetruk: checks
+jaguardoodlez: bets 105
+dimetruk: raises 1409 to 1514 and is all-in
+jaguardoodlez: calls 1059 and is all-in
+Uncalled bet (350) returned to dimetruk
+*** TURN *** [5d 7h As] [5s]
+*** RIVER *** [5d 7h As 5s] [8d]
+*** SHOW DOWN ***
+dimetruk: shows [Ad Qd] (two pair, Aces and Fives)
+jaguardoodlez: shows [6c 6s] (two pair, Sixes and Fives)
+dimetruk collected 2694 from pot
+jaguardoodlez finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2694 | Rake 0
+Board [5d 7h As 5s 8d]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 2: jaguardoodlez showed [6c 6s] and lost with two pair, Sixes and Fives
+Seat 3: Mailo2001 folded before Flop (didn't bet)
+Seat 4: Nealio79 (button) folded before Flop (didn't bet)
+Seat 5: dimetruk (small blind) showed [Ad Qd] and won (2694) with two pair, Aces and Fives
+Seat 6: macky009 (big blind) folded before Flop
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379193524: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level II (15/30) - 2021/07/18 14:55:10 MSK [2021/07/18 7:55:10 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (1991 in chips)
+Seat 3: Mailo2001 (1654 in chips)
+Seat 4: Nealio79 (1290 in chips)
+Seat 5: dimetruk (3044 in chips)
+Seat 6: macky009 (1187 in chips)
+Seat 7: WinSomeLose0 (1687 in chips)
+Seat 8: JayTom1 (1357 in chips)
+Seat 9: JGustavoBR (1290 in chips)
+gangztastyla: posts the ante 4
+Mailo2001: posts the ante 4
+Nealio79: posts the ante 4
+dimetruk: posts the ante 4
+macky009: posts the ante 4
+WinSomeLose0: posts the ante 4
+JayTom1: posts the ante 4
+JGustavoBR: posts the ante 4
+macky009: posts small blind 15
+WinSomeLose0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [9s Jc]
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: folds
+Mailo2001: folds
+Nealio79: folds
+dimetruk: raises 30 to 60
+macky009: calls 45
+WinSomeLose0: folds
+*** FLOP *** [Ts 5d 4s]
+macky009: checks
+dimetruk: checks
+*** TURN *** [Ts 5d 4s] [Ks]
+macky009: bets 91
+dimetruk: calls 91
+*** RIVER *** [Ts 5d 4s Ks] [6c]
+macky009: bets 182
+dimetruk: folds
+Uncalled bet (182) returned to macky009
+macky009 collected 364 from pot
+macky009: doesn't show hand
+*** SUMMARY ***
+Total pot 364 | Rake 0
+Board [Ts 5d 4s Ks 6c]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 3: Mailo2001 folded before Flop (didn't bet)
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk (button) folded on the River
+Seat 6: macky009 (small blind) collected (364)
+Seat 7: WinSomeLose0 (big blind) folded before Flop
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379252492: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level II (15/30) - 2021/07/18 14:59:52 MSK [2021/07/18 7:59:52 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (2695 in chips)
+Seat 3: Mailo2001 (1604 in chips)
+Seat 4: Nealio79 (1407 in chips)
+Seat 5: dimetruk (2873 in chips)
+Seat 6: macky009 (845 in chips)
+Seat 7: WinSomeLose0 (1622 in chips)
+Seat 8: JayTom1 (1369 in chips)
+Seat 9: JGustavoBR (1085 in chips)
+gangztastyla: posts the ante 4
+Mailo2001: posts the ante 4
+Nealio79: posts the ante 4
+dimetruk: posts the ante 4
+macky009: posts the ante 4
+WinSomeLose0: posts the ante 4
+JayTom1: posts the ante 4
+JGustavoBR: posts the ante 4
+Mailo2001: posts small blind 15
+Nealio79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [8d Ah]
+dimetruk: raises 30 to 60
+macky009: folds
+WinSomeLose0: calls 60
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: calls 60
+Mailo2001: folds
+Nealio79: folds
+*** FLOP *** [Qs 5d 5s]
+dimetruk: checks
+WinSomeLose0: checks
+gangztastyla: bets 120
+dimetruk: folds
+WinSomeLose0: calls 120
+*** TURN *** [Qs 5d 5s] [9h]
+WinSomeLose0: checks
+gangztastyla: bets 100
+WinSomeLose0: calls 100
+*** RIVER *** [Qs 5d 5s 9h] [7h]
+WinSomeLose0: checks
+gangztastyla: bets 1338
+WinSomeLose0: calls 1338 and is all-in
+*** SHOW DOWN ***
+gangztastyla: shows [4s 6s] (a pair of Fives)
+WinSomeLose0: shows [Qd Kh] (two pair, Queens and Fives)
+WinSomeLose0 collected 3373 from pot
+*** SUMMARY ***
+Total pot 3373 | Rake 0
+Board [Qs 5d 5s 9h 7h]
+Seat 1: gangztastyla (button) showed [4s 6s] and lost with a pair of Fives
+Seat 3: Mailo2001 (small blind) folded before Flop
+Seat 4: Nealio79 (big blind) folded before Flop
+Seat 5: dimetruk folded on the Flop
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 showed [Qd Kh] and won (3373) with two pair, Queens and Fives
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379294220: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level II (15/30) - 2021/07/18 15:02:45 MSK [2021/07/18 8:02:45 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (2361 in chips)
+Seat 3: Mailo2001 (1577 in chips)
+Seat 4: Nealio79 (1350 in chips)
+Seat 5: dimetruk (2756 in chips)
+Seat 6: macky009 (803 in chips)
+Seat 7: WinSomeLose0 (2223 in chips)
+Seat 8: JayTom1 (1357 in chips)
+Seat 9: JGustavoBR (1073 in chips)
+gangztastyla: posts the ante 4
+Mailo2001: posts the ante 4
+Nealio79: posts the ante 4
+dimetruk: posts the ante 4
+macky009: posts the ante 4
+WinSomeLose0: posts the ante 4
+JayTom1: posts the ante 4
+JGustavoBR: posts the ante 4
+macky009: posts small blind 15
+WinSomeLose0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Td Qh]
+JayTom1: folds
+JGustavoBR: folds
+gangztastyla: folds
+Mailo2001: raises 45 to 75
+Nealio79: folds
+dimetruk: calls 75
+macky009: calls 60
+WinSomeLose0: folds
+*** FLOP *** [6c Ad 5h]
+macky009: checks
+Mailo2001: bets 123
+dimetruk: folds
+macky009: folds
+Uncalled bet (123) returned to Mailo2001
+Mailo2001 collected 287 from pot
+Mailo2001: doesn't show hand
+*** SUMMARY ***
+Total pot 287 | Rake 0
+Board [6c Ad 5h]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 3: Mailo2001 collected (287)
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk (button) folded on the Flop
+Seat 6: macky009 (small blind) folded on the Flop
+Seat 7: WinSomeLose0 (big blind) folded before Flop
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379363215: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level III (25/50) - 2021/07/18 15:07:14 MSK [2021/07/18 8:07:14 ET]
+Table '3231914115 1' 9-max Seat #3 is the button
+Seat 1: gangztastyla (1971 in chips)
+Seat 3: Mailo2001 (2426 in chips)
+Seat 4: Nealio79 (1196 in chips)
+Seat 5: dimetruk (2770 in chips)
+Seat 6: macky009 (694 in chips)
+Seat 7: WinSomeLose0 (2481 in chips)
+Seat 8: JayTom1 (998 in chips)
+Seat 9: JGustavoBR (964 in chips)
+gangztastyla: posts the ante 6
+Mailo2001: posts the ante 6
+Nealio79: posts the ante 6
+dimetruk: posts the ante 6
+macky009: posts the ante 6
+WinSomeLose0: posts the ante 6
+JayTom1: posts the ante 6
+JGustavoBR: posts the ante 6
+Nealio79: posts small blind 25
+dimetruk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Th 9c]
+macky009: folds
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: raises 50 to 100
+gangztastyla: folds
+Mailo2001: folds
+Nealio79: folds
+dimetruk: calls 50
+*** FLOP *** [2c Ac 9s]
+dimetruk: checks
+JGustavoBR: bets 90
+dimetruk: calls 90
+*** TURN *** [2c Ac 9s] [Kc]
+dimetruk: checks
+JGustavoBR: checks
+*** RIVER *** [2c Ac 9s Kc] [Jc]
+dimetruk: checks
+JGustavoBR: checks
+*** SHOW DOWN ***
+dimetruk: shows [Th 9c] (a flush, Ace high)
+JGustavoBR: mucks hand
+dimetruk collected 453 from pot
+*** SUMMARY ***
+Total pot 453 | Rake 0
+Board [2c Ac 9s Kc Jc]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 3: Mailo2001 (button) folded before Flop (didn't bet)
+Seat 4: Nealio79 (small blind) folded before Flop
+Seat 5: dimetruk (big blind) showed [Th 9c] and won (453) with a flush, Ace high
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR mucked [Td Ts]
+
+
+PokerStars Hand #228379443199: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level III (25/50) - 2021/07/18 15:12:21 MSK [2021/07/18 8:12:21 ET]
+Table '3231914115 1' 9-max Seat #3 is the button
+Seat 1: gangztastyla (1961 in chips)
+Seat 3: Mailo2001 (2847 in chips)
+Seat 4: Nealio79 (923 in chips)
+Seat 5: dimetruk (2760 in chips)
+Seat 6: macky009 (571 in chips)
+Seat 7: WinSomeLose0 (1491 in chips)
+Seat 8: JayTom1 (875 in chips)
+Seat 9: JGustavoBR (2072 in chips)
+gangztastyla: posts the ante 6
+Mailo2001: posts the ante 6
+Nealio79: posts the ante 6
+dimetruk: posts the ante 6
+macky009: posts the ante 6
+WinSomeLose0: posts the ante 6
+JayTom1: posts the ante 6
+JGustavoBR: posts the ante 6
+Nealio79: posts small blind 25
+dimetruk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [4d 4s]
+macky009: folds
+WinSomeLose0: folds
+JayTom1: folds
+JGustavoBR: raises 50 to 100
+gangztastyla: folds
+Mailo2001: folds
+Nealio79: calls 75
+dimetruk: calls 50
+*** FLOP *** [2d 4c 7s]
+Nealio79: checks
+dimetruk: checks
+JGustavoBR: bets 162
+Nealio79: folds
+dimetruk: raises 238 to 400
+JGustavoBR: folds
+Uncalled bet (238) returned to dimetruk
+dimetruk collected 672 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 672 | Rake 0
+Board [2d 4c 7s]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 3: Mailo2001 (button) folded before Flop (didn't bet)
+Seat 4: Nealio79 (small blind) folded on the Flop
+Seat 5: dimetruk (big blind) collected (672)
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 8: JayTom1 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded on the Flop
+
+
+PokerStars Hand #228379481124: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level IV (40/80) - 2021/07/18 15:14:44 MSK [2021/07/18 8:14:44 ET]
+Table '3231914115 1' 9-max Seat #6 is the button
+Seat 1: gangztastyla (2415 in chips)
+Seat 3: Mailo2001 (2641 in chips)
+Seat 4: Nealio79 (797 in chips)
+Seat 5: dimetruk (3104 in chips)
+Seat 6: macky009 (425 in chips)
+Seat 7: WinSomeLose0 (1485 in chips)
+Seat 8: JayTom1 (849 in chips)
+Seat 9: JGustavoBR (1784 in chips)
+gangztastyla: posts the ante 10
+Mailo2001: posts the ante 10
+Nealio79: posts the ante 10
+dimetruk: posts the ante 10
+macky009: posts the ante 10
+WinSomeLose0: posts the ante 10
+JayTom1: posts the ante 10
+JGustavoBR: posts the ante 10
+WinSomeLose0: posts small blind 40
+JayTom1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [3c 3h]
+JGustavoBR: raises 80 to 160
+gangztastyla: calls 160
+Mailo2001: folds
+Nealio79: folds
+dimetruk: calls 160
+macky009: folds
+WinSomeLose0: folds
+JayTom1: calls 80
+*** FLOP *** [Kc 9s 8s]
+JayTom1: checks
+JGustavoBR: bets 392
+gangztastyla: folds
+dimetruk: folds
+JayTom1: folds
+Uncalled bet (392) returned to JGustavoBR
+JGustavoBR collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0
+Board [Kc 9s 8s]
+Seat 1: gangztastyla folded on the Flop
+Seat 3: Mailo2001 folded before Flop (didn't bet)
+Seat 4: Nealio79 folded before Flop (didn't bet)
+Seat 5: dimetruk folded on the Flop
+Seat 6: macky009 (button) folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 (small blind) folded before Flop
+Seat 8: JayTom1 (big blind) folded on the Flop
+Seat 9: JGustavoBR collected (760)
+
+
+PokerStars Hand #228379508836: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level IV (40/80) - 2021/07/18 15:16:28 MSK [2021/07/18 8:16:28 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (3014 in chips)
+Seat 3: Mailo2001 (2531 in chips)
+Seat 4: Nealio79 (767 in chips)
+Seat 5: dimetruk (3104 in chips)
+Seat 6: macky009 (395 in chips)
+Seat 7: WinSomeLose0 (1415 in chips)
+Seat 9: JGustavoBR (2274 in chips)
+gangztastyla: posts the ante 10
+Mailo2001: posts the ante 10
+Nealio79: posts the ante 10
+dimetruk: posts the ante 10
+macky009: posts the ante 10
+WinSomeLose0: posts the ante 10
+JGustavoBR: posts the ante 10
+Mailo2001: posts small blind 40
+Nealio79: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [Qs Jc]
+dimetruk: raises 80 to 160
+macky009: folds
+WinSomeLose0: folds
+JGustavoBR: folds
+gangztastyla: folds
+Mailo2001: calls 120
+Nealio79: folds
+*** FLOP *** [7h 5c 4d]
+Mailo2001: checks
+dimetruk: checks
+*** TURN *** [7h 5c 4d] [9s]
+Mailo2001: bets 348
+dimetruk: folds
+Uncalled bet (348) returned to Mailo2001
+Mailo2001 collected 470 from pot
+Mailo2001: doesn't show hand
+*** SUMMARY ***
+Total pot 470 | Rake 0
+Board [7h 5c 4d 9s]
+Seat 1: gangztastyla (button) folded before Flop (didn't bet)
+Seat 3: Mailo2001 (small blind) collected (470)
+Seat 4: Nealio79 (big blind) folded before Flop
+Seat 5: dimetruk folded on the Turn
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379520195: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level IV (40/80) - 2021/07/18 15:17:11 MSK [2021/07/18 8:17:11 ET]
+Table '3231914115 1' 9-max Seat #3 is the button
+Seat 1: gangztastyla (3004 in chips)
+Seat 3: Mailo2001 (2831 in chips)
+Seat 4: Nealio79 (677 in chips)
+Seat 5: dimetruk (2934 in chips)
+Seat 6: macky009 (385 in chips)
+Seat 7: WinSomeLose0 (1405 in chips)
+Seat 9: JGustavoBR (2264 in chips)
+gangztastyla: posts the ante 10
+Mailo2001: posts the ante 10
+Nealio79: posts the ante 10
+dimetruk: posts the ante 10
+macky009: posts the ante 10
+WinSomeLose0: posts the ante 10
+JGustavoBR: posts the ante 10
+Nealio79: posts small blind 40
+dimetruk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to dimetruk [As Ah]
+macky009: folds
+WinSomeLose0: folds
+JGustavoBR: folds
+gangztastyla: calls 80
+Mailo2001: raises 240 to 320
+Nealio79: folds
+dimetruk: raises 360 to 680
+gangztastyla: folds
+Mailo2001: calls 360
+*** FLOP *** [Jd Jc Ac]
+dimetruk: checks
+Mailo2001: checks
+*** TURN *** [Jd Jc Ac] [5h]
+dimetruk: checks
+Mailo2001: bets 496
+dimetruk: calls 496
+*** RIVER *** [Jd Jc Ac 5h] [2c]
+dimetruk: bets 1748 and is all-in
+Mailo2001: calls 1645 and is all-in
+Uncalled bet (103) returned to dimetruk
+*** SHOW DOWN ***
+dimetruk: shows [As Ah] (a full house, Aces full of Jacks)
+Mailo2001: shows [Ad Jh] (a full house, Jacks full of Aces)
+dimetruk collected 5832 from pot
+Mailo2001 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 5832 | Rake 0
+Board [Jd Jc Ac 5h 2c]
+Seat 1: gangztastyla folded before Flop
+Seat 3: Mailo2001 (button) showed [Ad Jh] and lost with a full house, Jacks full of Aces
+Seat 4: Nealio79 (small blind) folded before Flop
+Seat 5: dimetruk (big blind) showed [As Ah] and won (5832) with a full house, Aces full of Jacks
+Seat 6: macky009 folded before Flop (didn't bet)
+Seat 7: WinSomeLose0 folded before Flop (didn't bet)
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379651455: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:25:14 MSK [2021/07/18 8:25:14 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (3366 in chips)
+Seat 5: dimetruk (6905 in chips)
+Seat 7: WinSomeLose0 (1555 in chips)
+Seat 9: JGustavoBR (1674 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+WinSomeLose0: posts the ante 15
+JGustavoBR: posts the ante 15
+WinSomeLose0: posts small blind 60
+JGustavoBR: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [3h Th]
+gangztastyla: folds
+dimetruk: raises 120 to 240
+WinSomeLose0: folds
+JGustavoBR: calls 120
+*** FLOP *** [8h As 9s]
+JGustavoBR: checks
+dimetruk: bets 210
+JGustavoBR: raises 1209 to 1419 and is all-in
+dimetruk: folds
+Uncalled bet (1209) returned to JGustavoBR
+JGustavoBR collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Board [8h As 9s]
+Seat 1: gangztastyla folded before Flop (didn't bet)
+Seat 5: dimetruk (button) folded on the Flop
+Seat 7: WinSomeLose0 (small blind) folded before Flop
+Seat 9: JGustavoBR (big blind) collected (1020)
+
+
+PokerStars Hand #228379669356: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:26:19 MSK [2021/07/18 8:26:19 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (3141 in chips)
+Seat 5: dimetruk (6770 in chips)
+Seat 7: WinSomeLose0 (1450 in chips)
+Seat 9: JGustavoBR (2139 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+WinSomeLose0: posts the ante 15
+JGustavoBR: posts the ante 15
+dimetruk: posts small blind 60
+WinSomeLose0: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [3s 3c]
+JGustavoBR: folds
+gangztastyla: folds
+dimetruk: raises 6635 to 6755 and is all-in
+WinSomeLose0: calls 1315 and is all-in
+Uncalled bet (5320) returned to dimetruk
+*** FLOP *** [Tc Jd 6c]
+*** TURN *** [Tc Jd 6c] [Th]
+*** RIVER *** [Tc Jd 6c Th] [4d]
+*** SHOW DOWN ***
+dimetruk: shows [3s 3c] (two pair, Tens and Threes)
+WinSomeLose0: shows [Qd 8d] (a pair of Tens)
+dimetruk collected 2930 from pot
+WinSomeLose0 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 2930 | Rake 0
+Board [Tc Jd 6c Th 4d]
+Seat 1: gangztastyla (button) folded before Flop (didn't bet)
+Seat 5: dimetruk (small blind) showed [3s 3c] and won (2930) with two pair, Tens and Threes
+Seat 7: WinSomeLose0 (big blind) showed [Qd 8d] and lost with a pair of Tens
+Seat 9: JGustavoBR folded before Flop (didn't bet)
+
+
+PokerStars Hand #228379676843: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:26:46 MSK [2021/07/18 8:26:46 ET]
+Table '3231914115 1' 9-max Seat #9 is the button
+Seat 1: gangztastyla (3216 in chips)
+Seat 5: dimetruk (8235 in chips)
+Seat 9: JGustavoBR (2049 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+JGustavoBR: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Td Kd]
+JGustavoBR: raises 120 to 240
+gangztastyla: folds
+dimetruk: calls 120
+*** FLOP *** [8s 3d Kc]
+dimetruk: checks
+JGustavoBR: bets 193
+dimetruk: raises 7787 to 7980 and is all-in
+JGustavoBR: calls 1601 and is all-in
+Uncalled bet (6186) returned to dimetruk
+*** TURN *** [8s 3d Kc] [4c]
+*** RIVER *** [8s 3d Kc 4c] [8d]
+*** SHOW DOWN ***
+dimetruk: shows [Td Kd] (two pair, Kings and Eights)
+JGustavoBR: shows [Tc Th] (two pair, Tens and Eights)
+dimetruk collected 4173 from pot
+JGustavoBR finished the tournament in 3rd place and received $49.32.
+*** SUMMARY ***
+Total pot 4173 | Rake 0
+Board [8s 3d Kc 4c 8d]
+Seat 1: gangztastyla (small blind) folded before Flop
+Seat 5: dimetruk (big blind) showed [Td Kd] and won (4173) with two pair, Kings and Eights
+Seat 9: JGustavoBR (button) showed [Tc Th] and lost with two pair, Tens and Eights
+
+
+PokerStars Hand #228379691274: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:27:37 MSK [2021/07/18 8:27:37 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (3396 in chips)
+Seat 5: dimetruk (10104 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [8s 2c]
+gangztastyla: calls 60
+dimetruk: checks
+*** FLOP *** [3h Qd 2s]
+dimetruk: bets 120
+gangztastyla: folds
+Uncalled bet (120) returned to dimetruk
+dimetruk collected 270 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board [3h Qd 2s]
+Seat 1: gangztastyla (button) (small blind) folded on the Flop
+Seat 5: dimetruk (big blind) collected (270)
+
+
+PokerStars Hand #228379704705: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:28:25 MSK [2021/07/18 8:28:25 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (2916 in chips)
+Seat 5: dimetruk (10584 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Ad 2h]
+gangztastyla: calls 60
+dimetruk: raises 240 to 360
+gangztastyla: calls 240
+*** FLOP *** [Ah 7c 3d]
+dimetruk: bets 10209 and is all-in
+gangztastyla: calls 2541 and is all-in
+Uncalled bet (7668) returned to dimetruk
+*** TURN *** [Ah 7c 3d] [7h]
+*** RIVER *** [Ah 7c 3d 7h] [9c]
+*** SHOW DOWN ***
+dimetruk: shows [Ad 2h] (two pair, Aces and Sevens)
+gangztastyla: shows [5s 7s] (three of a kind, Sevens)
+gangztastyla collected 5832 from pot
+*** SUMMARY ***
+Total pot 5832 | Rake 0
+Board [Ah 7c 3d 7h 9c]
+Seat 1: gangztastyla (button) (small blind) showed [5s 7s] and won (5832) with three of a kind, Sevens
+Seat 5: dimetruk (big blind) showed [Ad 2h] and lost with two pair, Aces and Sevens
+
+
+PokerStars Hand #228379744858: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:30:46 MSK [2021/07/18 8:30:46 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (6387 in chips)
+Seat 5: dimetruk (7113 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [2c Kh]
+gangztastyla: calls 60
+dimetruk: checks
+*** FLOP *** [4h 7c Js]
+dimetruk: checks
+gangztastyla: checks
+*** TURN *** [4h 7c Js] [8c]
+dimetruk: checks
+gangztastyla: bets 120
+dimetruk: folds
+Uncalled bet (120) returned to gangztastyla
+gangztastyla collected 270 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board [4h 7c Js 8c]
+Seat 1: gangztastyla (button) (small blind) collected (270)
+Seat 5: dimetruk (big blind) folded on the Turn
+
+
+PokerStars Hand #228379755159: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:31:23 MSK [2021/07/18 8:31:23 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (6312 in chips)
+Seat 5: dimetruk (7188 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+dimetruk: posts small blind 60
+gangztastyla: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Kh 5d]
+dimetruk: raises 120 to 240
+gangztastyla: calls 120
+*** FLOP *** [9s 3h Kc]
+gangztastyla: checks
+dimetruk: bets 179
+gangztastyla: calls 179
+*** TURN *** [9s 3h Kc] [Tc]
+gangztastyla: checks
+dimetruk: bets 434
+gangztastyla: calls 434
+*** RIVER *** [9s 3h Kc Tc] [Js]
+gangztastyla: bets 5444 and is all-in
+dimetruk: folds
+Uncalled bet (5444) returned to gangztastyla
+gangztastyla collected 1736 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 1736 | Rake 0
+Board [9s 3h Kc Tc Js]
+Seat 1: gangztastyla (big blind) collected (1736)
+Seat 5: dimetruk (button) (small blind) folded on the River
+
+
+PokerStars Hand #228379766730: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:32:03 MSK [2021/07/18 8:32:03 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (7180 in chips)
+Seat 5: dimetruk (6320 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [Td 8s]
+gangztastyla: calls 60
+dimetruk: checks
+*** FLOP *** [Ad Qd 7d]
+dimetruk: bets 120
+gangztastyla: folds
+Uncalled bet (120) returned to dimetruk
+dimetruk collected 270 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Board [Ad Qd 7d]
+Seat 1: gangztastyla (button) (small blind) folded on the Flop
+Seat 5: dimetruk (big blind) collected (270)
+
+
+PokerStars Hand #228379773897: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:32:28 MSK [2021/07/18 8:32:28 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (6910 in chips)
+Seat 5: dimetruk (6590 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+gangztastyla: posts small blind 60
+dimetruk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [8h Kd]
+gangztastyla: calls 60
+dimetruk: checks
+*** FLOP *** [3d 7h Qd]
+dimetruk: checks
+gangztastyla: bets 200
+dimetruk: calls 200
+*** TURN *** [3d 7h Qd] [9h]
+dimetruk: checks
+gangztastyla: checks
+*** RIVER *** [3d 7h Qd 9h] [7s]
+dimetruk: bets 670
+gangztastyla: folds
+Uncalled bet (670) returned to dimetruk
+dimetruk collected 670 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 670 | Rake 0
+Board [3d 7h Qd 9h 7s]
+Seat 1: gangztastyla (button) (small blind) folded on the River
+Seat 5: dimetruk (big blind) collected (670)
+
+
+PokerStars Hand #228379783092: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level V (60/120) - 2021/07/18 15:32:59 MSK [2021/07/18 8:32:59 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (6575 in chips)
+Seat 5: dimetruk (6925 in chips)
+gangztastyla: posts the ante 15
+dimetruk: posts the ante 15
+dimetruk: posts small blind 60
+gangztastyla: posts big blind 120
+*** HOLE CARDS ***
+Dealt to dimetruk [9c Jd]
+dimetruk: raises 120 to 240
+gangztastyla: raises 120 to 360
+dimetruk: calls 120
+*** FLOP *** [5h 9d 6c]
+gangztastyla: checks
+dimetruk: bets 375
+gangztastyla: folds
+Uncalled bet (375) returned to dimetruk
+dimetruk collected 750 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [5h 9d 6c]
+Seat 1: gangztastyla (big blind) folded on the Flop
+Seat 5: dimetruk (button) (small blind) collected (750)
+
+
+PokerStars Hand #228379793705: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:33:23 MSK [2021/07/18 8:33:23 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (6200 in chips)
+Seat 5: dimetruk (7300 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [9s Js]
+gangztastyla: calls 80
+dimetruk: checks
+*** FLOP *** [3c Qs Tc]
+dimetruk: checks
+gangztastyla: bets 240
+dimetruk: calls 240
+*** TURN *** [3c Qs Tc] [Ts]
+dimetruk: checks
+gangztastyla: bets 650
+dimetruk: calls 650
+*** RIVER *** [3c Qs Tc Ts] [5c]
+dimetruk: checks
+gangztastyla: checks
+*** SHOW DOWN ***
+dimetruk: shows [9s Js] (a pair of Tens)
+gangztastyla: shows [As Ac] (two pair, Aces and Tens)
+gangztastyla collected 2140 from pot
+*** SUMMARY ***
+Total pot 2140 | Rake 0
+Board [3c Qs Tc Ts 5c]
+Seat 1: gangztastyla (button) (small blind) showed [As Ac] and won (2140) with two pair, Aces and Tens
+Seat 5: dimetruk (big blind) showed [9s Js] and lost with a pair of Tens
+
+
+PokerStars Hand #228379812515: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:34:28 MSK [2021/07/18 8:34:28 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (6530 in chips)
+Seat 5: dimetruk (6970 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [Ah 9d]
+gangztastyla: raises 160 to 320
+dimetruk: raises 480 to 800
+gangztastyla: calls 480
+*** FLOP *** [Qc 8s Ac]
+dimetruk: checks
+gangztastyla: bets 350
+dimetruk: raises 5800 to 6150 and is all-in
+gangztastyla: folds
+Uncalled bet (5800) returned to dimetruk
+dimetruk collected 2340 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 2340 | Rake 0
+Board [Qc 8s Ac]
+Seat 1: gangztastyla (button) (small blind) folded on the Flop
+Seat 5: dimetruk (big blind) collected (2340)
+
+
+PokerStars Hand #228379829413: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:35:26 MSK [2021/07/18 8:35:26 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (5700 in chips)
+Seat 5: dimetruk (7800 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [Kd Qc]
+gangztastyla: calls 80
+dimetruk: raises 160 to 320
+gangztastyla: calls 160
+*** FLOP *** [4s 4c 5c]
+dimetruk: bets 238
+gangztastyla: raises 962 to 1200
+dimetruk: folds
+Uncalled bet (962) returned to gangztastyla
+gangztastyla collected 1156 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 1156 | Rake 0
+Board [4s 4c 5c]
+Seat 1: gangztastyla (button) (small blind) collected (1156)
+Seat 5: dimetruk (big blind) folded on the Flop
+
+
+PokerStars Hand #228379838910: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:35:58 MSK [2021/07/18 8:35:58 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (6278 in chips)
+Seat 5: dimetruk (7222 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [8h As]
+dimetruk: raises 160 to 320
+gangztastyla: calls 160
+*** FLOP *** [Th 6s Ah]
+gangztastyla: checks
+dimetruk: bets 238
+gangztastyla: calls 238
+*** TURN *** [Th 6s Ah] [Kh]
+gangztastyla: checks
+dimetruk: checks
+*** RIVER *** [Th 6s Ah Kh] [4d]
+gangztastyla: bets 275
+dimetruk: calls 275
+*** SHOW DOWN ***
+gangztastyla: shows [Qs Jh] (a straight, Ten to Ace)
+dimetruk: mucks hand
+gangztastyla collected 1706 from pot
+*** SUMMARY ***
+Total pot 1706 | Rake 0
+Board [Th 6s Ah Kh 4d]
+Seat 1: gangztastyla (big blind) showed [Qs Jh] and won (1706) with a straight, Ten to Ace
+Seat 5: dimetruk (button) (small blind) mucked [8h As]
+
+
+PokerStars Hand #228379849813: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:36:35 MSK [2021/07/18 8:36:35 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (7131 in chips)
+Seat 5: dimetruk (6369 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [4s As]
+gangztastyla: calls 80
+dimetruk: checks
+*** FLOP *** [Jd Qc 7s]
+dimetruk: checks
+gangztastyla: bets 220
+dimetruk: folds
+Uncalled bet (220) returned to gangztastyla
+gangztastyla collected 360 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [Jd Qc 7s]
+Seat 1: gangztastyla (button) (small blind) collected (360)
+Seat 5: dimetruk (big blind) folded on the Flop
+
+
+PokerStars Hand #228379862863: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:37:19 MSK [2021/07/18 8:37:19 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (7131 in chips)
+Seat 5: dimetruk (6369 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [Ts 9c]
+gangztastyla: calls 80
+dimetruk: checks
+*** FLOP *** [2h 8h Qc]
+dimetruk: checks
+gangztastyla: checks
+*** TURN *** [2h 8h Qc] [9h]
+dimetruk: bets 240
+gangztastyla: folds
+Uncalled bet (240) returned to dimetruk
+dimetruk collected 360 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [2h 8h Qc 9h]
+Seat 1: gangztastyla (button) (small blind) folded on the Turn
+Seat 5: dimetruk (big blind) collected (360)
+
+
+PokerStars Hand #228379888074: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:38:45 MSK [2021/07/18 8:38:45 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (7271 in chips)
+Seat 5: dimetruk (6229 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [4s 5d]
+dimetruk: calls 80
+gangztastyla: checks
+*** FLOP *** [9h Th 6d]
+gangztastyla: bets 160
+dimetruk: folds
+Uncalled bet (160) returned to gangztastyla
+gangztastyla collected 360 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [9h Th 6d]
+Seat 1: gangztastyla (big blind) collected (360)
+Seat 5: dimetruk (button) (small blind) folded on the Flop
+
+
+PokerStars Hand #228379893664: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:39:04 MSK [2021/07/18 8:39:04 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (7351 in chips)
+Seat 5: dimetruk (6149 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [3s 5d]
+dimetruk: calls 80
+gangztastyla: checks
+*** FLOP *** [6s 7d Kh]
+gangztastyla: bets 160
+dimetruk: calls 160
+*** TURN *** [6s 7d Kh] [9c]
+gangztastyla: bets 160
+dimetruk: calls 160
+*** RIVER *** [6s 7d Kh 9c] [Ad]
+gangztastyla: checks
+dimetruk: bets 680
+gangztastyla: folds
+Uncalled bet (680) returned to dimetruk
+dimetruk collected 1000 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [6s 7d Kh 9c Ad]
+Seat 1: gangztastyla (big blind) folded on the River
+Seat 5: dimetruk (button) (small blind) collected (1000)
+
+
+PokerStars Hand #228379909957: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:39:59 MSK [2021/07/18 8:39:59 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (7131 in chips)
+Seat 5: dimetruk (6369 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [5d Td]
+gangztastyla: calls 80
+dimetruk: checks
+*** FLOP *** [Qc 6s 7h]
+dimetruk: checks
+gangztastyla: bets 160
+dimetruk: folds
+Uncalled bet (160) returned to gangztastyla
+gangztastyla collected 360 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [Qc 6s 7h]
+Seat 1: gangztastyla (button) (small blind) collected (360)
+Seat 5: dimetruk (big blind) folded on the Flop
+
+
+PokerStars Hand #228379913702: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:40:12 MSK [2021/07/18 8:40:12 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (7311 in chips)
+Seat 5: dimetruk (6189 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [Jc 7s]
+dimetruk: raises 160 to 320
+gangztastyla: calls 160
+*** FLOP *** [8h Kh Kd]
+gangztastyla: checks
+dimetruk: bets 238
+gangztastyla: folds
+Uncalled bet (238) returned to dimetruk
+dimetruk collected 680 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 680 | Rake 0
+Board [8h Kh Kd]
+Seat 1: gangztastyla (big blind) folded on the Flop
+Seat 5: dimetruk (button) (small blind) collected (680)
+
+
+PokerStars Hand #228379928522: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:41:04 MSK [2021/07/18 8:41:04 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (7211 in chips)
+Seat 5: dimetruk (6289 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [9d Ad]
+gangztastyla: raises 160 to 320
+dimetruk: calls 160
+*** FLOP *** [2h 3d Kc]
+dimetruk: checks
+gangztastyla: bets 160
+dimetruk: calls 160
+*** TURN *** [2h 3d Kc] [8h]
+dimetruk: checks
+gangztastyla: bets 160
+dimetruk: calls 160
+*** RIVER *** [2h 3d Kc 8h] [8s]
+dimetruk: checks
+gangztastyla: checks
+*** SHOW DOWN ***
+dimetruk: shows [9d Ad] (a pair of Eights)
+gangztastyla: shows [Qd As] (a pair of Eights - Ace+King+Queen kicker)
+gangztastyla collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0
+Board [2h 3d Kc 8h 8s]
+Seat 1: gangztastyla (button) (small blind) showed [Qd As] and won (1320) with a pair of Eights
+Seat 5: dimetruk (big blind) showed [9d Ad] and lost with a pair of Eights
+
+
+PokerStars Hand #228379944646: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:41:32 MSK [2021/07/18 8:41:32 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (7871 in chips)
+Seat 5: dimetruk (5629 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [5h 4c]
+dimetruk: raises 160 to 320
+gangztastyla: calls 160
+*** FLOP *** [Jc 9d 6c]
+gangztastyla: checks
+dimetruk: checks
+*** TURN *** [Jc 9d 6c] [9s]
+gangztastyla: checks
+dimetruk: bets 340
+gangztastyla: raises 410 to 750
+dimetruk: folds
+Uncalled bet (410) returned to gangztastyla
+gangztastyla collected 1360 from pot
+gangztastyla: doesn't show hand
+*** SUMMARY ***
+Total pot 1360 | Rake 0
+Board [Jc 9d 6c 9s]
+Seat 1: gangztastyla (big blind) collected (1360)
+Seat 5: dimetruk (button) (small blind) folded on the Turn
+
+
+PokerStars Hand #228379961865: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:42:31 MSK [2021/07/18 8:42:31 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (8451 in chips)
+Seat 5: dimetruk (5049 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+dimetruk: posts small blind 80
+gangztastyla: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [4c Tc]
+dimetruk: raises 160 to 320
+gangztastyla: calls 160
+*** FLOP *** [Ac 9s 6h]
+gangztastyla: checks
+dimetruk: bets 238
+gangztastyla: folds
+Uncalled bet (238) returned to dimetruk
+dimetruk collected 680 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 680 | Rake 0
+Board [Ac 9s 6h]
+Seat 1: gangztastyla (big blind) folded on the Flop
+Seat 5: dimetruk (button) (small blind) collected (680)
+
+
+PokerStars Hand #228379965572: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VI (80/160) - 2021/07/18 15:42:44 MSK [2021/07/18 8:42:44 ET]
+Table '3231914115 1' 9-max Seat #1 is the button
+Seat 1: gangztastyla (8111 in chips)
+Seat 5: dimetruk (5389 in chips)
+gangztastyla: posts the ante 20
+dimetruk: posts the ante 20
+gangztastyla: posts small blind 80
+dimetruk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to dimetruk [As Jc]
+gangztastyla: calls 80
+dimetruk: raises 360 to 520
+gangztastyla: calls 360
+*** FLOP *** [Td 8s Ks]
+dimetruk: bets 378
+gangztastyla: calls 378
+*** TURN *** [Td 8s Ks] [Ac]
+dimetruk: bets 918
+gangztastyla: calls 918
+*** RIVER *** [Td 8s Ks Ac] [4d]
+dimetruk: checks
+gangztastyla: bets 2500
+dimetruk: calls 2500
+*** SHOW DOWN ***
+gangztastyla: shows [Js Qc] (a straight, Ten to Ace)
+dimetruk: mucks hand
+gangztastyla collected 8672 from pot
+*** SUMMARY ***
+Total pot 8672 | Rake 0
+Board [Td 8s Ks Ac 4d]
+Seat 1: gangztastyla (button) (small blind) showed [Js Qc] and won (8672) with a straight, Ten to Ace
+Seat 5: dimetruk (big blind) mucked [As Jc]
+
+
+PokerStars Hand #228379998769: Tournament #3231914115, $27.40+$2.60 USD Hold'em No Limit - Level VII (100/200) - 2021/07/18 15:44:38 MSK [2021/07/18 8:44:38 ET]
+Table '3231914115 1' 9-max Seat #5 is the button
+Seat 1: gangztastyla (12097 in chips)
+Seat 5: dimetruk (1403 in chips)
+gangztastyla: posts the ante 25
+dimetruk: posts the ante 25
+dimetruk: posts small blind 100
+gangztastyla: posts big blind 200
+*** HOLE CARDS ***
+Dealt to dimetruk [3d Kh]
+dimetruk: raises 1178 to 1378 and is all-in
+gangztastyla: calls 1178
+*** FLOP *** [Js 9s Th]
+*** TURN *** [Js 9s Th] [9d]
+*** RIVER *** [Js 9s Th 9d] [8h]
+*** SHOW DOWN ***
+gangztastyla: shows [5c 5s] (two pair, Nines and Fives)
+dimetruk: shows [3d Kh] (a pair of Nines)
+gangztastyla collected 2806 from pot
+dimetruk finished the tournament in 2nd place and received $73.98.
+gangztastyla wins the tournament and receives $123.30 - congratulations!
+*** SUMMARY ***
+Total pot 2806 | Rake 0
+Board [Js 9s Th 9d 8h]
+Seat 1: gangztastyla (big blind) showed [5c 5s] and won (2806) with two pair, Nines and Fives
+Seat 5: dimetruk (button) (small blind) showed [3d Kh] and lost with a pair of Nines
+
+
+PokerStars Hand #228815535562: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 0:36:18 MSK [2021/08/04 17:36:18 ET]
+Table '3242835350 1' 6-max Seat #1 is the button
+Seat 1: dimetruk (1500 in chips)
+Seat 2: dtronnolone (1500 in chips)
+Seat 3: mishanya_pim (1500 in chips)
+Seat 4: PokerKid700 (1500 in chips)
+Seat 5: Hänsen264 (1500 in chips)
+Seat 6: MirrowCall (1500 in chips)
+dimetruk: posts the ante 3
+dtronnolone: posts the ante 3
+mishanya_pim: posts the ante 3
+PokerKid700: posts the ante 3
+Hänsen264: posts the ante 3
+MirrowCall: posts the ante 3
+dtronnolone: posts small blind 10
+mishanya_pim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ad 4d]
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: folds
+dimetruk: raises 30 to 50
+dtronnolone: raises 131 to 181
+mishanya_pim: folds
+dimetruk: calls 131
+*** FLOP *** [9h 6c Qc]
+dtronnolone: bets 144
+dimetruk: folds
+Uncalled bet (144) returned to dtronnolone
+dtronnolone collected 400 from pot
+dtronnolone: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [9h 6c Qc]
+Seat 1: dimetruk (button) folded on the Flop
+Seat 2: dtronnolone (small blind) collected (400)
+Seat 3: mishanya_pim (big blind) folded before Flop
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 folded before Flop (didn't bet)
+Seat 6: MirrowCall folded before Flop (didn't bet)
+
+
+PokerStars Hand #228815620880: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 0:39:43 MSK [2021/08/04 17:39:43 ET]
+Table '3242835350 1' 6-max Seat #5 is the button
+Seat 1: dimetruk (1307 in chips)
+Seat 2: dtronnolone (1863 in chips)
+Seat 3: mishanya_pim (1568 in chips)
+Seat 4: PokerKid700 (1566 in chips)
+Seat 5: Hänsen264 (1288 in chips)
+Seat 6: MirrowCall (1408 in chips)
+dimetruk: posts the ante 3
+dtronnolone: posts the ante 3
+mishanya_pim: posts the ante 3
+PokerKid700: posts the ante 3
+Hänsen264: posts the ante 3
+MirrowCall: posts the ante 3
+MirrowCall: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [8c Qd]
+dtronnolone: folds
+mishanya_pim: folds
+PokerKid700: raises 20 to 40
+Hänsen264: folds
+MirrowCall: folds
+dimetruk: calls 20
+*** FLOP *** [Jd 8h 7h]
+dimetruk: checks
+PokerKid700: bets 54
+dimetruk: calls 54
+*** TURN *** [Jd 8h 7h] [Ah]
+dimetruk: checks
+PokerKid700: bets 80
+dimetruk: folds
+Uncalled bet (80) returned to PokerKid700
+PokerKid700 collected 216 from pot
+PokerKid700: doesn't show hand
+*** SUMMARY ***
+Total pot 216 | Rake 0
+Board [Jd 8h 7h Ah]
+Seat 1: dimetruk (big blind) folded on the Turn
+Seat 2: dtronnolone folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 collected (216)
+Seat 5: Hänsen264 (button) folded before Flop (didn't bet)
+Seat 6: MirrowCall (small blind) folded before Flop
+
+
+PokerStars Hand #228815641765: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 0:40:34 MSK [2021/08/04 17:40:34 ET]
+Table '3242835350 1' 6-max Seat #6 is the button
+Seat 1: dimetruk (1210 in chips)
+Seat 2: dtronnolone (1860 in chips)
+Seat 3: mishanya_pim (1565 in chips)
+Seat 4: PokerKid700 (1685 in chips)
+Seat 5: Hänsen264 (1285 in chips)
+Seat 6: MirrowCall (1395 in chips)
+dimetruk: posts the ante 3
+dtronnolone: posts the ante 3
+mishanya_pim: posts the ante 3
+PokerKid700: posts the ante 3
+Hänsen264: posts the ante 3
+MirrowCall: posts the ante 3
+dimetruk: posts small blind 10
+dtronnolone: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [As 7c]
+mishanya_pim: folds
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: calls 20
+dimetruk: raises 45 to 65
+dtronnolone: calls 45
+MirrowCall: calls 45
+*** FLOP *** [6s 2c 3c]
+dimetruk: checks
+dtronnolone: checks
+MirrowCall: checks
+*** TURN *** [6s 2c 3c] [8d]
+dimetruk: bets 70
+dtronnolone: folds
+MirrowCall: folds
+Uncalled bet (70) returned to dimetruk
+dimetruk collected 213 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 213 | Rake 0
+Board [6s 2c 3c 8d]
+Seat 1: dimetruk (small blind) collected (213)
+Seat 2: dtronnolone (big blind) folded on the Turn
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 folded before Flop (didn't bet)
+Seat 6: MirrowCall (button) folded on the Turn
+
+
+PokerStars Hand #228815672371: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 0:41:49 MSK [2021/08/04 17:41:49 ET]
+Table '3242835350 1' 6-max Seat #1 is the button
+Seat 1: dimetruk (1355 in chips)
+Seat 2: dtronnolone (1792 in chips)
+Seat 3: mishanya_pim (1562 in chips)
+Seat 4: PokerKid700 (1682 in chips)
+Seat 5: Hänsen264 (1282 in chips)
+Seat 6: MirrowCall (1327 in chips)
+dimetruk: posts the ante 3
+dtronnolone: posts the ante 3
+mishanya_pim: posts the ante 3
+PokerKid700: posts the ante 3
+Hänsen264: posts the ante 3
+MirrowCall: posts the ante 3
+dtronnolone: posts small blind 10
+mishanya_pim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [2d Ad]
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: raises 20 to 40
+dimetruk: raises 85 to 125
+dtronnolone: folds
+mishanya_pim: folds
+MirrowCall: calls 85
+*** FLOP *** [Jh 5d Qd]
+MirrowCall: checks
+dimetruk: checks
+*** TURN *** [Jh 5d Qd] [4s]
+MirrowCall: bets 298
+dimetruk: calls 298
+*** RIVER *** [Jh 5d Qd 4s] [2s]
+MirrowCall: bets 901 and is all-in
+dimetruk: folds
+Uncalled bet (901) returned to MirrowCall
+MirrowCall collected 894 from pot
+MirrowCall: doesn't show hand
+*** SUMMARY ***
+Total pot 894 | Rake 0
+Board [Jh 5d Qd 4s 2s]
+Seat 1: dimetruk (button) folded on the River
+Seat 2: dtronnolone (small blind) folded before Flop
+Seat 3: mishanya_pim (big blind) folded before Flop
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 folded before Flop (didn't bet)
+Seat 6: MirrowCall collected (894)
+
+
+PokerStars Hand #228815773810: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 0:45:57 MSK [2021/08/04 17:45:57 ET]
+Table '3242835350 1' 6-max Seat #4 is the button
+Seat 1: dimetruk (923 in chips)
+Seat 2: dtronnolone (1851 in chips)
+Seat 3: mishanya_pim (1513 in chips)
+Seat 4: PokerKid700 (1727 in chips)
+Seat 5: Hänsen264 (1217 in chips)
+Seat 6: MirrowCall (1769 in chips)
+dimetruk: posts the ante 3
+dtronnolone: posts the ante 3
+mishanya_pim: posts the ante 3
+PokerKid700: posts the ante 3
+Hänsen264: posts the ante 3
+MirrowCall: posts the ante 3
+Hänsen264: posts small blind 10
+MirrowCall: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ks 9s]
+dimetruk: raises 20 to 40
+dtronnolone: calls 40
+mishanya_pim: folds
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: folds
+*** FLOP *** [9h Ts Kd]
+dimetruk: bets 67
+dtronnolone: calls 67
+*** TURN *** [9h Ts Kd] [6c]
+dimetruk: bets 189
+dtronnolone: folds
+Uncalled bet (189) returned to dimetruk
+dimetruk collected 262 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 262 | Rake 0
+Board [9h Ts Kd 6c]
+Seat 1: dimetruk collected (262)
+Seat 2: dtronnolone folded on the Turn
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 (button) folded before Flop (didn't bet)
+Seat 5: Hänsen264 (small blind) folded before Flop
+Seat 6: MirrowCall (big blind) folded before Flop
+
+
+PokerStars Hand #228815795995: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 0:46:52 MSK [2021/08/04 17:46:52 ET]
+Table '3242835350 1' 6-max Seat #5 is the button
+Seat 1: dimetruk (1075 in chips)
+Seat 2: dtronnolone (1741 in chips)
+Seat 3: mishanya_pim (1510 in chips)
+Seat 4: PokerKid700 (1724 in chips)
+Seat 5: Hänsen264 (1204 in chips)
+Seat 6: MirrowCall (1746 in chips)
+dimetruk: posts the ante 4
+dtronnolone: posts the ante 4
+mishanya_pim: posts the ante 4
+PokerKid700: posts the ante 4
+Hänsen264: posts the ante 4
+MirrowCall: posts the ante 4
+MirrowCall: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Ts 2d]
+dtronnolone: raises 51 to 81
+mishanya_pim: folds
+PokerKid700: folds
+Hänsen264: calls 81
+MirrowCall: folds
+dimetruk: calls 51
+*** FLOP *** [2h Ks 5c]
+dimetruk: checks
+dtronnolone: bets 102
+Hänsen264: folds
+dimetruk: calls 102
+*** TURN *** [2h Ks 5c] [Jc]
+dimetruk: checks
+dtronnolone: bets 175
+dimetruk: folds
+Uncalled bet (175) returned to dtronnolone
+dtronnolone collected 486 from pot
+dtronnolone: doesn't show hand
+*** SUMMARY ***
+Total pot 486 | Rake 0
+Board [2h Ks 5c Jc]
+Seat 1: dimetruk (big blind) folded on the Turn
+Seat 2: dtronnolone collected (486)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 (button) folded on the Flop
+Seat 6: MirrowCall (small blind) folded before Flop
+
+
+PokerStars Hand #228815906824: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 0:51:30 MSK [2021/08/04 17:51:30 ET]
+Table '3242835350 1' 6-max Seat #4 is the button
+Seat 1: dimetruk (842 in chips)
+Seat 2: dtronnolone (1317 in chips)
+Seat 3: mishanya_pim (1629 in chips)
+Seat 4: PokerKid700 (1788 in chips)
+Seat 5: Hänsen264 (1466 in chips)
+Seat 6: MirrowCall (1958 in chips)
+dimetruk: posts the ante 4
+dtronnolone: posts the ante 4
+mishanya_pim: posts the ante 4
+PokerKid700: posts the ante 4
+Hänsen264: posts the ante 4
+MirrowCall: posts the ante 4
+Hänsen264: posts small blind 15
+MirrowCall: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Th As]
+dimetruk: raises 45 to 75
+dtronnolone: folds
+mishanya_pim: calls 75
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: folds
+*** FLOP *** [4d Qc 5c]
+dimetruk: checks
+mishanya_pim: bets 55
+dimetruk: folds
+Uncalled bet (55) returned to mishanya_pim
+mishanya_pim collected 219 from pot
+mishanya_pim: doesn't show hand
+*** SUMMARY ***
+Total pot 219 | Rake 0
+Board [4d Qc 5c]
+Seat 1: dimetruk folded on the Flop
+Seat 2: dtronnolone folded before Flop (didn't bet)
+Seat 3: mishanya_pim collected (219)
+Seat 4: PokerKid700 (button) folded before Flop (didn't bet)
+Seat 5: Hänsen264 (small blind) folded before Flop
+Seat 6: MirrowCall (big blind) folded before Flop
+
+
+PokerStars Hand #228815923338: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 0:52:10 MSK [2021/08/04 17:52:10 ET]
+Table '3242835350 1' 6-max Seat #5 is the button
+Seat 1: dimetruk (763 in chips)
+Seat 2: dtronnolone (1313 in chips)
+Seat 3: mishanya_pim (1769 in chips)
+Seat 4: PokerKid700 (1784 in chips)
+Seat 5: Hänsen264 (1447 in chips)
+Seat 6: MirrowCall (1924 in chips)
+dimetruk: posts the ante 4
+dtronnolone: posts the ante 4
+mishanya_pim: posts the ante 4
+PokerKid700: posts the ante 4
+Hänsen264: posts the ante 4
+MirrowCall: posts the ante 4
+MirrowCall: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Tc 2c]
+dtronnolone: folds
+mishanya_pim: folds
+PokerKid700: folds
+Hänsen264: raises 56 to 86
+MirrowCall: folds
+dimetruk: calls 56
+*** FLOP *** [Kd Kh 3d]
+dimetruk: checks
+Hänsen264: bets 87
+dimetruk: folds
+Uncalled bet (87) returned to Hänsen264
+Hänsen264 collected 211 from pot
+Hänsen264: doesn't show hand
+*** SUMMARY ***
+Total pot 211 | Rake 0
+Board [Kd Kh 3d]
+Seat 1: dimetruk (big blind) folded on the Flop
+Seat 2: dtronnolone folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 (button) collected (211)
+Seat 6: MirrowCall (small blind) folded before Flop
+
+
+PokerStars Hand #228816055283: Tournament #3242835350, $27.58+$2.42 USD Hold'em No Limit - Level III (25/50) - 2021/08/05 0:58:33 MSK [2021/08/04 17:58:33 ET]
+Table '3242835350 1' 6-max Seat #5 is the button
+Seat 1: dimetruk (747 in chips)
+Seat 2: dtronnolone (1341 in chips)
+Seat 3: mishanya_pim (1698 in chips)
+Seat 4: PokerKid700 (1407 in chips)
+Seat 5: Hänsen264 (1491 in chips)
+Seat 6: MirrowCall (2316 in chips)
+dimetruk: posts the ante 6
+dtronnolone: posts the ante 6
+mishanya_pim: posts the ante 6
+PokerKid700: posts the ante 6
+Hänsen264: posts the ante 6
+MirrowCall: posts the ante 6
+MirrowCall: posts small blind 25
+dimetruk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Ks Th]
+dtronnolone: raises 85 to 135
+mishanya_pim: folds
+PokerKid700: folds
+Hänsen264: folds
+MirrowCall: calls 110
+dimetruk: raises 606 to 741 and is all-in
+dtronnolone: folds
+MirrowCall: calls 606
+*** FLOP *** [Ts 2d Jc]
+*** TURN *** [Ts 2d Jc] [Ad]
+*** RIVER *** [Ts 2d Jc Ad] [7s]
+*** SHOW DOWN ***
+MirrowCall: shows [8h Js] (a pair of Jacks)
+dimetruk: shows [Ks Th] (a pair of Tens)
+MirrowCall collected 1653 from pot
+dimetruk finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1653 | Rake 0
+Board [Ts 2d Jc Ad 7s]
+Seat 1: dimetruk (big blind) showed [Ks Th] and lost with a pair of Tens
+Seat 2: dtronnolone folded before Flop
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: PokerKid700 folded before Flop (didn't bet)
+Seat 5: Hänsen264 (button) folded before Flop (didn't bet)
+Seat 6: MirrowCall (small blind) showed [8h Js] and won (1653) with a pair of Jacks
+
+
+PokerStars Hand #228816085478: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 1:00:11 MSK [2021/08/04 18:00:11 ET]
+Table '3242858326 1' 6-max Seat #1 is the button
+Seat 1: MirrowCall (1500 in chips)
+Seat 2: julinhobrazu (1500 in chips)
+Seat 3: mishanya_pim (1500 in chips)
+Seat 4: crazyrob87 (1500 in chips)
+Seat 5: JK147 (1500 in chips)
+Seat 6: dimetruk (1500 in chips)
+MirrowCall: posts the ante 3
+julinhobrazu: posts the ante 3
+mishanya_pim: posts the ante 3
+crazyrob87: posts the ante 3
+JK147: posts the ante 3
+dimetruk: posts the ante 3
+julinhobrazu: posts small blind 10
+mishanya_pim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Tc 9c]
+crazyrob87: folds
+JK147: calls 20
+dimetruk: raises 40 to 60
+MirrowCall: folds
+julinhobrazu: folds
+mishanya_pim: folds
+JK147: calls 40
+*** FLOP *** [2s 2c 7d]
+JK147: checks
+dimetruk: bets 55
+JK147: calls 55
+*** TURN *** [2s 2c 7d] [Qc]
+JK147: checks
+dimetruk: bets 320
+JK147: calls 320
+*** RIVER *** [2s 2c 7d Qc] [2d]
+JK147: checks
+dimetruk: checks
+*** SHOW DOWN ***
+JK147: shows [Qh 8d] (a full house, Deuces full of Queens)
+dimetruk: mucks hand
+JK147 collected 918 from pot
+*** SUMMARY ***
+Total pot 918 | Rake 0
+Board [2s 2c 7d Qc 2d]
+Seat 1: MirrowCall (button) folded before Flop (didn't bet)
+Seat 2: julinhobrazu (small blind) folded before Flop
+Seat 3: mishanya_pim (big blind) folded before Flop
+Seat 4: crazyrob87 folded before Flop (didn't bet)
+Seat 5: JK147 showed [Qh 8d] and won (918) with a full house, Deuces full of Queens
+Seat 6: dimetruk mucked [Tc 9c]
+
+
+PokerStars Hand #228816150099: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 1:03:10 MSK [2021/08/04 18:03:10 ET]
+Table '3242858326 1' 6-max Seat #4 is the button
+Seat 1: MirrowCall (1491 in chips)
+Seat 2: julinhobrazu (1481 in chips)
+Seat 3: mishanya_pim (1461 in chips)
+Seat 4: crazyrob87 (1074 in chips)
+Seat 5: JK147 (2437 in chips)
+Seat 6: dimetruk (1056 in chips)
+MirrowCall: posts the ante 3
+julinhobrazu: posts the ante 3
+mishanya_pim: posts the ante 3
+crazyrob87: posts the ante 3
+JK147: posts the ante 3
+dimetruk: posts the ante 3
+JK147: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [9s 6d]
+MirrowCall: folds
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: raises 40 to 60
+JK147: calls 50
+dimetruk: calls 40
+*** FLOP *** [3c 5c 7h]
+JK147: checks
+dimetruk: checks
+crazyrob87: bets 99
+JK147: folds
+dimetruk: calls 99
+*** TURN *** [3c 5c 7h] [Td]
+dimetruk: checks
+crazyrob87: bets 160
+dimetruk: folds
+Uncalled bet (160) returned to crazyrob87
+crazyrob87 collected 396 from pot
+crazyrob87: doesn't show hand
+*** SUMMARY ***
+Total pot 396 | Rake 0
+Board [3c 5c 7h Td]
+Seat 1: MirrowCall folded before Flop (didn't bet)
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 (button) collected (396)
+Seat 5: JK147 (small blind) folded on the Flop
+Seat 6: dimetruk (big blind) folded on the Turn
+
+
+PokerStars Hand #228816186371: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 1:04:46 MSK [2021/08/04 18:04:46 ET]
+Table '3242858326 1' 6-max Seat #6 is the button
+Seat 1: MirrowCall (1425 in chips)
+Seat 2: julinhobrazu (1475 in chips)
+Seat 3: mishanya_pim (1455 in chips)
+Seat 4: crazyrob87 (1393 in chips)
+Seat 5: JK147 (2371 in chips)
+Seat 6: dimetruk (881 in chips)
+MirrowCall: posts the ante 3
+julinhobrazu: posts the ante 3
+mishanya_pim: posts the ante 3
+crazyrob87: posts the ante 3
+JK147: posts the ante 3
+dimetruk: posts the ante 3
+MirrowCall: posts small blind 10
+julinhobrazu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [6s Ac]
+mishanya_pim: folds
+crazyrob87: folds
+JK147: folds
+dimetruk: raises 30 to 50
+MirrowCall: calls 40
+julinhobrazu: calls 30
+*** FLOP *** [2c 7d 3h]
+MirrowCall: checks
+julinhobrazu: checks
+dimetruk: checks
+*** TURN *** [2c 7d 3h] [3s]
+MirrowCall: checks
+julinhobrazu: bets 50
+dimetruk: calls 50
+MirrowCall: calls 50
+*** RIVER *** [2c 7d 3h 3s] [Jc]
+MirrowCall: bets 80
+julinhobrazu: raises 315 to 395
+dimetruk: folds
+MirrowCall: folds
+Uncalled bet (315) returned to julinhobrazu
+julinhobrazu collected 478 from pot
+julinhobrazu: doesn't show hand
+*** SUMMARY ***
+Total pot 478 | Rake 0
+Board [2c 7d 3h 3s Jc]
+Seat 1: MirrowCall (small blind) folded on the River
+Seat 2: julinhobrazu (big blind) collected (478)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 folded before Flop (didn't bet)
+Seat 5: JK147 folded before Flop (didn't bet)
+Seat 6: dimetruk (button) folded on the River
+
+
+PokerStars Hand #228816245727: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 1:07:22 MSK [2021/08/04 18:07:22 ET]
+Table '3242858326 1' 6-max Seat #3 is the button
+Seat 1: MirrowCall (1236 in chips)
+Seat 2: julinhobrazu (1969 in chips)
+Seat 3: mishanya_pim (1550 in chips)
+Seat 4: crazyrob87 (1291 in chips)
+Seat 5: JK147 (2182 in chips)
+Seat 6: dimetruk (772 in chips)
+MirrowCall: posts the ante 3
+julinhobrazu: posts the ante 3
+mishanya_pim: posts the ante 3
+crazyrob87: posts the ante 3
+JK147: posts the ante 3
+dimetruk: posts the ante 3
+crazyrob87: posts small blind 10
+JK147: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [5d 5h]
+dimetruk: raises 20 to 40
+MirrowCall: folds
+julinhobrazu: calls 40
+mishanya_pim: folds
+crazyrob87: calls 30
+JK147: calls 20
+*** FLOP *** [Tc Ts 5s]
+crazyrob87: checks
+JK147: checks
+dimetruk: checks
+julinhobrazu: bets 53
+crazyrob87: folds
+JK147: folds
+dimetruk: calls 53
+*** TURN *** [Tc Ts 5s] [6d]
+dimetruk: checks
+julinhobrazu: bets 85
+dimetruk: raises 591 to 676 and is all-in
+julinhobrazu: calls 591
+*** RIVER *** [Tc Ts 5s 6d] [Ks]
+*** SHOW DOWN ***
+dimetruk: shows [5d 5h] (a full house, Fives full of Tens)
+julinhobrazu: shows [9d 9h] (two pair, Tens and Nines)
+dimetruk collected 1636 from pot
+*** SUMMARY ***
+Total pot 1636 | Rake 0
+Board [Tc Ts 5s 6d Ks]
+Seat 1: MirrowCall folded before Flop (didn't bet)
+Seat 2: julinhobrazu showed [9d 9h] and lost with two pair, Tens and Nines
+Seat 3: mishanya_pim (button) folded before Flop (didn't bet)
+Seat 4: crazyrob87 (small blind) folded on the Flop
+Seat 5: JK147 (big blind) folded on the Flop
+Seat 6: dimetruk showed [5d 5h] and won (1636) with a full house, Fives full of Tens
+
+
+PokerStars Hand #228816270617: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level I (10/20) - 2021/08/05 1:08:27 MSK [2021/08/04 18:08:27 ET]
+Table '3242858326 1' 6-max Seat #4 is the button
+Seat 1: MirrowCall (1233 in chips)
+Seat 2: julinhobrazu (1197 in chips)
+Seat 3: mishanya_pim (1547 in chips)
+Seat 4: crazyrob87 (1248 in chips)
+Seat 5: JK147 (2139 in chips)
+Seat 6: dimetruk (1636 in chips)
+MirrowCall: posts the ante 3
+julinhobrazu: posts the ante 3
+mishanya_pim: posts the ante 3
+crazyrob87: posts the ante 3
+JK147: posts the ante 3
+dimetruk: posts the ante 3
+JK147: posts small blind 10
+dimetruk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to dimetruk [Ts 7s]
+MirrowCall: raises 20 to 40
+julinhobrazu: folds
+mishanya_pim: calls 40
+crazyrob87: folds
+JK147: calls 30
+dimetruk: calls 20
+*** FLOP *** [9c Js 9h]
+JK147: checks
+dimetruk: checks
+MirrowCall: checks
+mishanya_pim: bets 45
+JK147: calls 45
+dimetruk: calls 45
+MirrowCall: calls 45
+*** TURN *** [9c Js 9h] [Jc]
+JK147: checks
+dimetruk: checks
+MirrowCall: checks
+mishanya_pim: checks
+*** RIVER *** [9c Js 9h Jc] [2h]
+JK147: checks
+dimetruk: checks
+MirrowCall: bets 180
+mishanya_pim: folds
+JK147: folds
+dimetruk: folds
+Uncalled bet (180) returned to MirrowCall
+MirrowCall collected 358 from pot
+MirrowCall: doesn't show hand
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Board [9c Js 9h Jc 2h]
+Seat 1: MirrowCall collected (358)
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded on the River
+Seat 4: crazyrob87 (button) folded before Flop (didn't bet)
+Seat 5: JK147 (small blind) folded on the River
+Seat 6: dimetruk (big blind) folded on the River
+
+
+PokerStars Hand #228816313092: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:10:20 MSK [2021/08/04 18:10:20 ET]
+Table '3242858326 1' 6-max Seat #6 is the button
+Seat 1: MirrowCall (1480 in chips)
+Seat 2: julinhobrazu (1191 in chips)
+Seat 3: mishanya_pim (1456 in chips)
+Seat 4: crazyrob87 (1290 in chips)
+Seat 5: JK147 (2048 in chips)
+Seat 6: dimetruk (1535 in chips)
+MirrowCall: posts the ante 4
+julinhobrazu: posts the ante 4
+mishanya_pim: posts the ante 4
+crazyrob87: posts the ante 4
+JK147: posts the ante 4
+dimetruk: posts the ante 4
+MirrowCall: posts small blind 15
+julinhobrazu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Kh As]
+mishanya_pim: folds
+crazyrob87: folds
+JK147: folds
+dimetruk: raises 45 to 75
+MirrowCall: folds
+julinhobrazu: calls 45
+*** FLOP *** [Js 6h 4c]
+julinhobrazu: checks
+dimetruk: checks
+*** TURN *** [Js 6h 4c] [6s]
+julinhobrazu: bets 57
+dimetruk: calls 57
+*** RIVER *** [Js 6h 4c 6s] [8c]
+julinhobrazu: bets 180
+dimetruk: calls 180
+*** SHOW DOWN ***
+julinhobrazu: shows [Qs 3s] (a pair of Sixes)
+dimetruk: shows [Kh As] (a pair of Sixes - Ace kicker)
+dimetruk collected 663 from pot
+*** SUMMARY ***
+Total pot 663 | Rake 0
+Board [Js 6h 4c 6s 8c]
+Seat 1: MirrowCall (small blind) folded before Flop
+Seat 2: julinhobrazu (big blind) showed [Qs 3s] and lost with a pair of Sixes
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 folded before Flop (didn't bet)
+Seat 5: JK147 folded before Flop (didn't bet)
+Seat 6: dimetruk (button) showed [Kh As] and won (663) with a pair of Sixes
+
+
+PokerStars Hand #228816343687: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:11:41 MSK [2021/08/04 18:11:41 ET]
+Table '3242858326 1' 6-max Seat #3 is the button
+Seat 1: MirrowCall (1423 in chips)
+Seat 2: julinhobrazu (852 in chips)
+Seat 3: mishanya_pim (1399 in chips)
+Seat 4: crazyrob87 (1347 in chips)
+Seat 5: JK147 (2036 in chips)
+Seat 6: dimetruk (1943 in chips)
+MirrowCall: posts the ante 4
+julinhobrazu: posts the ante 4
+mishanya_pim: posts the ante 4
+crazyrob87: posts the ante 4
+JK147: posts the ante 4
+dimetruk: posts the ante 4
+crazyrob87: posts small blind 15
+JK147: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Qc Ad]
+dimetruk: raises 45 to 75
+MirrowCall: folds
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: folds
+JK147: calls 45
+*** FLOP *** [Qd 5d 2d]
+JK147: checks
+dimetruk: bets 62
+JK147: calls 62
+*** TURN *** [Qd 5d 2d] [6h]
+JK147: checks
+dimetruk: bets 163
+JK147: calls 163
+*** RIVER *** [Qd 5d 2d 6h] [9c]
+JK147: checks
+dimetruk: bets 460
+JK147: folds
+Uncalled bet (460) returned to dimetruk
+dimetruk collected 639 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 639 | Rake 0
+Board [Qd 5d 2d 6h 9c]
+Seat 1: MirrowCall folded before Flop (didn't bet)
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim (button) folded before Flop (didn't bet)
+Seat 4: crazyrob87 (small blind) folded before Flop
+Seat 5: JK147 (big blind) folded on the River
+Seat 6: dimetruk collected (639)
+
+
+PokerStars Hand #228816365202: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:12:39 MSK [2021/08/04 18:12:39 ET]
+Table '3242858326 1' 6-max Seat #4 is the button
+Seat 1: MirrowCall (1419 in chips)
+Seat 2: julinhobrazu (848 in chips)
+Seat 3: mishanya_pim (1395 in chips)
+Seat 4: crazyrob87 (1328 in chips)
+Seat 5: JK147 (1732 in chips)
+Seat 6: dimetruk (2278 in chips)
+MirrowCall: posts the ante 4
+julinhobrazu: posts the ante 4
+mishanya_pim: posts the ante 4
+crazyrob87: posts the ante 4
+JK147: posts the ante 4
+dimetruk: posts the ante 4
+JK147: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [5s 6s]
+MirrowCall: raises 30 to 60
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: calls 60
+JK147: calls 45
+dimetruk: calls 30
+*** FLOP *** [3d 7d 2s]
+JK147: checks
+dimetruk: checks
+MirrowCall: checks
+crazyrob87: bets 132
+JK147: calls 132
+dimetruk: calls 132
+MirrowCall: folds
+*** TURN *** [3d 7d 2s] [2h]
+JK147: checks
+dimetruk: checks
+crazyrob87: bets 270
+JK147: folds
+dimetruk: folds
+Uncalled bet (270) returned to crazyrob87
+crazyrob87 collected 660 from pot
+crazyrob87: doesn't show hand
+*** SUMMARY ***
+Total pot 660 | Rake 0
+Board [3d 7d 2s 2h]
+Seat 1: MirrowCall folded on the Flop
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 (button) collected (660)
+Seat 5: JK147 (small blind) folded on the Turn
+Seat 6: dimetruk (big blind) folded on the Turn
+
+
+PokerStars Hand #228816445233: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:16:14 MSK [2021/08/04 18:16:14 ET]
+Table '3242858326 1' 6-max Seat #4 is the button
+Seat 1: MirrowCall (2488 in chips)
+Seat 2: julinhobrazu (1676 in chips)
+Seat 3: mishanya_pim (1326 in chips)
+Seat 4: crazyrob87 (1613 in chips)
+Seat 6: dimetruk (1897 in chips)
+MirrowCall: posts the ante 4
+julinhobrazu: posts the ante 4
+mishanya_pim: posts the ante 4
+crazyrob87: posts the ante 4
+dimetruk: posts the ante 4
+dimetruk: posts small blind 15
+MirrowCall: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [8d 9c]
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: folds
+dimetruk: calls 15
+MirrowCall: checks
+*** FLOP *** [5s Th 4c]
+dimetruk: checks
+MirrowCall: checks
+*** TURN *** [5s Th 4c] [7s]
+dimetruk: bets 98
+MirrowCall: calls 98
+*** RIVER *** [5s Th 4c 7s] [Js]
+dimetruk: bets 427
+MirrowCall: folds
+Uncalled bet (427) returned to dimetruk
+dimetruk collected 276 from pot
+dimetruk: doesn't show hand
+*** SUMMARY ***
+Total pot 276 | Rake 0
+Board [5s Th 4c 7s Js]
+Seat 1: MirrowCall (big blind) folded on the River
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 (button) folded before Flop (didn't bet)
+Seat 6: dimetruk (small blind) collected (276)
+
+
+PokerStars Hand #228816502665: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:18:51 MSK [2021/08/04 18:18:51 ET]
+Table '3242858326 1' 6-max Seat #3 is the button
+Seat 1: MirrowCall (1294 in chips)
+Seat 2: julinhobrazu (2685 in chips)
+Seat 3: mishanya_pim (1265 in chips)
+Seat 4: crazyrob87 (1787 in chips)
+Seat 6: dimetruk (1969 in chips)
+MirrowCall: posts the ante 4
+julinhobrazu: posts the ante 4
+mishanya_pim: posts the ante 4
+crazyrob87: posts the ante 4
+dimetruk: posts the ante 4
+crazyrob87: posts small blind 15
+dimetruk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to dimetruk [Td 6h]
+MirrowCall: folds
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: raises 60 to 90
+dimetruk: calls 60
+*** FLOP *** [9c Kc Jc]
+crazyrob87: bets 100
+dimetruk: folds
+Uncalled bet (100) returned to crazyrob87
+crazyrob87 collected 200 from pot
+crazyrob87: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [9c Kc Jc]
+Seat 1: MirrowCall folded before Flop (didn't bet)
+Seat 2: julinhobrazu folded before Flop (didn't bet)
+Seat 3: mishanya_pim (button) folded before Flop (didn't bet)
+Seat 4: crazyrob87 (small blind) collected (200)
+Seat 6: dimetruk (big blind) folded on the Flop
+
+
+PokerStars Hand #228816568248: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level III (25/50) - 2021/08/05 1:21:53 MSK [2021/08/04 18:21:53 ET]
+Table '3242858326 1' 6-max Seat #2 is the button
+Seat 1: MirrowCall (1561 in chips)
+Seat 2: julinhobrazu (2767 in chips)
+Seat 3: mishanya_pim (1197 in chips)
+Seat 4: crazyrob87 (1854 in chips)
+Seat 6: dimetruk (1621 in chips)
+MirrowCall: posts the ante 6
+julinhobrazu: posts the ante 6
+mishanya_pim: posts the ante 6
+crazyrob87: posts the ante 6
+dimetruk: posts the ante 6
+mishanya_pim: posts small blind 25
+crazyrob87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Ts Kh]
+dimetruk: raises 50 to 100
+MirrowCall: folds
+julinhobrazu: folds
+mishanya_pim: folds
+crazyrob87: calls 50
+*** FLOP *** [4c 9h 7c]
+crazyrob87: checks
+dimetruk: bets 133
+crazyrob87: calls 133
+*** TURN *** [4c 9h 7c] [5d]
+crazyrob87: checks
+dimetruk: checks
+*** RIVER *** [4c 9h 7c 5d] [8s]
+crazyrob87: checks
+dimetruk: bets 640
+crazyrob87: calls 640
+*** SHOW DOWN ***
+dimetruk: shows [Ts Kh] (high card King)
+crazyrob87: shows [Qc 4d] (a pair of Fours)
+crazyrob87 collected 1801 from pot
+*** SUMMARY ***
+Total pot 1801 | Rake 0
+Board [4c 9h 7c 5d 8s]
+Seat 1: MirrowCall folded before Flop (didn't bet)
+Seat 2: julinhobrazu (button) folded before Flop (didn't bet)
+Seat 3: mishanya_pim (small blind) folded before Flop
+Seat 4: crazyrob87 (big blind) showed [Qc 4d] and won (1801) with a pair of Fours
+Seat 6: dimetruk showed [Ts Kh] and lost with high card King
+
+
+PokerStars Hand #228816594420: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level III (25/50) - 2021/08/05 1:23:06 MSK [2021/08/04 18:23:06 ET]
+Table '3242858326 1' 6-max Seat #4 is the button
+Seat 1: MirrowCall (1549 in chips)
+Seat 2: julinhobrazu (2860 in chips)
+Seat 3: mishanya_pim (1160 in chips)
+Seat 4: crazyrob87 (2745 in chips)
+Seat 6: dimetruk (686 in chips)
+MirrowCall: posts the ante 6
+julinhobrazu: posts the ante 6
+mishanya_pim: posts the ante 6
+crazyrob87: posts the ante 6
+dimetruk: posts the ante 6
+dimetruk: posts small blind 25
+MirrowCall: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [Tc Th]
+julinhobrazu: raises 65 to 115
+mishanya_pim: folds
+crazyrob87: folds
+dimetruk: raises 565 to 680 and is all-in
+MirrowCall: folds
+julinhobrazu: calls 565
+*** FLOP *** [Qd 2d Ah]
+*** TURN *** [Qd 2d Ah] [6d]
+*** RIVER *** [Qd 2d Ah 6d] [3d]
+*** SHOW DOWN ***
+dimetruk: shows [Tc Th] (a pair of Tens)
+julinhobrazu: shows [Td Ad] (a flush, Ace high)
+julinhobrazu collected 1440 from pot
+dimetruk finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1440 | Rake 0
+Board [Qd 2d Ah 6d 3d]
+Seat 1: MirrowCall (big blind) folded before Flop
+Seat 2: julinhobrazu showed [Td Ad] and won (1440) with a flush, Ace high
+Seat 3: mishanya_pim folded before Flop (didn't bet)
+Seat 4: crazyrob87 (button) folded before Flop (didn't bet)
+Seat 6: dimetruk (small blind) showed [Tc Th] and lost with a pair of Tens
+
+
