@@ -10,7 +10,7 @@ gnella13: posts small blind 200
 Luke141269: posts big blind 400
 *** HOLE CARDS ***
 Dealt to dimetruk [7h 7s]
-dimetruk: raises 1750 to 2150 and is all-in
+dimetruk: raises 1750 to 2150 and is -
 gnella13: raises 5542 to 7692 and is all-in
 Luke141269: folds
 Uncalled bet (5542) returned to gnella13
