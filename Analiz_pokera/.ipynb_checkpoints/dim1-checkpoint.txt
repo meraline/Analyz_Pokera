@@ -1,0 +1,29 @@
+PokerStars Hand #228182836411: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:46:28 MSK [2021/07/10 1:46:28 ET]
+Table '3227430197 1' 9-max Seat #4 is the button
+Seat 2: Luke141269 (3608 in chips)
+Seat 4: dimetruk (2175 in chips)
+Seat 9: gnella13 (7717 in chips)
+Luke141269: posts the ante 25
+dimetruk: posts the ante 25
+gnella13: posts the ante 25
+gnella13: posts small blind 200
+Luke141269: posts big blind 400
+*** HOLE CARDS ***
+Dealt to dimetruk [7h 7s]
+dimetruk: raises 1750 to 2150 and is all-in
+gnella13: raises 5542 to 7692 and is all-in
+Luke141269: folds
+Uncalled bet (5542) returned to gnella13
+*** FLOP *** [5h 2h Kc]
+*** TURN *** [5h 2h Kc] [3h]
+*** RIVER *** [5h 2h Kc 3h] [5c]
+*** SHOW DOWN ***
+gnella13: shows [Js Ah] (a pair of Fives)
+dimetruk: shows [7h 7s] (two pair, Sevens and Fives)
+dimetruk collected 4775 from pot
+*** SUMMARY ***
+Total pot 4775 | Rake 0
+Board [5h 2h Kc 3h 5c]
+Seat 2: Luke141269 (big blind) folded before Flop
+Seat 4: dimetruk (button) showed [7h 7s] and won (4775) with two pair, Sevens and Fives
+Seat 9: gnella13 (small blind) showed [Js Ah] and lost with a pair of Fives
