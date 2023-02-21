@@ -1,457 +1,3 @@
-PokerStars Hand #226484810600: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level IV (40/80) - 2021/05/05 19:56:10 MSK [2021/05/05 12:56:10 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (6974 in chips)
-Seat 5: Vandbro (2026 in chips)
-dimetruk: posts the ante 10
-Vandbro: posts the ante 10
-Vandbro: posts small blind 40
-dimetruk: posts big blind 80
-*** HOLE CARDS ***
-Dealt to dimetruk [Jh Td]
-Vandbro: calls 40
-dimetruk: raises 80 to 160
-Vandbro: calls 80
-*** FLOP *** [8h 8c 7c]
-dimetruk: bets 153
-Vandbro: raises 258 to 411
-dimetruk: raises 6393 to 6804 and is all-in
-Vandbro: calls 1445 and is all-in
-Uncalled bet (4948) returned to dimetruk
-*** TURN *** [8h 8c 7c] [3h]
-*** RIVER *** [8h 8c 7c 3h] [6d]
-*** SHOW DOWN ***
-dimetruk: shows [Jh Td] (a pair of Eights)
-Vandbro: shows [8d Kd] (three of a kind, Eights)
-Vandbro collected 4052 from pot
-*** SUMMARY ***
-Total pot 4052 | Rake 0
-Board [8h 8c 7c 3h 6d]
-Seat 2: dimetruk (big blind) showed [Jh Td] and lost with a pair of Eights
-Seat 5: Vandbro (button) (small blind) showed [8d Kd] and won (4052) with three of a kind, Eights
-
-
-PokerStars Hand #226484828418: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:56:57 MSK [2021/05/05 12:56:57 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (4693 in chips)
-Seat 5: Vandbro (4307 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [Ts 3s]
-Vandbro: raises 120 to 240
-dimetruk: calls 120
-*** FLOP *** [2s 6s As]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: calls 120
-*** TURN *** [2s 6s As] [Jc]
-dimetruk: checks
-Vandbro: checks
-*** RIVER *** [2s 6s As Jc] [Th]
-dimetruk: bets 563
-Vandbro: calls 563
-*** SHOW DOWN ***
-dimetruk: shows [Ts 3s] (a flush, Ace high)
-Vandbro: mucks hand
-dimetruk collected 1876 from pot
-*** SUMMARY ***
-Total pot 1876 | Rake 0
-Board [2s 6s As Jc Th]
-Seat 2: dimetruk (big blind) showed [Ts 3s] and won (1876) with a flush, Ace high
-Seat 5: Vandbro (button) (small blind) mucked [9h Kc]
-
-
-PokerStars Hand #226484843891: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:57:39 MSK [2021/05/05 12:57:39 ET]
-Table '3187437334 1' 6-max Seat #2 is the button
-Seat 2: dimetruk (5631 in chips)
-Seat 5: Vandbro (3369 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-dimetruk: posts small blind 60
-Vandbro: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [4s 5c]
-dimetruk: raises 120 to 240
-Vandbro: calls 120
-*** FLOP *** [Ks Qh 7h]
-Vandbro: checks
-dimetruk: checks
-*** TURN *** [Ks Qh 7h] [Tc]
-Vandbro: checks
-dimetruk: checks
-*** RIVER *** [Ks Qh 7h Tc] [4c]
-Vandbro: checks
-dimetruk: checks
-*** SHOW DOWN ***
-Vandbro: shows [Jd 7d] (a pair of Sevens)
-dimetruk: mucks hand
-Vandbro collected 510 from pot
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [Ks Qh 7h Tc 4c]
-Seat 2: dimetruk (button) (small blind) mucked [4s 5c]
-Seat 5: Vandbro (big blind) showed [Jd 7d] and won (510) with a pair of Sevens
-
-
-PokerStars Hand #226484859594: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:58:21 MSK [2021/05/05 12:58:21 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5436 in chips)
-Seat 5: Vandbro (3564 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [9c Th]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [7s 4d Qd]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: folds
-Uncalled bet (120) returned to Vandbro
-Vandbro collected 270 from pot
-Vandbro: doesn't show hand
-*** SUMMARY ***
-Total pot 270 | Rake 0
-Board [7s 4d Qd]
-Seat 2: dimetruk (big blind) folded on the Flop
-Seat 5: Vandbro (button) (small blind) collected (270)
-
-
-PokerStars Hand #226484865470: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:58:37 MSK [2021/05/05 12:58:37 ET]
-Table '3187437334 1' 6-max Seat #2 is the button
-Seat 2: dimetruk (5301 in chips)
-Seat 5: Vandbro (3699 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-dimetruk: posts small blind 60
-Vandbro: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [7h 9d]
-dimetruk: raises 120 to 240
-Vandbro: calls 120
-*** FLOP *** [2h Qd 5d]
-Vandbro: checks
-dimetruk: checks
-*** TURN *** [2h Qd 5d] [Ts]
-Vandbro: checks
-dimetruk: checks
-*** RIVER *** [2h Qd 5d Ts] [3s]
-Vandbro: bets 336
-dimetruk: folds
-Uncalled bet (336) returned to Vandbro
-Vandbro collected 510 from pot
-Vandbro: doesn't show hand
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [2h Qd 5d Ts 3s]
-Seat 2: dimetruk (button) (small blind) folded on the River
-Seat 5: Vandbro (big blind) collected (510)
-
-
-PokerStars Hand #226484873842: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:59:00 MSK [2021/05/05 12:59:00 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5046 in chips)
-Seat 5: Vandbro (3954 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [7d 3d]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [Kh 6c Ac]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: folds
-Uncalled bet (120) returned to Vandbro
-Vandbro collected 270 from pot
-Vandbro: doesn't show hand
-*** SUMMARY ***
-Total pot 270 | Rake 0
-Board [Kh 6c Ac]
-Seat 2: dimetruk (big blind) folded on the Flop
-Seat 5: Vandbro (button) (small blind) collected (270)
-
-
-PokerStars Hand #226484880852: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:59:19 MSK [2021/05/05 12:59:19 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (4836 in chips)
-Seat 5: Vandbro (4164 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [5c 9h]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [Qs 2d 9c]
-dimetruk: checks
-Vandbro: checks
-*** TURN *** [Qs 2d 9c] [4c]
-dimetruk: bets 120
-Vandbro: calls 120
-*** RIVER *** [Qs 2d 9c 4c] [7s]
-dimetruk: checks
-Vandbro: checks
-*** SHOW DOWN ***
-dimetruk: shows [5c 9h] (a pair of Nines)
-Vandbro: mucks hand
-dimetruk collected 510 from pot
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [Qs 2d 9c 4c 7s]
-Seat 2: dimetruk (big blind) showed [5c 9h] and won (510) with a pair of Nines
-Seat 5: Vandbro (button) (small blind) mucked [6d Ad]
-
-
-PokerStars Hand #226484890655: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:59:45 MSK [2021/05/05 12:59:45 ET]
-Table '3187437334 1' 6-max Seat #2 is the button
-Seat 2: dimetruk (5091 in chips)
-Seat 5: Vandbro (3909 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-dimetruk: posts small blind 60
-Vandbro: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [Jd 8s]
-dimetruk: raises 120 to 240
-Vandbro: calls 120
-*** FLOP *** [4h 2c Jc]
-Vandbro: checks
-dimetruk: bets 230
-Vandbro: folds
-Uncalled bet (230) returned to dimetruk
-dimetruk collected 510 from pot
-dimetruk: doesn't show hand
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [4h 2c Jc]
-Seat 2: dimetruk (button) (small blind) collected (510)
-Seat 5: Vandbro (big blind) folded on the Flop
-
-
-PokerStars Hand #226484895329: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 19:59:58 MSK [2021/05/05 12:59:58 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5346 in chips)
-Seat 5: Vandbro (3654 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [8d Jh]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [Kc 7h Js]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: calls 120
-*** TURN *** [Kc 7h Js] [Td]
-dimetruk: checks
-Vandbro: bets 336
-dimetruk: calls 336
-*** RIVER *** [Kc 7h Js Td] [Jc]
-dimetruk: checks
-Vandbro: checks
-*** SHOW DOWN ***
-dimetruk: shows [8d Jh] (three of a kind, Jacks)
-Vandbro: mucks hand
-dimetruk collected 1182 from pot
-*** SUMMARY ***
-Total pot 1182 | Rake 0
-Board [Kc 7h Js Td Jc]
-Seat 2: dimetruk (big blind) showed [8d Jh] and won (1182) with three of a kind, Jacks
-Seat 5: Vandbro (button) (small blind) mucked [6c Kh]
-
-
-PokerStars Hand #226484909241: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:00:34 MSK [2021/05/05 13:00:34 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5862 in chips)
-Seat 5: Vandbro (3138 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [5s 9d]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [7s Jd Td]
-dimetruk: checks
-Vandbro: checks
-*** TURN *** [7s Jd Td] [Js]
-dimetruk: checks
-Vandbro: checks
-*** RIVER *** [7s Jd Td Js] [4c]
-dimetruk: checks
-Vandbro: checks
-*** SHOW DOWN ***
-dimetruk: shows [5s 9d] (a pair of Jacks)
-Vandbro: shows [5h Kc] (a pair of Jacks - King kicker)
-Vandbro collected 270 from pot
-*** SUMMARY ***
-Total pot 270 | Rake 0
-Board [7s Jd Td Js 4c]
-Seat 2: dimetruk (big blind) showed [5s 9d] and lost with a pair of Jacks
-Seat 5: Vandbro (button) (small blind) showed [5h Kc] and won (270) with a pair of Jacks
-
-
-PokerStars Hand #226484934392: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:01:14 MSK [2021/05/05 13:01:14 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5652 in chips)
-Seat 5: Vandbro (3348 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [5h Ad]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [3c Ts Js]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: folds
-Uncalled bet (120) returned to Vandbro
-Vandbro collected 270 from pot
-Vandbro: doesn't show hand
-*** SUMMARY ***
-Total pot 270 | Rake 0
-Board [3c Ts Js]
-Seat 2: dimetruk (big blind) folded on the Flop
-Seat 5: Vandbro (button) (small blind) collected (270)
-
-
-PokerStars Hand #226484940242: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:01:27 MSK [2021/05/05 13:01:27 ET]
-Table '3187437334 1' 6-max Seat #2 is the button
-Seat 2: dimetruk (5517 in chips)
-Seat 5: Vandbro (3483 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-dimetruk: posts small blind 60
-Vandbro: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [Jc Th]
-dimetruk: raises 120 to 240
-Vandbro: calls 120
-*** FLOP *** [Ah Js 9c]
-Vandbro: checks
-dimetruk: checks
-*** TURN *** [Ah Js 9c] [8h]
-Vandbro: checks
-dimetruk: bets 230
-Vandbro: folds
-Uncalled bet (230) returned to dimetruk
-dimetruk collected 510 from pot
-dimetruk: doesn't show hand
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [Ah Js 9c 8h]
-Seat 2: dimetruk (button) (small blind) collected (510)
-Seat 5: Vandbro (big blind) folded on the Turn
-
-
-PokerStars Hand #226484948309: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:01:44 MSK [2021/05/05 13:01:44 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5772 in chips)
-Seat 5: Vandbro (3228 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [7s Qc]
-Vandbro: calls 60
-dimetruk: checks
-*** FLOP *** [5s Js 8d]
-dimetruk: checks
-Vandbro: checks
-*** TURN *** [5s Js 8d] [Td]
-dimetruk: bets 120
-Vandbro: raises 286 to 406
-dimetruk: folds
-Uncalled bet (286) returned to Vandbro
-Vandbro collected 510 from pot
-Vandbro: doesn't show hand
-*** SUMMARY ***
-Total pot 510 | Rake 0
-Board [5s Js 8d Td]
-Seat 2: dimetruk (big blind) folded on the Turn
-Seat 5: Vandbro (button) (small blind) collected (510)
-
-
-PokerStars Hand #226484965683: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:02:22 MSK [2021/05/05 13:02:22 ET]
-Table '3187437334 1' 6-max Seat #5 is the button
-Seat 2: dimetruk (5442 in chips)
-Seat 5: Vandbro (3558 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-Vandbro: posts small blind 60
-dimetruk: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [Ac 3h]
-Vandbro: raises 120 to 240
-dimetruk: calls 120
-*** FLOP *** [As Ks 4s]
-dimetruk: checks
-Vandbro: bets 120
-dimetruk: calls 120
-*** TURN *** [As Ks 4s] [4d]
-dimetruk: checks
-Vandbro: checks
-*** RIVER *** [As Ks 4s 4d] [9s]
-dimetruk: checks
-Vandbro: checks
-*** SHOW DOWN ***
-dimetruk: shows [Ac 3h] (two pair, Aces and Fours)
-Vandbro: mucks hand
-dimetruk collected 750 from pot
-*** SUMMARY ***
-Total pot 750 | Rake 0
-Board [As Ks 4s 4d 9s]
-Seat 2: dimetruk (big blind) showed [Ac 3h] and won (750) with two pair, Aces and Fours
-Seat 5: Vandbro (button) (small blind) mucked [8h Kd]
-
-
-PokerStars Hand #226484984579: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:03:01 MSK [2021/05/05 13:03:01 ET]
-Table '3187437334 1' 6-max Seat #2 is the button
-Seat 2: dimetruk (5817 in chips)
-Seat 5: Vandbro (3183 in chips)
-dimetruk: posts the ante 15
-Vandbro: posts the ante 15
-dimetruk: posts small blind 60
-Vandbro: posts big blind 120
-*** HOLE CARDS ***
-Dealt to dimetruk [4s Ts]
-dimetruk: raises 120 to 240
-Vandbro: calls 120
-*** FLOP *** [4c Qc 3h]
-Vandbro: checks
-dimetruk: bets 230
-Vandbro: calls 230
-*** TURN *** [4c Qc 3h] [3c]
-Vandbro: bets 388
-dimetruk: calls 388
-*** RIVER *** [4c Qc 3h 3c] [9s]
-Vandbro: checks
-dimetruk: checks
-*** SHOW DOWN ***
-Vandbro: shows [7d 4d] (two pair, Fours and Threes)
-dimetruk: shows [4s Ts] (two pair, Fours and Threes)
-Vandbro collected 873 from pot
-dimetruk collected 873 from pot
-*** SUMMARY ***
-Total pot 1746 | Rake 0
-Board [4c Qc 3h 3c 9s]
-Seat 2: dimetruk (button) (small blind) showed [4s Ts] and won (873) with two pair, Fours and Threes
-Seat 5: Vandbro (big blind) showed [7d 4d] and won (873) with two pair, Fours and Threes
-
 
 PokerStars Hand #226485011750: Tournament #3187437334, $13.79+$1.21 USD Hold'em No Limit - Level V (60/120) - 2021/05/05 20:03:57 MSK [2021/05/05 13:03:57 ET]
 Table '3187437334 1' 6-max Seat #5 is the button
@@ -1109,7 +655,7 @@ nararocha: folds
 nararocha is sitting out
 dimetruk: calls 50
 *** FLOP *** [Kd Ad 8h]
-nararocha has returned
+
 dimetruk: checks
 dclucasPS: checks
 *** TURN *** [Kd Ad 8h] [Th]
@@ -1122,7 +668,7 @@ dclucasPS: checks
 dimetruk: shows [Qd 7c] (a pair of Eights)
 dclucasPS: shows [Jd Kc] (two pair, Kings and Eights)
 dclucasPS collected 443 from pot
-WestwoodMuff has returned
+
 *** SUMMARY ***
 Total pot 443 | Rake 0
 Board [Kd Ad 8h Th 8c]
@@ -2673,7 +2219,7 @@ kutraDima: checks
 dimetruk: bets 64
 Niekuhh: calls 64
 masterpatje0521: folds
-Kein heraus. has returned
+
 kutraDima: calls 64
 *** RIVER *** [7d 3s Kc Jh] [2d]
 dimetruk: bets 232
@@ -3244,7 +2790,7 @@ kutraDima collected 1026 from side pot
 pokerpro019: shows [9s Ah] (three of a kind, Nines)
 pokerpro019 collected 708 from main pot
 *** SUMMARY ***
-Total pot 1734 Main pot 708. Side pot 1026. | Rake 0
+Total pot 1734 | Rake 0
 Board [9c 8c 4d 9d 5d]
 Seat 1: kutraDima (big blind) showed [Jd Tc] and won (1026) with a pair of Nines
 Seat 3: dimetruk folded on the River
@@ -5917,7 +5463,7 @@ dimetruk: calls 20
 dimetruk: checks
 jmc995: bets 60
 599alex: calls 60
-TaiyaL has returned
+
 dimetruk: folds
 *** TURN *** [6h 7c 8c] [6s]
 jmc995: checks
@@ -10792,7 +10338,7 @@ Gimbel 2: calls 50
 *** FLOP *** [8d 2d Kd]
 Gimbel 2: checks
 Strannaya: checks
-jwebow has returned
+
 dimetruk: bets 88
 Gimbel 2: calls 88
 Strannaya: folds
@@ -11708,7 +11254,7 @@ Strannaya collected 422 from side pot
 dimetruk: shows [Tc Ts] (a full house, Tens full of Jacks)
 dimetruk collected 3026 from main pot
 *** SUMMARY ***
-Total pot 3448 Main pot 3026. Side pot 422. | Rake 0
+Total pot 3448 | Rake 0
 Board [Jc Jd Qd Kc Td]
 Seat 3: Gimbel 2 showed [8h 8s] and lost with two pair, Jacks and Eights
 Seat 4: Strannaya showed [9c 9d] and won (422) with a straight, Nine to King
@@ -14547,7 +14093,7 @@ DaMaLaNa: shows [Kc Ad] (two pair, Aces and Kings)
 Pricewise500 collected 147 from main pot
 DaMaLaNa finished the tournament in 4th place
 *** SUMMARY ***
-Total pot 967 Main pot 147. Side pot 820. | Rake 0
+Total pot 967 | Rake 0
 Board [Kd 7d 2c Ah 7s]
 Seat 3: Pricewise500 (small blind) showed [7h Ac] and won (967) with a full house, Sevens full of Aces
 Seat 4: DaMaLaNa (big blind) showed [Kc Ad] and lost with two pair, Aces and Kings
@@ -17023,7 +16569,7 @@ looser3000: posts big blind 160
 *** HOLE CARDS ***
 Dealt to dimetruk [6h Kh]
 terr888: folds
-terr888 has returned
+
 maggie magootze: folds
 dimetruk: raises 160 to 320
 looser3000: calls 160
@@ -18571,7 +18117,7 @@ nsasak: mucks hand
 Vandbro collected 1465 from main pot
 nsasak finished the tournament in 7th place
 *** SUMMARY ***
-Total pot 3397 Main pot 1465. Side pot 1932. | Rake 0
+Total pot 3397 | Rake 0
 Board [Jc Qs Kc Ts 6c]
 Seat 2: MinesALager (button) folded on the Flop
 Seat 3: Vandbro (small blind) showed [Tc Qc] and won (3397) with a flush, King high
@@ -20673,7 +20219,7 @@ dimetruk collected 174 from side pot
 ArgentAgent: shows [3s 6c] (three of a kind, Sixes)
 ArgentAgent collected 138 from main pot
 *** SUMMARY ***
-Total pot 312 Main pot 138. Side pot 174. | Rake 0
+Total pot 312 | Rake 0
 Board [4d 6h 5c 6d 9s]
 Seat 1: dimetruk (button) showed [Ts As] and won (174) with a pair of Sixes
 Seat 2: gorillasalad (small blind) folded before Flop
@@ -20977,7 +20523,7 @@ Mas101G: shows [7s As] (a pair of Fives)
 10iz9 collected 3422 from main pot
 Mas101G finished the tournament in 8th place
 *** SUMMARY ***
-Total pot 3744 Main pot 3422. Side pot 322. | Rake 0
+Total pot 3744 | Rake 0
 Board [5d 4c 8d 5h Kh]
 Seat 2: 10iz9 showed [4h 4d] and won (3744) with a full house, Fours full of Fives
 Seat 3: karawondo folded on the Flop
@@ -21219,7 +20765,7 @@ dimetruk: shows [Jh Qc] (two pair, Queens and Jacks)
 dimetruk collected 2384 from main pot
 gnella13 finished the tournament in 6th place
 *** SUMMARY ***
-Total pot 2746 Main pot 2384. Side pot 362. | Rake 0
+Total pot 2746 | Rake 0
 Board [Kh Qs 9h Jd 4d]
 Seat 2: 10iz9 (big blind) folded before Flop
 Seat 4: IncrementX folded before Flop (didn't bet)
@@ -21796,7 +21342,7 @@ dimetruk collected 238 from side pot
 IncrementX: shows [7s 3h] (a full house, Sevens full of Threes)
 IncrementX collected 423 from main pot
 *** SUMMARY ***
-Total pot 661 Main pot 423. Side pot 238. | Rake 0
+Total pot 661 | Rake 0
 Board [7d Jh 7h 9d 3s]
 Seat 2: 10iz9 (small blind) showed [Ts 5c] and lost with a pair of Sevens
 Seat 4: IncrementX (big blind) showed [7s 3h] and won (423) with a full house, Sevens full of Threes
@@ -24405,7 +23951,7 @@ alex-021599: folds
 dimetruk: raises 30 to 60
 Blacker6a: calls 30
 *** FLOP *** [Qd Jh 2d]
-ninjapolarcamel has returned
+
 dimetruk: bets 50
 Blacker6a: folds
 Uncalled bet (50) returned to dimetruk
@@ -25483,7 +25029,7 @@ thanksdk: folds
 thanksdk is sitting out
 ScousePro: folds
 AKsEffekt: folds
-thanksdk has returned
+
 JourneyWell: calls 50
 dimetruk: raises 100 to 150
 FANTO812: folds
@@ -25891,10 +25437,9 @@ RaulG777: folds
 10iz9: folds
 RedRafflesia: folds
 bever664: folds
-Boon501 has timed out
+
 Boon501: folds
-Boon501 is sitting out
-Boon501 has returned
+
 Auge72: raises 30 to 60
 dimetruk: calls 30
 *** FLOP *** [3d Ts Qs]
@@ -27138,7 +26683,7 @@ dimetruk: checks
 upsnixan: checks
 Trespuntos046: checks
 *** TURN *** [6s Qh Ts] [Kd]
-AKsEffekt has returned
+
 dimetruk: bets 59
 upsnixan: folds
 Trespuntos046: calls 59
@@ -27284,7 +26829,7 @@ AKsEffekt: folds
 upsnixan: folds
 Monk Gallas: folds
 Trespuntos046: folds
-Trespuntos046 has returned
+
 asuregohon: calls 30
 *** FLOP *** [4s Qh Jd]
 asuregohon: checks
@@ -27373,7 +26918,7 @@ Monk Gallas: posts small blind 15
 Trespuntos046: posts big blind 30
 *** HOLE CARDS ***
 Dealt to dimetruk [Ks Ac]
-Trespuntos046 has returned
+
 asuregohon: folds
 dimetruk: raises 30 to 60
 AKsEffekt: folds
@@ -29065,7 +28610,7 @@ CadMonkey82: posts big blind 300
 *** HOLE CARDS ***
 Dealt to dimetruk [3d Kc]
 Apfel2905: folds
-Apfel2905 has returned
+
 dimetruk: calls 150
 CadMonkey82: checks
 *** FLOP *** [Qc 2h 5c]
@@ -30567,7 +30112,7 @@ jeka080685: shows [Qd Ks] (a full house, Queens full of Kings)
 jeka080685 collected 2067 from main pot
 dimetruk finished the tournament in 10th place
 *** SUMMARY ***
-Total pot 3007 Main pot 2067. Side pot 940. | Rake 0
+Total pot 3007 | Rake 0
 Board [Kc Qh Qc Th 7d]
 Seat 2: vacwiz folded before Flop (didn't bet)
 Seat 3: kenazx18 (button) showed [Td As] and won (940) with two pair, Queens and Tens
@@ -30756,7 +30301,7 @@ dimetruk: calls 36
 *** FLOP *** [5d 6d Jh]
 dimetruk: checks
 mishanya_pim: bets 51
-mt99808 has returned
+
 dimetruk: raises 129 to 180
 mishanya_pim: calls 129
 *** TURN *** [5d 6d Jh] [6s]
@@ -30811,7 +30356,7 @@ dimetruk: calls 29
 dimetruk: checks
 maxats24: checks
 1jims2: checks
-LfcTrev is disconnected
+
 terem22: checks
 *** TURN *** [4d 4h 6h] [9d]
 dimetruk: bets 140
@@ -30819,7 +30364,7 @@ maxats24: folds
 1jims2: calls 140
 terem22: calls 140
 *** RIVER *** [4d 4h 6h 9d] [Kd]
-LfcTrev has returned
+
 dimetruk: checks
 1jims2: checks
 terem22: checks
@@ -31354,7 +30899,7 @@ Kommersant K: calls 40
 dimetruk: checks
 *** FLOP *** [6h Js 8s]
 Kommersant K: bets 140
-LfcTrev has returned
+
 dimetruk: folds
 1jims2: folds
 Uncalled bet (140) returned to Kommersant K
@@ -32487,7 +32032,7 @@ Hung69Solo: posts small blind 40
 dimetruk: posts big blind 80
 *** HOLE CARDS ***
 Dealt to dimetruk [5h Qd]
-Hung69Solo has returned
+
 fonshemis: folds
 afalefex: folds
 So_Nice LC: folds
@@ -32674,7 +32219,7 @@ Hung69Solo: folds
 Hung69Solo is sitting out
 dimetruk: raises 80 to 160
 fonshemis: folds
-Hung69Solo has returned
+
 afalefex: folds
 So_Nice LC: raises 379 to 539 and is all-in
 invisible271: folds
@@ -32759,7 +32304,7 @@ dimetruk: posts big blind 120
 *** HOLE CARDS ***
 Dealt to dimetruk [6c 6s]
 fonshemis: folds
-Hung69Solo has returned
+
 afalefex: raises 120 to 240
 So_Nice LC: folds
 invisible271: folds
@@ -33140,7 +32685,7 @@ HardRusskij: posts small blind 10
 Magmus80: posts big blind 20
 *** HOLE CARDS ***
 Dealt to dimetruk [Ts Td]
-Magmus80 has returned
+
 berlin1888: calls 20
 dimetruk: raises 40 to 60
 Ironduke41: folds
@@ -35945,7 +35490,7 @@ terr888 has timed out
 terr888: folds
 terr888 is sitting out
 invisible271: raises 80 to 160
-terr888 has returned
+
 gnella13: folds
 Luke141269: folds
 dimetruk: calls 80
@@ -35991,7 +35536,7 @@ terr888 is sitting out
 invisible271: folds
 gnella13: raises 80 to 160
 Luke141269: folds
-terr888 has returned
+
 dimetruk: calls 120
 Toallin_eze: calls 80
 *** FLOP *** [Qh Kh 2s]
@@ -36212,7 +35757,7 @@ terr888 has timed out
 terr888: folds
 terr888 is sitting out
 invisible271: folds
-terr888 has returned
+
 gnella13: calls 360
 Luke141269: folds
 dimetruk: calls 240
@@ -36521,7 +36066,7 @@ dimetruk collected 548 from side pot
 Luke141269: shows [Tc 8s] (a pair of Eights)
 Luke141269 collected 203 from main pot
 *** SUMMARY ***
-Total pot 751 Main pot 203. Side pot 548. | Rake 0
+Total pot 751 | Rake 0
 Board [3h Qc 8c 4s 2d]
 Seat 2: Luke141269 (button) showed [Tc 8s] and won (203) with a pair of Eights
 Seat 4: dimetruk (small blind) showed [9s 3d] and won (548) with a pair of Threes
@@ -36603,7 +36148,7 @@ invisible271: shows [6d 4d] (two pair, Aces and Sixes)
 dimetruk collected 980 from main pot
 invisible271 finished the tournament in 5th place
 *** SUMMARY ***
-Total pot 1010 Main pot 980. Side pot 30. | Rake 0
+Total pot 1010 | Rake 0
 Board [8c 6h Ac Kc Ah]
 Seat 2: Luke141269 (button) folded before Flop (didn't bet)
 Seat 4: dimetruk (small blind) showed [Ad 4c] and won (1010) with three of a kind, Aces
@@ -37823,7 +37368,7 @@ rabbahiff: shows [5d 6c] (two pair, Sixes and Fives)
 dimetruk collected 384 from main pot
 rabbahiff finished the tournament in 8th place
 *** SUMMARY ***
-Total pot 652 Main pot 384. Side pot 268. | Rake 0
+Total pot 652 | Rake 0
 Board [5h Ac Qc Js 6d]
 Seat 1: ABBYYjunior folded before Flop (didn't bet)
 Seat 2: sas_2016335 folded before Flop (didn't bet)
@@ -38356,7 +37901,7 @@ And_Camargo: folds
 Damianp12452: folds
 Balamyt_82: folds
 demon199548: calls 10
-AAhobbit has returned
+
 dimetruk: checks
 *** FLOP *** [Jh 7h 3c]
 demon199548: checks
@@ -41064,7 +40609,6 @@ Seat 3: mishanya_pim folded before Flop (didn't bet)
 Seat 4: crazyrob87 (button) folded before Flop (didn't bet)
 Seat 6: dimetruk (small blind) collected (276)
 
-
 PokerStars Hand #228816502665: Tournament #3242858326, $27.58+$2.42 USD Hold'em No Limit - Level II (15/30) - 2021/08/05 1:18:51 MSK [2021/08/04 18:18:51 ET]
 Table '3242858326 1' 6-max Seat #3 is the button
 Seat 1: MirrowCall (1294 in chips)
@@ -41186,5 +40730,6 @@ Seat 2: julinhobrazu showed [Td Ad] and won (1440) with a flush, Ace high
 Seat 3: mishanya_pim folded before Flop (didn't bet)
 Seat 4: crazyrob87 (button) folded before Flop (didn't bet)
 Seat 6: dimetruk (small blind) showed [Tc Th] and lost with a pair of Tens
+
 
 

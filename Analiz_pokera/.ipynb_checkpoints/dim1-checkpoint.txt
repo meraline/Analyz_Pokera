@@ -1,29 +1,39 @@
-PokerStars Hand #228182836411: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:46:28 MSK [2021/07/10 1:46:28 ET]
-Table '3227430197 1' 9-max Seat #4 is the button
-Seat 2: Luke141269 (3608 in chips)
-Seat 4: dimetruk (2175 in chips)
-Seat 9: gnella13 (7717 in chips)
+PokerStars Hand #228182845929: Tournament #3227430197, $13.70+$1.30 USD Hold'em No Limit - Level IX (200/400) - 2021/07/10 8:47:30 MSK [2021/07/10 1:47:30 ET]
+Table '3227430197 1' 9-max Seat #9 is the button
+Seat 2: Luke141269 (2508 in chips)
+Seat 4: dimetruk (2762 in chips)
+Seat 9: gnella13 (8230 in chips)
 Luke141269: posts the ante 25
 dimetruk: posts the ante 25
 gnella13: posts the ante 25
-gnella13: posts small blind 200
-Luke141269: posts big blind 400
+Luke141269: posts small blind 200
+dimetruk: posts big blind 400
 *** HOLE CARDS ***
-Dealt to dimetruk [7h 7s]
-dimetruk: raises 1750 to 2150 and is all-in
-gnella13: raises 5542 to 7692 and is all-in
-Luke141269: folds
-Uncalled bet (5542) returned to gnella13
-*** FLOP *** [5h 2h Kc]
-*** TURN *** [5h 2h Kc] [3h]
-*** RIVER *** [5h 2h Kc 3h] [5c]
+Dealt to dimetruk [5c 5s]
+gnella13: folds
+Luke141269: raises 2083 to 2483
+dimetruk: calls 2083
+dclucasPS: raises 20 to 40
+RaulG777: folds
+Latrell1988: calls 30
+dimetruk: calls 20
+dimetruk: calls 29 and is all-in
+*** FLOP *** [Td Kh Th]
+demon199548: checks
+dimetruk: bets 30
+demon199548: raises 60 to 90
+dimetruk: calls 60
+dimetruk: raises 1409 to 1514 and is all-in
+jaguardoodlez: calls 1059 and is all-in
+*** TURN *** [Td Kh Th] [2c]
+*** RIVER *** [Td Kh Th 2c] [Ad]
 *** SHOW DOWN ***
-gnella13: shows [Js Ah] (a pair of Fives)
-dimetruk: shows [7h 7s] (two pair, Sevens and Fives)
-dimetruk collected 4775 from pot
+Luke141269: shows [Tc 8s] (three of a kind, Tens)
+dimetruk: shows [5c 5s] (two pair, Tens and Fives)
+Luke141269 collected 5041 from pot
 *** SUMMARY ***
-Total pot 4775 | Rake 0
-Board [5h 2h Kc 3h 5c]
-Seat 2: Luke141269 (big blind) folded before Flop
-Seat 4: dimetruk (button) showed [7h 7s] and won (4775) with two pair, Sevens and Fives
-Seat 9: gnella13 (small blind) showed [Js Ah] and lost with a pair of Fives
+Total pot 5041 | Rake 0
+Board [Td Kh Th 2c Ad]
+Seat 2: Luke141269 (small blind) showed [Tc 8s] and won (5041) with three of a kind, Tens
+Seat 4: dimetruk (big blind) showed [5c 5s] and lost with two pair, Tens and Fives
+Seat 9: gnella13 (button) folded before Flop (didn't bet)

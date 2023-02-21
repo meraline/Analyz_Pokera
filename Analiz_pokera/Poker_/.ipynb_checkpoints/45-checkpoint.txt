@@ -1,0 +1,288 @@
+PokerStars Hand #124969725497: Tournament #1015297355, $3.00+$0.30 USD Hold'em No Limit - Level II (25/50) - 2014/11/12 19:44:37 MSK [2014/11/12 11:44:37 ET]
+Table '1015297355 197' 9-max Seat #4 is the button
+Seat 1: MKdiakon (19875 in chips)
+Seat 2: dimetruk (24785 in chips)
+Seat 3: MiziMiziMizi (10000 in chips)
+Seat 4: flavioudia (10000 in chips)
+Seat 5: OP_4001 (45325 in chips)
+Seat 6: czuczu1 (10000 in chips)
+Seat 7: Chitah1942 (4880 in chips)
+Seat 8: dr.love.k (40220 in chips)
+Seat 9: dezho (9855 in chips)
+OP_4001: posts small blind 25
+czuczu1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [9c 9s]
+Chitah1942: folds
+dr.love.k: folds
+dezho: folds
+MKdiakon: calls 50
+dimetruk: raises 100 to 150
+MiziMiziMizi: calls 150
+flavioudia: calls 150
+OP_4001: folds
+czuczu1 is disconnected
+czuczu1 has timed out while disconnected
+czuczu1: folds
+czuczu1 is sitting out
+MKdiakon: calls 100
+*** FLOP *** [Jh 9d Jd]
+MKdiakon: checks
+dimetruk: bets 250
+MiziMiziMizi: folds
+flavioudia: folds
+MKdiakon: raises 250 to 500
+dimetruk: calls 250
+*** TURN *** [Jh 9d Jd] [Kd]
+MKdiakon: checks
+czuczu1 has returned
+dimetruk: bets 900
+MKdiakon: calls 900
+*** RIVER *** [Jh 9d Jd Kd] [7d]
+MKdiakon: checks
+dimetruk: bets 3450
+MKdiakon: raises 10375 to 13825
+dimetruk: raises 9410 to 23235 and is all-in
+MKdiakon: calls 4500 and is all-in
+Uncalled bet (4910) returned to dimetruk
+*** SHOW DOWN ***
+dimetruk: shows [9c 9s] (a full house, Nines full of Jacks)
+MKdiakon: shows [Jc Kh] (a full house, Jacks full of Kings)
+MKdiakon collected 40125 from pot
+*** SUMMARY ***
+Total pot 40125 | Rake 0
+Board [Jh 9d Jd Kd 7d]
+Seat 1: MKdiakon showed [Jc Kh] and won (40125) with a full house, Jacks full of Kings
+Seat 2: dimetruk showed [9c 9s] and lost with a full house, Nines full of Jacks
+Seat 3: MiziMiziMizi folded on the Flop
+Seat 4: flavioudia (button) folded on the Flop
+Seat 5: OP_4001 (small blind) folded before Flop
+Seat 6: czuczu1 (big blind) folded before Flop
+Seat 7: Chitah1942 folded before Flop (didn't bet)
+Seat 8: dr.love.k folded before Flop (didn't bet)
+Seat 9: dezho folded before Flop (didn't bet)
+
+
+PokerStars Hand #124969865300: Tournament #1015297355, $3.00+$0.30 USD Hold'em No Limit - Level II (25/50) - 2014/11/12 19:47:03 MSK [2014/11/12 11:47:03 ET]
+Table '1015297355 197' 9-max Seat #5 is the button
+Seat 1: MKdiakon (40125 in chips)
+Seat 2: dimetruk (4910 in chips)
+Seat 3: MiziMiziMizi (9850 in chips)
+Seat 4: flavioudia (9850 in chips)
+Seat 5: OP_4001 (45300 in chips)
+Seat 6: czuczu1 (9950 in chips)
+Seat 7: Chitah1942 (4880 in chips)
+Seat 8: dr.love.k (40220 in chips)
+Seat 9: dezho (9855 in chips)
+czuczu1: posts small blind 25
+Chitah1942: posts big blind 50
+*** HOLE CARDS ***
+Dealt to dimetruk [As Ac]
+dimetruk re-buys and receives 5000 chips for $3.00
+dr.love.k: folds
+dezho: folds
+MKdiakon: folds
+dimetruk: raises 100 to 150
+MiziMiziMizi: calls 150
+flavioudia: calls 150
+OP_4001: calls 150
+czuczu1: calls 125
+Chitah1942: calls 100
+*** FLOP *** [7s 5h 4d]
+czuczu1: checks
+Chitah1942: checks
+dimetruk: bets 500
+MiziMiziMizi: calls 500
+flavioudia: calls 500
+OP_4001: folds
+czuczu1: calls 500
+Chitah1942: folds
+*** TURN *** [7s 5h 4d] [4s]
+czuczu1: checks
+dimetruk: bets 1750
+MiziMiziMizi: calls 1750
+flavioudia: calls 1750
+czuczu1: raises 7550 to 9300 and is all-in
+dimetruk: calls 2510 and is all-in
+MiziMiziMizi: calls 7450 and is all-in
+flavioudia: calls 7450 and is all-in
+Uncalled bet (100) returned to czuczu1
+*** RIVER *** [7s 5h 4d 4s] [9d]
+*** SHOW DOWN ***
+czuczu1: shows [6c 4c] (three of a kind, Fours)
+MiziMiziMizi: shows [3d 6d] (a straight, Three to Seven)
+flavioudia: shows [8h 7h] (two pair, Sevens and Fours)
+MiziMiziMizi collected 14820 from side pot
+dimetruk: shows [As Ac] (two pair, Aces and Fours)
+MiziMiziMizi collected 19940 from main pot
+flavioudia re-buys and receives 5000 chips for $3.00
+*** SUMMARY ***
+Total pot 34760 Main pot 19940. Side pot 14820. | Rake 0
+Board [7s 5h 4d 4s 9d]
+Seat 1: MKdiakon folded before Flop (didn't bet)
+Seat 2: dimetruk showed [As Ac] and lost with two pair, Aces and Fours
+Seat 3: MiziMiziMizi showed [3d 6d] and won (34760) with a straight, Three to Seven
+Seat 4: flavioudia showed [8h 7h] and lost with two pair, Sevens and Fours
+Seat 5: OP_4001 (button) folded on the Flop
+Seat 6: czuczu1 (small blind) showed [6c 4c] and lost with three of a kind, Fours
+Seat 7: Chitah1942 (big blind) folded on the Flop
+Seat 8: dr.love.k folded before Flop (didn't bet)
+Seat 9: dezho folded before Flop (didn't bet)
+
+
+PokerStars Hand #125046987133: Tournament #1015297403, $4.00+$4.00+$0.80 USD Hold'em No Limit - Level XXIV (1500/3000) - 2014/11/14 0:09:47 MSK [2014/11/13 16:09:47 ET]
+Table '1015297403 915' 9-max Seat #8 is the button
+Seat 1: king_of_p8 (194548 in chips)
+Seat 2: dimetruk (55639 in chips)
+Seat 3: papio86 (94077 in chips)
+Seat 4: Regnak23 (78539 in chips)
+Seat 5: Cheeeesy (121200 in chips)
+Seat 6: BöserStuhl (97253 in chips)
+Seat 7: iirrr (74398 in chips)
+Seat 8: FuzzyWuzzy91 (41848 in chips)
+Seat 9: Gotkovsky (62617 in chips)
+king_of_p8: posts the ante 375
+dimetruk: posts the ante 375
+papio86: posts the ante 375
+Regnak23: posts the ante 375
+Cheeeesy: posts the ante 375
+BöserStuhl: posts the ante 375
+iirrr: posts the ante 375
+FuzzyWuzzy91: posts the ante 375
+Gotkovsky: posts the ante 375
+Gotkovsky: posts small blind 1500
+king_of_p8: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to dimetruk [As Js]
+dimetruk: raises 3570 to 6570
+papio86: folds
+Regnak23: folds
+Cheeeesy: folds
+BöserStuhl: folds
+iirrr: folds
+FuzzyWuzzy91: raises 34903 to 41473 and is all-in
+Gotkovsky: folds
+king_of_p8: folds
+dimetruk: calls 34903
+*** FLOP *** [5h Ah 2s]
+*** TURN *** [5h Ah 2s] [Ks]
+*** RIVER *** [5h Ah 2s Ks] [9s]
+*** SHOW DOWN ***
+dimetruk: shows [As Js] (a flush, Ace high)
+FuzzyWuzzy91: shows [3c 3d] (a pair of Threes)
+dimetruk collected 90821 from pot
+dimetruk wins $10.38 for eliminating FuzzyWuzzy91 and their own bounty increases by $10.37 to $35.62
+FuzzyWuzzy91 finished the tournament in 510th place and received $22.57.
+*** SUMMARY ***
+Total pot 90821 | Rake 0
+Board [5h Ah 2s Ks 9s]
+Seat 1: king_of_p8 (big blind) folded before Flop
+Seat 2: dimetruk showed [As Js] and won (90821) with a flush, Ace high
+Seat 3: papio86 folded before Flop (didn't bet)
+Seat 4: Regnak23 folded before Flop (didn't bet)
+Seat 5: Cheeeesy folded before Flop (didn't bet)
+Seat 6: BöserStuhl folded before Flop (didn't bet)
+Seat 7: iirrr folded before Flop (didn't bet)
+Seat 8: FuzzyWuzzy91 (button) showed [3c 3d] and lost with a pair of Threes
+Seat 9: Gotkovsky (small blind) folded before Flop
+
+
+PokerStars Hand #125047057081: Tournament #1015297403, $4.00+$4.00+$0.80 USD Hold'em No Limit - Level XXV (2000/4000) - 2014/11/14 0:10:45 MSK [2014/11/13 16:10:45 ET]
+Table '1015297403 915' 9-max Seat #9 is the button
+Seat 1: king_of_p8 (191173 in chips)
+Seat 2: dimetruk (104612 in chips)
+Seat 3: papio86 (93702 in chips)
+Seat 4: Regnak23 (78164 in chips)
+Seat 5: Cheeeesy (120825 in chips)
+Seat 6: BöserStuhl (96878 in chips)
+Seat 7: iirrr (74023 in chips)
+Seat 9: Gotkovsky (60742 in chips)
+king_of_p8: posts the ante 500
+dimetruk: posts the ante 500
+papio86: posts the ante 500
+Regnak23: posts the ante 500
+Cheeeesy: posts the ante 500
+BöserStuhl: posts the ante 500
+iirrr: posts the ante 500
+Gotkovsky: posts the ante 500
+king_of_p8: posts small blind 2000
+dimetruk: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to dimetruk [Jh Tc]
+papio86: folds
+Regnak23: folds
+Cheeeesy: folds
+BöserStuhl: raises 4000 to 8000
+iirrr: folds
+Gotkovsky: folds
+king_of_p8: folds
+dimetruk: calls 4000
+*** FLOP *** [5h 7s 2s]
+dimetruk: checks
+BöserStuhl: bets 8000
+dimetruk: folds
+Uncalled bet (8000) returned to BöserStuhl
+BöserStuhl collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | Rake 0
+Board [5h 7s 2s]
+Seat 1: king_of_p8 (small blind) folded before Flop
+Seat 2: dimetruk (big blind) folded on the Flop
+Seat 3: papio86 folded before Flop (didn't bet)
+Seat 4: Regnak23 folded before Flop (didn't bet)
+Seat 5: Cheeeesy folded before Flop (didn't bet)
+Seat 6: BöserStuhl collected (22000)
+Seat 7: iirrr folded before Flop (didn't bet)
+Seat 9: Gotkovsky (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #125047653055: Tournament #1015297403, $4.00+$4.00+$0.80 USD Hold'em No Limit - Level XXV (2000/4000) - 2014/11/14 0:19:00 MSK [2014/11/13 16:19:00 ET]
+Table '1015297403 915' 9-max Seat #9 is the button
+Seat 1: king_of_p8 (198218 in chips)
+Seat 2: dimetruk (90112 in chips)
+Seat 3: papio86 (107452 in chips)
+Seat 4: Regnak23 (114619 in chips)
+Seat 5: Cheeeesy (96575 in chips)
+Seat 6: BöserStuhl (139478 in chips)
+Seat 7: iirrr (47523 in chips)
+Seat 8: Frostok (69613 in chips)
+Seat 9: Gotkovsky (60742 in chips)
+king_of_p8: posts the ante 500
+dimetruk: posts the ante 500
+papio86: posts the ante 500
+Regnak23: posts the ante 500
+Cheeeesy: posts the ante 500
+BöserStuhl: posts the ante 500
+iirrr: posts the ante 500
+Frostok: posts the ante 500
+Gotkovsky: posts the ante 500
+king_of_p8: posts small blind 2000
+dimetruk: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to dimetruk [3s As]
+papio86: folds
+Regnak23: folds
+Cheeeesy: folds
+BöserStuhl: folds
+iirrr: folds
+Frostok: folds
+Gotkovsky: folds
+king_of_p8: raises 4000 to 8000
+dimetruk: calls 4000
+*** FLOP *** [7d 9h Jc]
+king_of_p8: bets 10250
+dimetruk: folds
+Uncalled bet (10250) returned to king_of_p8
+king_of_p8 collected 20500 from pot
+*** SUMMARY ***
+Total pot 20500 | Rake 0
+Board [7d 9h Jc]
+Seat 1: king_of_p8 (small blind) collected (20500)
+Seat 2: dimetruk (big blind) folded on the Flop
+Seat 3: papio86 folded before Flop (didn't bet)
+Seat 4: Regnak23 folded before Flop (didn't bet)
+Seat 5: Cheeeesy folded before Flop (didn't bet)
+Seat 6: BöserStuhl folded before Flop (didn't bet)
+Seat 7: iirrr folded before Flop (didn't bet)
+Seat 8: Frostok folded before Flop (didn't bet)
+Seat 9: Gotkovsky (button) folded before Flop (didn't bet)
